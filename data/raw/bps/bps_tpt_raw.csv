@@ -1,0 +1,305 @@
+indicator,kode_prov,provinsi_raw,variabel,satuan,turunan_var,tahun,periode,nilai_raw
+tpt,1100,ACEH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,5.88
+tpt,1100,ACEH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,5.7
+tpt,1200,SUMATERA UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,5.01
+tpt,1200,SUMATERA UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,5.22
+tpt,1300,SUMATERA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,5.51
+tpt,1300,SUMATERA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,5.57
+tpt,1400,RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,4.09
+tpt,1400,RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.12
+tpt,1500,JAMBI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.99
+tpt,1500,JAMBI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.26
+tpt,1600,SUMATERA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.59
+tpt,1600,SUMATERA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.45
+tpt,1700,BENGKULU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.23
+tpt,1700,BENGKULU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.4
+tpt,1800,LAMPUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.95
+tpt,1800,LAMPUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.01
+tpt,1900,KEP. BANGKA BELITUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,4.15
+tpt,1900,KEP. BANGKA BELITUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.4
+tpt,2100,KEP. RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,6.87
+tpt,2100,KEP. RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,6.37
+tpt,3100,DKI JAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,6.03
+tpt,3100,DKI JAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,5.75
+tpt,3200,JAWA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,6.64
+tpt,3200,JAWA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,6.67
+tpt,3300,JAWA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,4.24
+tpt,3300,JAWA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.65
+tpt,3400,DI YOGYAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.05
+tpt,3400,DI YOGYAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.33
+tpt,3500,JAWA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.55
+tpt,3500,JAWA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.6
+tpt,3600,BANTEN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,6.59
+tpt,3600,BANTEN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,6.61
+tpt,5100,BALI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,1.59
+tpt,5100,BALI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,1.42
+tpt,5200,NUSA TENGGARA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,2.99
+tpt,5200,NUSA TENGGARA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.03
+tpt,5300,NUSA TENGGARA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.16
+tpt,5300,NUSA TENGGARA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.42
+tpt,6100,KALIMANTAN BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,4.57
+tpt,6100,KALIMANTAN BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.87
+tpt,6200,KALIMANTAN TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.44
+tpt,6200,KALIMANTAN TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.01
+tpt,6300,KALIMANTAN SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.8
+tpt,6300,KALIMANTAN SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.04
+tpt,6400,KALIMANTAN TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,5.27
+tpt,6400,KALIMANTAN TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,5.23
+tpt,6500,KALIMANTAN UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.9
+tpt,6500,KALIMANTAN UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.79
+tpt,7100,SULAWESI UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,5.75
+tpt,7100,SULAWESI UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,5.9
+tpt,7200,SULAWESI TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,2.95
+tpt,7200,SULAWESI TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,2.94
+tpt,7300,SULAWESI SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,4.95
+tpt,7300,SULAWESI SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.23
+tpt,7400,SULAWESI TENGGARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.25
+tpt,7400,SULAWESI TENGGARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.52
+tpt,7500,GORONTALO,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.17
+tpt,7500,GORONTALO,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.61
+tpt,7600,SULAWESI BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,2.93
+tpt,7600,SULAWESI BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,2.93
+tpt,8100,MALUKU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,5.8
+tpt,8100,MALUKU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,6.23
+tpt,8200,MALUKU UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,4.46
+tpt,8200,MALUKU UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.57
+tpt,9100,PAPUA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,4.1
+tpt,9100,PAPUA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.29
+tpt,9200,PAPUA BARAT DAYA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,6.41
+tpt,9200,PAPUA BARAT DAYA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,6.56
+tpt,9400,PAPUA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,7.02
+tpt,9400,PAPUA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,7.12
+tpt,9500,PAPUA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,5.25
+tpt,9500,PAPUA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,5.17
+tpt,9600,PAPUA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,3.83
+tpt,9600,PAPUA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,3.87
+tpt,9700,PAPUA PEGUNUNGAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,1.7
+tpt,9700,PAPUA PEGUNUNGAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,1.83
+tpt,9999,INDONESIA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Februari,4.68
+tpt,9999,INDONESIA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2026,Agustus,4.75
+tpt,1100,ACEH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,5.5
+tpt,1100,ACEH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,5.64
+tpt,1200,SUMATERA UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,5.05
+tpt,1200,SUMATERA UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,5.32
+tpt,1300,SUMATERA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,5.69
+tpt,1300,SUMATERA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,5.62
+tpt,1400,RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.12
+tpt,1400,RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.16
+tpt,1500,JAMBI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.48
+tpt,1500,JAMBI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.26
+tpt,1600,SUMATERA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.89
+tpt,1600,SUMATERA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.69
+tpt,1700,BENGKULU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.24
+tpt,1700,BENGKULU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.41
+tpt,1800,LAMPUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.07
+tpt,1800,LAMPUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.21
+tpt,1900,KEP. BANGKA BELITUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.17
+tpt,1900,KEP. BANGKA BELITUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.45
+tpt,2100,KEP. RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,6.89
+tpt,2100,KEP. RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,6.45
+tpt,3100,DKI JAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,6.18
+tpt,3100,DKI JAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,6.05
+tpt,3200,JAWA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,6.74
+tpt,3200,JAWA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,6.77
+tpt,3300,JAWA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.33
+tpt,3300,JAWA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.66
+tpt,3400,DI YOGYAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.18
+tpt,3400,DI YOGYAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.46
+tpt,3500,JAWA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.61
+tpt,3500,JAWA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.88
+tpt,3600,BANTEN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,6.64
+tpt,3600,BANTEN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,6.69
+tpt,5100,BALI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,1.58
+tpt,5100,BALI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,1.49
+tpt,5200,NUSA TENGGARA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.22
+tpt,5200,NUSA TENGGARA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.06
+tpt,5300,NUSA TENGGARA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.23
+tpt,5300,NUSA TENGGARA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.31
+tpt,6100,KALIMANTAN BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.23
+tpt,6100,KALIMANTAN BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.82
+tpt,6200,KALIMANTAN TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.47
+tpt,6200,KALIMANTAN TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.97
+tpt,6300,KALIMANTAN SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.94
+tpt,6300,KALIMANTAN SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.16
+tpt,6400,KALIMANTAN TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,5.33
+tpt,6400,KALIMANTAN TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,5.18
+tpt,6500,KALIMANTAN UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.9
+tpt,6500,KALIMANTAN UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.85
+tpt,7100,SULAWESI UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,6.03
+tpt,7100,SULAWESI UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,5.99
+tpt,7200,SULAWESI TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.02
+tpt,7200,SULAWESI TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,2.92
+tpt,7300,SULAWESI SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.96
+tpt,7300,SULAWESI SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.21
+tpt,7400,SULAWESI TENGGARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.27
+tpt,7400,SULAWESI TENGGARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.31
+tpt,7500,GORONTALO,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.12
+tpt,7500,GORONTALO,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.42
+tpt,7600,SULAWESI BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.17
+tpt,7600,SULAWESI BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,2.86
+tpt,8100,MALUKU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,5.95
+tpt,8100,MALUKU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,6.27
+tpt,8200,MALUKU UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.26
+tpt,8200,MALUKU UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.55
+tpt,9100,PAPUA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.21
+tpt,9100,PAPUA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.55
+tpt,9200,PAPUA BARAT DAYA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,6.61
+tpt,9200,PAPUA BARAT DAYA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,6.85
+tpt,9400,PAPUA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,6.92
+tpt,9400,PAPUA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,6.96
+tpt,9500,PAPUA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.9
+tpt,9500,PAPUA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.04
+tpt,9600,PAPUA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,3.55
+tpt,9600,PAPUA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,3.62
+tpt,9700,PAPUA PEGUNUNGAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,1.68
+tpt,9700,PAPUA PEGUNUNGAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,1.68
+tpt,9999,INDONESIA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Februari,4.76
+tpt,9999,INDONESIA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2025,Agustus,4.85
+tpt,1100,ACEH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,5.56
+tpt,1100,ACEH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,5.75
+tpt,1200,SUMATERA UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,5.1
+tpt,1200,SUMATERA UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,5.6
+tpt,1300,SUMATERA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,5.79
+tpt,1300,SUMATERA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,5.75
+tpt,1400,RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.85
+tpt,1400,RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,3.7
+tpt,1500,JAMBI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.45
+tpt,1500,JAMBI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.48
+tpt,1600,SUMATERA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.97
+tpt,1600,SUMATERA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,3.86
+tpt,1700,BENGKULU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.17
+tpt,1700,BENGKULU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,3.11
+tpt,1800,LAMPUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.12
+tpt,1800,LAMPUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.19
+tpt,1900,KEP. BANGKA BELITUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.85
+tpt,1900,KEP. BANGKA BELITUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.63
+tpt,2100,KEP. RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,6.94
+tpt,2100,KEP. RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,6.39
+tpt,3100,DKI JAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,6.03
+tpt,3100,DKI JAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,6.21
+tpt,3200,JAWA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,6.91
+tpt,3200,JAWA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,6.75
+tpt,3300,JAWA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.39
+tpt,3300,JAWA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.78
+tpt,3400,DI YOGYAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.24
+tpt,3400,DI YOGYAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,3.48
+tpt,3500,JAWA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.74
+tpt,3500,JAWA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.19
+tpt,3600,BANTEN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,7.02
+tpt,3600,BANTEN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,6.68
+tpt,5100,BALI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,1.87
+tpt,5100,BALI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,1.79
+tpt,5200,NUSA TENGGARA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.3
+tpt,5200,NUSA TENGGARA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,2.73
+tpt,5300,NUSA TENGGARA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.17
+tpt,5300,NUSA TENGGARA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,3.02
+tpt,6100,KALIMANTAN BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.2
+tpt,6100,KALIMANTAN BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.86
+tpt,6200,KALIMANTAN TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.67
+tpt,6200,KALIMANTAN TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.01
+tpt,6300,KALIMANTAN SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.89
+tpt,6300,KALIMANTAN SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.2
+tpt,6400,KALIMANTAN TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,5.75
+tpt,6400,KALIMANTAN TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,5.14
+tpt,6500,KALIMANTAN UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.01
+tpt,6500,KALIMANTAN UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,3.9
+tpt,7100,SULAWESI UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,5.98
+tpt,7100,SULAWESI UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,5.85
+tpt,7200,SULAWESI TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.15
+tpt,7200,SULAWESI TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,2.94
+tpt,7300,SULAWESI SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.9
+tpt,7300,SULAWESI SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.19
+tpt,7400,SULAWESI TENGGARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.22
+tpt,7400,SULAWESI TENGGARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,3.09
+tpt,7500,GORONTALO,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.05
+tpt,7500,GORONTALO,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,3.13
+tpt,7600,SULAWESI BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,3.02
+tpt,7600,SULAWESI BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,2.68
+tpt,8100,MALUKU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,5.96
+tpt,8100,MALUKU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,6.11
+tpt,8200,MALUKU UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.16
+tpt,8200,MALUKU UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.03
+tpt,9100,PAPUA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.31
+tpt,9100,PAPUA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.13
+tpt,9200,PAPUA BARAT DAYA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,6.02
+tpt,9200,PAPUA BARAT DAYA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,6.48
+tpt,9400,PAPUA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,5.81
+tpt,9400,PAPUA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,6.48
+tpt,9500,PAPUA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.75
+tpt,9500,PAPUA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.05
+tpt,9600,PAPUA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,2.49
+tpt,9600,PAPUA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,2.75
+tpt,9700,PAPUA PEGUNUNGAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,1.18
+tpt,9700,PAPUA PEGUNUNGAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,1.32
+tpt,9999,INDONESIA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Februari,4.82
+tpt,9999,INDONESIA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2024,Agustus,4.91
+tpt,1100,ACEH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,5.75
+tpt,1100,ACEH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,6.03
+tpt,1200,SUMATERA UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,5.24
+tpt,1200,SUMATERA UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,5.89
+tpt,1300,SUMATERA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,5.9
+tpt,1300,SUMATERA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,5.94
+tpt,1400,RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,4.25
+tpt,1400,RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.23
+tpt,1500,JAMBI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,4.5
+tpt,1500,JAMBI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.53
+tpt,1600,SUMATERA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,4.53
+tpt,1600,SUMATERA SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.11
+tpt,1700,BENGKULU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.21
+tpt,1700,BENGKULU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,3.42
+tpt,1800,LAMPUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,4.18
+tpt,1800,LAMPUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.23
+tpt,1900,KEP. BANGKA BELITUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.89
+tpt,1900,KEP. BANGKA BELITUNG,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.56
+tpt,2100,KEP. RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,7.61
+tpt,2100,KEP. RIAU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,6.8
+tpt,3100,DKI JAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,7.57
+tpt,3100,DKI JAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,6.53
+tpt,3200,JAWA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,7.89
+tpt,3200,JAWA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,7.44
+tpt,3300,JAWA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,5.24
+tpt,3300,JAWA TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,5.13
+tpt,3400,DI YOGYAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.58
+tpt,3400,DI YOGYAKARTA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,3.69
+tpt,3500,JAWA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,4.33
+tpt,3500,JAWA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.88
+tpt,3600,BANTEN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,7.97
+tpt,3600,BANTEN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,7.52
+tpt,5100,BALI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.73
+tpt,5100,BALI,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,2.69
+tpt,5200,NUSA TENGGARA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.73
+tpt,5200,NUSA TENGGARA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,2.8
+tpt,5300,NUSA TENGGARA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.1
+tpt,5300,NUSA TENGGARA TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,3.14
+tpt,6100,KALIMANTAN BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,4.52
+tpt,6100,KALIMANTAN BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,5.05
+tpt,6200,KALIMANTAN TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.84
+tpt,6200,KALIMANTAN TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.1
+tpt,6300,KALIMANTAN SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.95
+tpt,6300,KALIMANTAN SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.31
+tpt,6400,KALIMANTAN TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,6.37
+tpt,6400,KALIMANTAN TIMUR,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,5.31
+tpt,6500,KALIMANTAN UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,4.1
+tpt,6500,KALIMANTAN UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.01
+tpt,7100,SULAWESI UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,6.19
+tpt,7100,SULAWESI UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,6.1
+tpt,7200,SULAWESI TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.49
+tpt,7200,SULAWESI TENGAH,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,2.95
+tpt,7300,SULAWESI SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,5.26
+tpt,7300,SULAWESI SELATAN,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.33
+tpt,7400,SULAWESI TENGGARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.66
+tpt,7400,SULAWESI TENGGARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,3.15
+tpt,7500,GORONTALO,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.07
+tpt,7500,GORONTALO,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,3.06
+tpt,7600,SULAWESI BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.04
+tpt,7600,SULAWESI BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,2.27
+tpt,8100,MALUKU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,6.08
+tpt,8100,MALUKU,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,6.31
+tpt,8200,MALUKU UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,4.6
+tpt,8200,MALUKU UTARA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,4.31
+tpt,9100,PAPUA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,5.53
+tpt,9100,PAPUA BARAT,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,5.38
+tpt,9400,PAPUA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,3.49
+tpt,9400,PAPUA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,2.67
+tpt,9999,INDONESIA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Februari,5.45
+tpt,9999,INDONESIA,Tingkat Pengangguran Terbuka Menurut Provinsi,Persen,Tidak ada,2023,Agustus,5.32

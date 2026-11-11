@@ -1,0 +1,114 @@
+indicator,kode_prov,provinsi_raw,variabel,satuan,turunan_var,tahun,periode,nilai_raw
+upah_jam,1100,ACEH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,18880
+upah_jam,1200,SUMATERA UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,17109
+upah_jam,1300,SUMATERA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,17591
+upah_jam,1400,RIAU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,20536
+upah_jam,1500,JAMBI,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,18895
+upah_jam,1600,SUMATERA SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,19107
+upah_jam,1700,BENGKULU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,19981
+upah_jam,1800,LAMPUNG,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,15524
+upah_jam,1900,KEP. BANGKA BELITUNG,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,19614
+upah_jam,2100,KEP. RIAU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,29429
+upah_jam,3100,DKI JAKARTA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,39019
+upah_jam,3200,JAWA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,21630
+upah_jam,3300,JAWA TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,15110
+upah_jam,3400,DI YOGYAKARTA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,18256
+upah_jam,3500,JAWA TIMUR,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,16446
+upah_jam,3600,BANTEN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,25650
+upah_jam,5100,BALI,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,20985
+upah_jam,5200,NUSA TENGGARA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,14450
+upah_jam,5300,NUSA TENGGARA TIMUR,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,18228
+upah_jam,6100,KALIMANTAN BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,19003
+upah_jam,6200,KALIMANTAN TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,22145
+upah_jam,6300,KALIMANTAN SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,19719
+upah_jam,6400,KALIMANTAN TIMUR,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,27485
+upah_jam,6500,KALIMANTAN UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,23030
+upah_jam,7100,SULAWESI UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,21434
+upah_jam,7200,SULAWESI TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,19992
+upah_jam,7300,SULAWESI SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,20014
+upah_jam,7400,SULAWESI TENGGARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,21607
+upah_jam,7500,GORONTALO,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,17062
+upah_jam,7600,SULAWESI BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,18086
+upah_jam,8100,MALUKU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,21341
+upah_jam,8200,MALUKU UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,26732
+upah_jam,9100,PAPUA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,30233
+upah_jam,9200,PAPUA BARAT DAYA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,27481
+upah_jam,9400,PAPUA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,29293
+upah_jam,9500,PAPUA SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,28978
+upah_jam,9600,PAPUA TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,34165
+upah_jam,9700,PAPUA PEGUNUNGAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,31388
+upah_jam,9999,INDONESIA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2025,Tahun,20030
+upah_jam,1100,ACEH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,17547
+upah_jam,1200,SUMATERA UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,17206
+upah_jam,1300,SUMATERA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,16824
+upah_jam,1400,RIAU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,19619
+upah_jam,1500,JAMBI,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,17996
+upah_jam,1600,SUMATERA SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,17725
+upah_jam,1700,BENGKULU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,17468
+upah_jam,1800,LAMPUNG,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,14327
+upah_jam,1900,KEP. BANGKA BELITUNG,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,21806
+upah_jam,2100,KEP. RIAU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,28764
+upah_jam,3100,DKI JAKARTA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,35281
+upah_jam,3200,JAWA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,20857
+upah_jam,3300,JAWA TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,14178
+upah_jam,3400,DI YOGYAKARTA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,17558
+upah_jam,3500,JAWA TIMUR,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,15287
+upah_jam,3600,BANTEN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,25909
+upah_jam,5100,BALI,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,18819
+upah_jam,5200,NUSA TENGGARA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,13267
+upah_jam,5300,NUSA TENGGARA TIMUR,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,14981
+upah_jam,6100,KALIMANTAN BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,17861
+upah_jam,6200,KALIMANTAN TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,21335
+upah_jam,6300,KALIMANTAN SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,20523
+upah_jam,6400,KALIMANTAN TIMUR,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,24676
+upah_jam,6500,KALIMANTAN UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,24092
+upah_jam,7100,SULAWESI UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,23831
+upah_jam,7200,SULAWESI TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,18402
+upah_jam,7300,SULAWESI SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,17505
+upah_jam,7400,SULAWESI TENGGARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,20510
+upah_jam,7500,GORONTALO,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,15027
+upah_jam,7600,SULAWESI BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,17516
+upah_jam,8100,MALUKU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,18831
+upah_jam,8200,MALUKU UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,21965
+upah_jam,9100,PAPUA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,28214
+upah_jam,9200,PAPUA BARAT DAYA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,26883
+upah_jam,9400,PAPUA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,27849
+upah_jam,9500,PAPUA SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,25526
+upah_jam,9600,PAPUA TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,29658
+upah_jam,9700,PAPUA PEGUNUNGAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,34588
+upah_jam,9999,INDONESIA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2024,Tahun,19009
+upah_jam,1100,ACEH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,17585
+upah_jam,1200,SUMATERA UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,17609
+upah_jam,1300,SUMATERA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,16694
+upah_jam,1400,RIAU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,18413
+upah_jam,1500,JAMBI,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,17596
+upah_jam,1600,SUMATERA SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,16273
+upah_jam,1700,BENGKULU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,17410
+upah_jam,1800,LAMPUNG,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,13958
+upah_jam,1900,KEP. BANGKA BELITUNG,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,20141
+upah_jam,2100,KEP. RIAU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,27640
+upah_jam,3100,DKI JAKARTA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,42354
+upah_jam,3200,JAWA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,21194
+upah_jam,3300,JAWA TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,13381
+upah_jam,3400,DI YOGYAKARTA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,16478
+upah_jam,3500,JAWA TIMUR,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,15155
+upah_jam,3600,BANTEN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,24685
+upah_jam,5100,BALI,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,18521
+upah_jam,5200,NUSA TENGGARA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,12933
+upah_jam,5300,NUSA TENGGARA TIMUR,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,14770
+upah_jam,6100,KALIMANTAN BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,19303
+upah_jam,6200,KALIMANTAN TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,20257
+upah_jam,6300,KALIMANTAN SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,18938
+upah_jam,6400,KALIMANTAN TIMUR,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,22509
+upah_jam,6500,KALIMANTAN UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,22366
+upah_jam,7100,SULAWESI UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,19270
+upah_jam,7200,SULAWESI TENGAH,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,16392
+upah_jam,7300,SULAWESI SELATAN,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,17776
+upah_jam,7400,SULAWESI TENGGARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,18884
+upah_jam,7500,GORONTALO,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,15138
+upah_jam,7600,SULAWESI BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,16387
+upah_jam,8100,MALUKU,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,17156
+upah_jam,8200,MALUKU UTARA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,27078
+upah_jam,9100,PAPUA BARAT,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,25695
+upah_jam,9400,PAPUA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,28570
+upah_jam,9999,INDONESIA,Upah Rata - Rata Per Jam Pekerja Menurut Provinsi,Rupiah/Jam,Tidak ada,2023,Tahun,19027

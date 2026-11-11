@@ -1,0 +1,781 @@
+indicator,kode_wilayah,provinsi_raw,tahun,variabel,satuan,nilai_raw
+penduduk,1100000,Aceh,2023,Jumlah Penduduk,,"5.482,5"
+penduduk,1100000,Aceh,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,41"
+penduduk,1100000,Aceh,2023,Persentase Penduduk,,"1,97"
+penduduk,1100000,Aceh,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,96
+penduduk,1100000,Aceh,2023,Rasio Jenis Kelamin Penduduk,,"100,9"
+penduduk,1200000,Sumatera Utara,2023,Jumlah Penduduk,,"15.386,6"
+penduduk,1200000,Sumatera Utara,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,43"
+penduduk,1200000,Sumatera Utara,2023,Persentase Penduduk,,"5,52"
+penduduk,1200000,Sumatera Utara,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,212
+penduduk,1200000,Sumatera Utara,2023,Rasio Jenis Kelamin Penduduk,,"100,7"
+penduduk,1300000,Sumatera Barat,2023,Jumlah Penduduk,,"5.757,2"
+penduduk,1300000,Sumatera Barat,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,45"
+penduduk,1300000,Sumatera Barat,2023,Persentase Penduduk,,"2,07"
+penduduk,1300000,Sumatera Barat,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,137
+penduduk,1300000,Sumatera Barat,2023,Rasio Jenis Kelamin Penduduk,,"101,5"
+penduduk,1400000,Riau,2023,Jumlah Penduduk,,"6.642,9"
+penduduk,1400000,Riau,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,40"
+penduduk,1400000,Riau,2023,Persentase Penduduk,,"2,38"
+penduduk,1400000,Riau,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,74
+penduduk,1400000,Riau,2023,Rasio Jenis Kelamin Penduduk,,"104,6"
+penduduk,1500000,Jambi,2023,Jumlah Penduduk,,"3.679,2"
+penduduk,1500000,Jambi,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,33"
+penduduk,1500000,Jambi,2023,Persentase Penduduk,,"1,32"
+penduduk,1500000,Jambi,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,75
+penduduk,1500000,Jambi,2023,Rasio Jenis Kelamin Penduduk,,"103,6"
+penduduk,1600000,Sumatera Selatan,2023,Jumlah Penduduk,,"8.743,5"
+penduduk,1600000,Sumatera Selatan,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,17"
+penduduk,1600000,Sumatera Selatan,2023,Persentase Penduduk,,"3,14"
+penduduk,1600000,Sumatera Selatan,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,101
+penduduk,1600000,Sumatera Selatan,2023,Rasio Jenis Kelamin Penduduk,,"103,8"
+penduduk,1700000,Bengkulu,2023,Jumlah Penduduk,,"2.086,0"
+penduduk,1700000,Bengkulu,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,35"
+penduduk,1700000,Bengkulu,2023,Persentase Penduduk,,"0,75"
+penduduk,1700000,Bengkulu,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,104
+penduduk,1700000,Bengkulu,2023,Rasio Jenis Kelamin Penduduk,,"104,5"
+penduduk,1800000,Lampung,2023,Jumlah Penduduk,,"9.314,0"
+penduduk,1800000,Lampung,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,22"
+penduduk,1800000,Lampung,2023,Persentase Penduduk,,"3,34"
+penduduk,1800000,Lampung,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,277
+penduduk,1800000,Lampung,2023,Rasio Jenis Kelamin Penduduk,,"104,5"
+penduduk,1900000,Kepulauan Bangka Belitung,2023,Jumlah Penduduk,,"1.511,9"
+penduduk,1900000,Kepulauan Bangka Belitung,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,39"
+penduduk,1900000,Kepulauan Bangka Belitung,2023,Persentase Penduduk,,"0,54"
+penduduk,1900000,Kepulauan Bangka Belitung,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,91
+penduduk,1900000,Kepulauan Bangka Belitung,2023,Rasio Jenis Kelamin Penduduk,,"105,6"
+penduduk,2100000,Kepulauan Riau,2023,Jumlah Penduduk,,"2.152,6"
+penduduk,2100000,Kepulauan Riau,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,53"
+penduduk,2100000,Kepulauan Riau,2023,Persentase Penduduk,,"0,77"
+penduduk,2100000,Kepulauan Riau,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,260
+penduduk,2100000,Kepulauan Riau,2023,Rasio Jenis Kelamin Penduduk,,"103,6"
+penduduk,3100000,DKI Jakarta,2023,Jumlah Penduduk,,"10.672,1"
+penduduk,3100000,DKI Jakarta,2023,Laju Pertumbuhan Penduduk per Tahun,,"0,38"
+penduduk,3100000,DKI Jakarta,2023,Persentase Penduduk,,"3,83"
+penduduk,3100000,DKI Jakarta,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,16.146
+penduduk,3100000,DKI Jakarta,2023,Rasio Jenis Kelamin Penduduk,,"101,3"
+penduduk,3200000,Jawa Barat,2023,Jumlah Penduduk,,"49.860,3"
+penduduk,3200000,Jawa Barat,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,18"
+penduduk,3200000,Jawa Barat,2023,Persentase Penduduk,,"17,89"
+penduduk,3200000,Jawa Barat,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.346
+penduduk,3200000,Jawa Barat,2023,Rasio Jenis Kelamin Penduduk,,"102,7"
+penduduk,3300000,Jawa Tengah,2023,Jumlah Penduduk,,"37.541,0"
+penduduk,3300000,Jawa Tengah,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,01"
+penduduk,3300000,Jawa Tengah,2023,Persentase Penduduk,,"13,47"
+penduduk,3300000,Jawa Tengah,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.093
+penduduk,3300000,Jawa Tengah,2023,Rasio Jenis Kelamin Penduduk,,"101,0"
+penduduk,3400000,DI Yogyakarta,2023,Jumlah Penduduk,,"3.736,5"
+penduduk,3400000,DI Yogyakarta,2023,Laju Pertumbuhan Penduduk per Tahun,,"0,67"
+penduduk,3400000,DI Yogyakarta,2023,Persentase Penduduk,,"1,34"
+penduduk,3400000,DI Yogyakarta,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.178
+penduduk,3400000,DI Yogyakarta,2023,Rasio Jenis Kelamin Penduduk,,"98,0"
+penduduk,3500000,Jawa Timur,2023,Jumlah Penduduk,,"41.527,9"
+penduduk,3500000,Jawa Timur,2023,Laju Pertumbuhan Penduduk per Tahun,,"0,77"
+penduduk,3500000,Jawa Timur,2023,Persentase Penduduk,,"14,90"
+penduduk,3500000,Jawa Timur,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,865
+penduduk,3500000,Jawa Timur,2023,Rasio Jenis Kelamin Penduduk,,"99,5"
+penduduk,3600000,Banten,2023,Jumlah Penduduk,,"12.307,7"
+penduduk,3600000,Banten,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,22"
+penduduk,3600000,Banten,2023,Persentase Penduduk,,"4,42"
+penduduk,3600000,Banten,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.316
+penduduk,3600000,Banten,2023,Rasio Jenis Kelamin Penduduk,,"103,6"
+penduduk,5100000,Bali,2023,Jumlah Penduduk,,"4.404,3"
+penduduk,5100000,Bali,2023,Laju Pertumbuhan Penduduk per Tahun,,"0,73"
+penduduk,5100000,Bali,2023,Persentase Penduduk,,"1,58"
+penduduk,5100000,Bali,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,788
+penduduk,5100000,Bali,2023,Rasio Jenis Kelamin Penduduk,,"100,7"
+penduduk,5200000,Nusa Tenggara Barat,2023,Jumlah Penduduk,,"5.560,3"
+penduduk,5200000,Nusa Tenggara Barat,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,62"
+penduduk,5200000,Nusa Tenggara Barat,2023,Persentase Penduduk,,"2,00"
+penduduk,5200000,Nusa Tenggara Barat,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,283
+penduduk,5200000,Nusa Tenggara Barat,2023,Rasio Jenis Kelamin Penduduk,,"100,5"
+penduduk,5300000,Nusa Tenggara Timur,2023,Jumlah Penduduk,,"5.569,1"
+penduduk,5300000,Nusa Tenggara Timur,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,64"
+penduduk,5300000,Nusa Tenggara Timur,2023,Persentase Penduduk,,"2,00"
+penduduk,5300000,Nusa Tenggara Timur,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,120
+penduduk,5300000,Nusa Tenggara Timur,2023,Rasio Jenis Kelamin Penduduk,,"100,0"
+penduduk,6100000,Kalimantan Barat,2023,Jumlah Penduduk,,"5.623,3"
+penduduk,6100000,Kalimantan Barat,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,39"
+penduduk,6100000,Kalimantan Barat,2023,Persentase Penduduk,,"2,02"
+penduduk,6100000,Kalimantan Barat,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,38
+penduduk,6100000,Kalimantan Barat,2023,Rasio Jenis Kelamin Penduduk,,"105,5"
+penduduk,6200000,Kalimantan Tengah,2023,Jumlah Penduduk,,"2.773,7"
+penduduk,6200000,Kalimantan Tengah,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,40"
+penduduk,6200000,Kalimantan Tengah,2023,Persentase Penduduk,,"1,00"
+penduduk,6200000,Kalimantan Tengah,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,18
+penduduk,6200000,Kalimantan Tengah,2023,Rasio Jenis Kelamin Penduduk,,"107,1"
+penduduk,6300000,Kalimantan Selatan,2023,Jumlah Penduduk,,"4.222,3"
+penduduk,6300000,Kalimantan Selatan,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,31"
+penduduk,6300000,Kalimantan Selatan,2023,Persentase Penduduk,,"1,52"
+penduduk,6300000,Kalimantan Selatan,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,114
+penduduk,6300000,Kalimantan Selatan,2023,Rasio Jenis Kelamin Penduduk,,"102,4"
+penduduk,6400000,Kalimantan Timur,2023,Jumlah Penduduk,,"3.909,7"
+penduduk,6400000,Kalimantan Timur,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,37"
+penduduk,6400000,Kalimantan Timur,2023,Persentase Penduduk,,"1,40"
+penduduk,6400000,Kalimantan Timur,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,31
+penduduk,6400000,Kalimantan Timur,2023,Rasio Jenis Kelamin Penduduk,,"107,7"
+penduduk,6500000,Kalimantan Utara,2023,Jumlah Penduduk,,"730,0"
+penduduk,6500000,Kalimantan Utara,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,44"
+penduduk,6500000,Kalimantan Utara,2023,Persentase Penduduk,,"0,26"
+penduduk,6500000,Kalimantan Utara,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,10
+penduduk,6500000,Kalimantan Utara,2023,Rasio Jenis Kelamin Penduduk,,"111,0"
+penduduk,7100000,Sulawesi Utara,2023,Jumlah Penduduk,,"2.681,5"
+penduduk,7100000,Sulawesi Utara,2023,Laju Pertumbuhan Penduduk per Tahun,,"0,82"
+penduduk,7100000,Sulawesi Utara,2023,Persentase Penduduk,,"0,96"
+penduduk,7100000,Sulawesi Utara,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,185
+penduduk,7100000,Sulawesi Utara,2023,Rasio Jenis Kelamin Penduduk,,"104,4"
+penduduk,7200000,Sulawesi Tengah,2023,Jumlah Penduduk,,"3.086,8"
+penduduk,7200000,Sulawesi Tengah,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,22"
+penduduk,7200000,Sulawesi Tengah,2023,Persentase Penduduk,,"1,11"
+penduduk,7200000,Sulawesi Tengah,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,50
+penduduk,7200000,Sulawesi Tengah,2023,Rasio Jenis Kelamin Penduduk,,"105,4"
+penduduk,7300000,Sulawesi Selatan,2023,Jumlah Penduduk,,"9.362,3"
+penduduk,7300000,Sulawesi Selatan,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,15"
+penduduk,7300000,Sulawesi Selatan,2023,Persentase Penduduk,,"3,36"
+penduduk,7300000,Sulawesi Selatan,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,207
+penduduk,7300000,Sulawesi Selatan,2023,Rasio Jenis Kelamin Penduduk,,"98,7"
+penduduk,7400000,Sulawesi Tenggara,2023,Jumlah Penduduk,,"2.749,0"
+penduduk,7400000,Sulawesi Tenggara,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,69"
+penduduk,7400000,Sulawesi Tenggara,2023,Persentase Penduduk,,"0,99"
+penduduk,7400000,Sulawesi Tenggara,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,76
+penduduk,7400000,Sulawesi Tenggara,2023,Rasio Jenis Kelamin Penduduk,,"102,7"
+penduduk,7500000,Gorontalo,2023,Jumlah Penduduk,,"1.213,2"
+penduduk,7500000,Gorontalo,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,27"
+penduduk,7500000,Gorontalo,2023,Persentase Penduduk,,"0,44"
+penduduk,7500000,Gorontalo,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,101
+penduduk,7500000,Gorontalo,2023,Rasio Jenis Kelamin Penduduk,,"101,7"
+penduduk,7600000,Sulawesi Barat,2023,Jumlah Penduduk,,"1.481,1"
+penduduk,7600000,Sulawesi Barat,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,56"
+penduduk,7600000,Sulawesi Barat,2023,Persentase Penduduk,,"0,53"
+penduduk,7600000,Sulawesi Barat,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,89
+penduduk,7600000,Sulawesi Barat,2023,Rasio Jenis Kelamin Penduduk,,"102,8"
+penduduk,8100000,Maluku,2023,Jumlah Penduduk,,"1.920,5"
+penduduk,8100000,Maluku,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,39"
+penduduk,8100000,Maluku,2023,Persentase Penduduk,,"0,69"
+penduduk,8100000,Maluku,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,42
+penduduk,8100000,Maluku,2023,Rasio Jenis Kelamin Penduduk,,"102,4"
+penduduk,8200000,Maluku Utara,2023,Jumlah Penduduk,,"1.337,1"
+penduduk,8200000,Maluku Utara,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,52"
+penduduk,8200000,Maluku Utara,2023,Persentase Penduduk,,"0,48"
+penduduk,8200000,Maluku Utara,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,41
+penduduk,8200000,Maluku Utara,2023,Rasio Jenis Kelamin Penduduk,,"105,1"
+penduduk,9100000,Papua Barat,2023,Jumlah Penduduk,,"1.187,3"
+penduduk,9100000,Papua Barat,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,68"
+penduduk,9100000,Papua Barat,2023,Persentase Penduduk,,"0,43"
+penduduk,9100000,Papua Barat,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,12
+penduduk,9100000,Papua Barat,2023,Rasio Jenis Kelamin Penduduk,,"110,1"
+penduduk,9200000,Papua Barat Daya,2023,Jumlah Penduduk,,
+penduduk,9200000,Papua Barat Daya,2023,Laju Pertumbuhan Penduduk per Tahun,,
+penduduk,9200000,Papua Barat Daya,2023,Persentase Penduduk,,
+penduduk,9200000,Papua Barat Daya,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,
+penduduk,9200000,Papua Barat Daya,2023,Rasio Jenis Kelamin Penduduk,,
+penduduk,9400000,Papua,2023,Jumlah Penduduk,,"4.482,7"
+penduduk,9400000,Papua,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,49"
+penduduk,9400000,Papua,2023,Persentase Penduduk,,"1,61"
+penduduk,9400000,Papua,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,14
+penduduk,9400000,Papua,2023,Rasio Jenis Kelamin Penduduk,,"112,9"
+penduduk,9500000,Papua Selatan,2023,Jumlah Penduduk,,
+penduduk,9500000,Papua Selatan,2023,Laju Pertumbuhan Penduduk per Tahun,,
+penduduk,9500000,Papua Selatan,2023,Persentase Penduduk,,
+penduduk,9500000,Papua Selatan,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,
+penduduk,9500000,Papua Selatan,2023,Rasio Jenis Kelamin Penduduk,,
+penduduk,9600000,Papua Tengah,2023,Jumlah Penduduk,,
+penduduk,9600000,Papua Tengah,2023,Laju Pertumbuhan Penduduk per Tahun,,
+penduduk,9600000,Papua Tengah,2023,Persentase Penduduk,,
+penduduk,9600000,Papua Tengah,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,
+penduduk,9600000,Papua Tengah,2023,Rasio Jenis Kelamin Penduduk,,
+penduduk,9700000,Papua Pegunungan,2023,Jumlah Penduduk,,
+penduduk,9700000,Papua Pegunungan,2023,Laju Pertumbuhan Penduduk per Tahun,,
+penduduk,9700000,Papua Pegunungan,2023,Persentase Penduduk,,
+penduduk,9700000,Papua Pegunungan,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,
+penduduk,9700000,Papua Pegunungan,2023,Rasio Jenis Kelamin Penduduk,,
+penduduk,0000000,Indonesia,2023,Jumlah Penduduk,,"278.696,2"
+penduduk,0000000,Indonesia,2023,Laju Pertumbuhan Penduduk per Tahun,,"1,13"
+penduduk,0000000,Indonesia,2023,Persentase Penduduk,,"100,00"
+penduduk,0000000,Indonesia,2023,Kepadatan Penduduk per km persegi,km<sup>2</sup>,147
+penduduk,0000000,Indonesia,2023,Rasio Jenis Kelamin Penduduk,,"102,1"
+penduduk,1100000,Aceh,2024,Jumlah Penduduk,,"5.554,8"
+penduduk,1100000,Aceh,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,39"
+penduduk,1100000,Aceh,2024,Persentase Penduduk,,"1,97"
+penduduk,1100000,Aceh,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,98
+penduduk,1100000,Aceh,2024,Rasio Jenis Kelamin Penduduk,,"100,9"
+penduduk,1200000,Sumatera Utara,2024,Jumlah Penduduk,,"15.588,5"
+penduduk,1200000,Sumatera Utara,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,40"
+penduduk,1200000,Sumatera Utara,2024,Persentase Penduduk,,"5,54"
+penduduk,1200000,Sumatera Utara,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,215
+penduduk,1200000,Sumatera Utara,2024,Rasio Jenis Kelamin Penduduk,,"100,8"
+penduduk,1300000,Sumatera Barat,2024,Jumlah Penduduk,,"5.836,2"
+penduduk,1300000,Sumatera Barat,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,43"
+penduduk,1300000,Sumatera Barat,2024,Persentase Penduduk,,"2,07"
+penduduk,1300000,Sumatera Barat,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,139
+penduduk,1300000,Sumatera Barat,2024,Rasio Jenis Kelamin Penduduk,,"101,5"
+penduduk,1400000,Riau,2024,Jumlah Penduduk,,"6.728,1"
+penduduk,1400000,Riau,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,37"
+penduduk,1400000,Riau,2024,Persentase Penduduk,,"2,39"
+penduduk,1400000,Riau,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,75
+penduduk,1400000,Riau,2024,Rasio Jenis Kelamin Penduduk,,"104,4"
+penduduk,1500000,Jambi,2024,Jumlah Penduduk,,"3.724,3"
+penduduk,1500000,Jambi,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,30"
+penduduk,1500000,Jambi,2024,Persentase Penduduk,,"1,32"
+penduduk,1500000,Jambi,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,76
+penduduk,1500000,Jambi,2024,Rasio Jenis Kelamin Penduduk,,"103,4"
+penduduk,1600000,Sumatera Selatan,2024,Jumlah Penduduk,,"8.837,3"
+penduduk,1600000,Sumatera Selatan,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,15"
+penduduk,1600000,Sumatera Selatan,2024,Persentase Penduduk,,"3,14"
+penduduk,1600000,Sumatera Selatan,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,102
+penduduk,1600000,Sumatera Selatan,2024,Rasio Jenis Kelamin Penduduk,,"103,7"
+penduduk,1700000,Bengkulu,2024,Jumlah Penduduk,,"2.112,2"
+penduduk,1700000,Bengkulu,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,32"
+penduduk,1700000,Bengkulu,2024,Persentase Penduduk,,"0,75"
+penduduk,1700000,Bengkulu,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,105
+penduduk,1700000,Bengkulu,2024,Rasio Jenis Kelamin Penduduk,,"104,4"
+penduduk,1800000,Lampung,2024,Jumlah Penduduk,,"9.419,6"
+penduduk,1800000,Lampung,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,20"
+penduduk,1800000,Lampung,2024,Persentase Penduduk,,"3,34"
+penduduk,1800000,Lampung,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,281
+penduduk,1800000,Lampung,2024,Rasio Jenis Kelamin Penduduk,,"104,3"
+penduduk,1900000,Kepulauan Bangka Belitung,2024,Jumlah Penduduk,,"1.531,5"
+penduduk,1900000,Kepulauan Bangka Belitung,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,36"
+penduduk,1900000,Kepulauan Bangka Belitung,2024,Persentase Penduduk,,"0,54"
+penduduk,1900000,Kepulauan Bangka Belitung,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,92
+penduduk,1900000,Kepulauan Bangka Belitung,2024,Rasio Jenis Kelamin Penduduk,,"105,4"
+penduduk,2100000,Kepulauan Riau,2024,Jumlah Penduduk,,"2.183,3"
+penduduk,2100000,Kepulauan Riau,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,50"
+penduduk,2100000,Kepulauan Riau,2024,Persentase Penduduk,,"0,78"
+penduduk,2100000,Kepulauan Riau,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,264
+penduduk,2100000,Kepulauan Riau,2024,Rasio Jenis Kelamin Penduduk,,"103,3"
+penduduk,3100000,DKI Jakarta,2024,Jumlah Penduduk,,"10.684,9"
+penduduk,3100000,DKI Jakarta,2024,Laju Pertumbuhan Penduduk per Tahun,,"0,31"
+penduduk,3100000,DKI Jakarta,2024,Persentase Penduduk,,"3,79"
+penduduk,3100000,DKI Jakarta,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,16.165
+penduduk,3100000,DKI Jakarta,2024,Rasio Jenis Kelamin Penduduk,,"101,1"
+penduduk,3200000,Jawa Barat,2024,Jumlah Penduduk,,"50.345,2"
+penduduk,3200000,Jawa Barat,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,13"
+penduduk,3200000,Jawa Barat,2024,Persentase Penduduk,,"17,88"
+penduduk,3200000,Jawa Barat,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.359
+penduduk,3200000,Jawa Barat,2024,Rasio Jenis Kelamin Penduduk,,"102,6"
+penduduk,3300000,Jawa Tengah,2024,Jumlah Penduduk,,"37.892,3"
+penduduk,3300000,Jawa Tengah,2024,Laju Pertumbuhan Penduduk per Tahun,,"0,99"
+penduduk,3300000,Jawa Tengah,2024,Persentase Penduduk,,"13,46"
+penduduk,3300000,Jawa Tengah,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.104
+penduduk,3300000,Jawa Tengah,2024,Rasio Jenis Kelamin Penduduk,,"101,0"
+penduduk,3400000,DI Yogyakarta,2024,Jumlah Penduduk,,"3.759,5"
+penduduk,3400000,DI Yogyakarta,2024,Laju Pertumbuhan Penduduk per Tahun,,"0,65"
+penduduk,3400000,DI Yogyakarta,2024,Persentase Penduduk,,"1,34"
+penduduk,3400000,DI Yogyakarta,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.186
+penduduk,3400000,DI Yogyakarta,2024,Rasio Jenis Kelamin Penduduk,,"97,9"
+penduduk,3500000,Jawa Timur,2024,Jumlah Penduduk,,"41.814,5"
+penduduk,3500000,Jawa Timur,2024,Laju Pertumbuhan Penduduk per Tahun,,"0,75"
+penduduk,3500000,Jawa Timur,2024,Persentase Penduduk,,"14,85"
+penduduk,3500000,Jawa Timur,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,870
+penduduk,3500000,Jawa Timur,2024,Rasio Jenis Kelamin Penduduk,,"99,4"
+penduduk,3600000,Banten,2024,Jumlah Penduduk,,"12.431,4"
+penduduk,3600000,Banten,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,16"
+penduduk,3600000,Banten,2024,Persentase Penduduk,,"4,41"
+penduduk,3600000,Banten,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.329
+penduduk,3600000,Banten,2024,Rasio Jenis Kelamin Penduduk,,"103,4"
+penduduk,5100000,Bali,2024,Jumlah Penduduk,,"4.433,3"
+penduduk,5100000,Bali,2024,Laju Pertumbuhan Penduduk per Tahun,,"0,71"
+penduduk,5100000,Bali,2024,Persentase Penduduk,,"1,57"
+penduduk,5100000,Bali,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,793
+penduduk,5100000,Bali,2024,Rasio Jenis Kelamin Penduduk,,"100,5"
+penduduk,5200000,Nusa Tenggara Barat,2024,Jumlah Penduduk,,"5.646,0"
+penduduk,5200000,Nusa Tenggara Barat,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,60"
+penduduk,5200000,Nusa Tenggara Barat,2024,Persentase Penduduk,,"2,00"
+penduduk,5200000,Nusa Tenggara Barat,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,287
+penduduk,5200000,Nusa Tenggara Barat,2024,Rasio Jenis Kelamin Penduduk,,"100,7"
+penduduk,5300000,Nusa Tenggara Timur,2024,Jumlah Penduduk,,"5.656,0"
+penduduk,5300000,Nusa Tenggara Timur,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,62"
+penduduk,5300000,Nusa Tenggara Timur,2024,Persentase Penduduk,,"2,01"
+penduduk,5300000,Nusa Tenggara Timur,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,122
+penduduk,5300000,Nusa Tenggara Timur,2024,Rasio Jenis Kelamin Penduduk,,"100,0"
+penduduk,6100000,Kalimantan Barat,2024,Jumlah Penduduk,,"5.695,5"
+penduduk,6100000,Kalimantan Barat,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,36"
+penduduk,6100000,Kalimantan Barat,2024,Persentase Penduduk,,"2,02"
+penduduk,6100000,Kalimantan Barat,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,39
+penduduk,6100000,Kalimantan Barat,2024,Rasio Jenis Kelamin Penduduk,,"105,4"
+penduduk,6200000,Kalimantan Tengah,2024,Jumlah Penduduk,,"2.809,7"
+penduduk,6200000,Kalimantan Tengah,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,37"
+penduduk,6200000,Kalimantan Tengah,2024,Persentase Penduduk,,"1,00"
+penduduk,6200000,Kalimantan Tengah,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,18
+penduduk,6200000,Kalimantan Tengah,2024,Rasio Jenis Kelamin Penduduk,,"106,8"
+penduduk,6300000,Kalimantan Selatan,2024,Jumlah Penduduk,,"4.273,4"
+penduduk,6300000,Kalimantan Selatan,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,29"
+penduduk,6300000,Kalimantan Selatan,2024,Persentase Penduduk,,"1,52"
+penduduk,6300000,Kalimantan Selatan,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,115
+penduduk,6300000,Kalimantan Selatan,2024,Rasio Jenis Kelamin Penduduk,,"102,3"
+penduduk,6400000,Kalimantan Timur,2024,Jumlah Penduduk,,"4.045,9"
+penduduk,6400000,Kalimantan Timur,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,93"
+penduduk,6400000,Kalimantan Timur,2024,Persentase Penduduk,,"1,44"
+penduduk,6400000,Kalimantan Timur,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,32
+penduduk,6400000,Kalimantan Timur,2024,Rasio Jenis Kelamin Penduduk,,"107,3"
+penduduk,6500000,Kalimantan Utara,2024,Jumlah Penduduk,,"739,8"
+penduduk,6500000,Kalimantan Utara,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,41"
+penduduk,6500000,Kalimantan Utara,2024,Persentase Penduduk,,"0,26"
+penduduk,6500000,Kalimantan Utara,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,11
+penduduk,6500000,Kalimantan Utara,2024,Rasio Jenis Kelamin Penduduk,,"110,7"
+penduduk,7100000,Sulawesi Utara,2024,Jumlah Penduduk,,"2.701,8"
+penduduk,7100000,Sulawesi Utara,2024,Laju Pertumbuhan Penduduk per Tahun,,"0,80"
+penduduk,7100000,Sulawesi Utara,2024,Persentase Penduduk,,"0,96"
+penduduk,7100000,Sulawesi Utara,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,186
+penduduk,7100000,Sulawesi Utara,2024,Rasio Jenis Kelamin Penduduk,,"104,3"
+penduduk,7200000,Sulawesi Tengah,2024,Jumlah Penduduk,,"3.121,8"
+penduduk,7200000,Sulawesi Tengah,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,20"
+penduduk,7200000,Sulawesi Tengah,2024,Persentase Penduduk,,"1,11"
+penduduk,7200000,Sulawesi Tengah,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,51
+penduduk,7200000,Sulawesi Tengah,2024,Rasio Jenis Kelamin Penduduk,,"105,2"
+penduduk,7300000,Sulawesi Selatan,2024,Jumlah Penduduk,,"9.463,4"
+penduduk,7300000,Sulawesi Selatan,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,13"
+penduduk,7300000,Sulawesi Selatan,2024,Persentase Penduduk,,"3,36"
+penduduk,7300000,Sulawesi Selatan,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,209
+penduduk,7300000,Sulawesi Selatan,2024,Rasio Jenis Kelamin Penduduk,,"98,8"
+penduduk,7400000,Sulawesi Tenggara,2024,Jumlah Penduduk,,"2.793,1"
+penduduk,7400000,Sulawesi Tenggara,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,67"
+penduduk,7400000,Sulawesi Tenggara,2024,Persentase Penduduk,,"0,99"
+penduduk,7400000,Sulawesi Tenggara,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,77
+penduduk,7400000,Sulawesi Tenggara,2024,Rasio Jenis Kelamin Penduduk,,"102,6"
+penduduk,7500000,Gorontalo,2024,Jumlah Penduduk,,"1.227,8"
+penduduk,7500000,Gorontalo,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,26"
+penduduk,7500000,Gorontalo,2024,Persentase Penduduk,,"0,44"
+penduduk,7500000,Gorontalo,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,102
+penduduk,7500000,Gorontalo,2024,Rasio Jenis Kelamin Penduduk,,"101,7"
+penduduk,7600000,Sulawesi Barat,2024,Jumlah Penduduk,,"1.503,2"
+penduduk,7600000,Sulawesi Barat,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,55"
+penduduk,7600000,Sulawesi Barat,2024,Persentase Penduduk,,"0,53"
+penduduk,7600000,Sulawesi Barat,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,91
+penduduk,7600000,Sulawesi Barat,2024,Rasio Jenis Kelamin Penduduk,,"102,7"
+penduduk,8100000,Maluku,2024,Jumlah Penduduk,,"1.945,6"
+penduduk,8100000,Maluku,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,37"
+penduduk,8100000,Maluku,2024,Persentase Penduduk,,"0,69"
+penduduk,8100000,Maluku,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,42
+penduduk,8100000,Maluku,2024,Rasio Jenis Kelamin Penduduk,,"102,3"
+penduduk,8200000,Maluku Utara,2024,Jumlah Penduduk,,"1.355,6"
+penduduk,8200000,Maluku Utara,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,48"
+penduduk,8200000,Maluku Utara,2024,Persentase Penduduk,,"0,48"
+penduduk,8200000,Maluku Utara,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,41
+penduduk,8200000,Maluku Utara,2024,Rasio Jenis Kelamin Penduduk,,"105,1"
+penduduk,9100000,Papua Barat,2024,Jumlah Penduduk,,"578,7"
+penduduk,9100000,Papua Barat,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,71"
+penduduk,9100000,Papua Barat,2024,Persentase Penduduk,,"0,21"
+penduduk,9100000,Papua Barat,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,10
+penduduk,9100000,Papua Barat,2024,Rasio Jenis Kelamin Penduduk,,"110,8"
+penduduk,9200000,Papua Barat Daya,2024,Jumlah Penduduk,,"627,1"
+penduduk,9200000,Papua Barat Daya,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,59"
+penduduk,9200000,Papua Barat Daya,2024,Persentase Penduduk,,"0,22"
+penduduk,9200000,Papua Barat Daya,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,16
+penduduk,9200000,Papua Barat Daya,2024,Rasio Jenis Kelamin Penduduk,,"108,9"
+penduduk,9400000,Papua,2024,Jumlah Penduduk,,"1.060,6"
+penduduk,9400000,Papua,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,36"
+penduduk,9400000,Papua,2024,Persentase Penduduk,,"0,38"
+penduduk,9400000,Papua,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,13
+penduduk,9400000,Papua,2024,Rasio Jenis Kelamin Penduduk,,"109,7"
+penduduk,9500000,Papua Selatan,2024,Jumlah Penduduk,,"542,1"
+penduduk,9500000,Papua Selatan,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,45"
+penduduk,9500000,Papua Selatan,2024,Persentase Penduduk,,"0,19"
+penduduk,9500000,Papua Selatan,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,5
+penduduk,9500000,Papua Selatan,2024,Rasio Jenis Kelamin Penduduk,,"108,0"
+penduduk,9600000,Papua Tengah,2024,Jumlah Penduduk,,"1.472,9"
+penduduk,9600000,Papua Tengah,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,54"
+penduduk,9600000,Papua Tengah,2024,Persentase Penduduk,,"0,52"
+penduduk,9600000,Papua Tengah,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,24
+penduduk,9600000,Papua Tengah,2024,Rasio Jenis Kelamin Penduduk,,"114,0"
+penduduk,9700000,Papua Pegunungan,2024,Jumlah Penduduk,,"1.467,0"
+penduduk,9700000,Papua Pegunungan,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,43"
+penduduk,9700000,Papua Pegunungan,2024,Persentase Penduduk,,"0,52"
+penduduk,9700000,Papua Pegunungan,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,29
+penduduk,9700000,Papua Pegunungan,2024,Rasio Jenis Kelamin Penduduk,,"114,5"
+penduduk,0000000,Indonesia,2024,Jumlah Penduduk,,"281.603,8"
+penduduk,0000000,Indonesia,2024,Laju Pertumbuhan Penduduk per Tahun,,"1,11"
+penduduk,0000000,Indonesia,2024,Persentase Penduduk,,"100,00"
+penduduk,0000000,Indonesia,2024,Kepadatan Penduduk per km persegi,km<sup>2</sup>,149
+penduduk,0000000,Indonesia,2024,Rasio Jenis Kelamin Penduduk,,"102,0"
+penduduk,1100000,Aceh,2025,Jumlah Penduduk,,"5.626,0"
+penduduk,1100000,Aceh,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,37"
+penduduk,1100000,Aceh,2025,Persentase Penduduk,,"1,98"
+penduduk,1100000,Aceh,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,99
+penduduk,1100000,Aceh,2025,Rasio Jenis Kelamin Penduduk,,"100,9"
+penduduk,1200000,Sumatera Utara,2025,Jumlah Penduduk,,"15.785,8"
+penduduk,1200000,Sumatera Utara,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,37"
+penduduk,1200000,Sumatera Utara,2025,Persentase Penduduk,,"5,55"
+penduduk,1200000,Sumatera Utara,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,218
+penduduk,1200000,Sumatera Utara,2025,Rasio Jenis Kelamin Penduduk,,"100,8"
+penduduk,1300000,Sumatera Barat,2025,Jumlah Penduduk,,"5.914,3"
+penduduk,1300000,Sumatera Barat,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,41"
+penduduk,1300000,Sumatera Barat,2025,Persentase Penduduk,,"2,08"
+penduduk,1300000,Sumatera Barat,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,140
+penduduk,1300000,Sumatera Barat,2025,Rasio Jenis Kelamin Penduduk,,"101,5"
+penduduk,1400000,Riau,2025,Jumlah Penduduk,,"6.811,2"
+penduduk,1400000,Riau,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,34"
+penduduk,1400000,Riau,2025,Persentase Penduduk,,"2,39"
+penduduk,1400000,Riau,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,76
+penduduk,1400000,Riau,2025,Rasio Jenis Kelamin Penduduk,,"104,3"
+penduduk,1500000,Jambi,2025,Jumlah Penduduk,,"3.768,5"
+penduduk,1500000,Jambi,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,28"
+penduduk,1500000,Jambi,2025,Persentase Penduduk,,"1,32"
+penduduk,1500000,Jambi,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,77
+penduduk,1500000,Jambi,2025,Rasio Jenis Kelamin Penduduk,,"103,2"
+penduduk,1600000,Sumatera Selatan,2025,Jumlah Penduduk,,"8.928,5"
+penduduk,1600000,Sumatera Selatan,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,12"
+penduduk,1600000,Sumatera Selatan,2025,Persentase Penduduk,,"3,14"
+penduduk,1600000,Sumatera Selatan,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,103
+penduduk,1600000,Sumatera Selatan,2025,Rasio Jenis Kelamin Penduduk,,"103,6"
+penduduk,1700000,Bengkulu,2025,Jumlah Penduduk,,"2.138,0"
+penduduk,1700000,Bengkulu,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,30"
+penduduk,1700000,Bengkulu,2025,Persentase Penduduk,,"0,75"
+penduduk,1700000,Bengkulu,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,106
+penduduk,1700000,Bengkulu,2025,Rasio Jenis Kelamin Penduduk,,"104,2"
+penduduk,1800000,Lampung,2025,Jumlah Penduduk,,"9.522,9"
+penduduk,1800000,Lampung,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,18"
+penduduk,1800000,Lampung,2025,Persentase Penduduk,,"3,35"
+penduduk,1800000,Lampung,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,284
+penduduk,1800000,Lampung,2025,Rasio Jenis Kelamin Penduduk,,"104,1"
+penduduk,1900000,Kepulauan Bangka Belitung,2025,Jumlah Penduduk,,"1.550,8"
+penduduk,1900000,Kepulauan Bangka Belitung,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,34"
+penduduk,1900000,Kepulauan Bangka Belitung,2025,Persentase Penduduk,,"0,55"
+penduduk,1900000,Kepulauan Bangka Belitung,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,93
+penduduk,1900000,Kepulauan Bangka Belitung,2025,Rasio Jenis Kelamin Penduduk,,"105,2"
+penduduk,2100000,Kepulauan Riau,2025,Jumlah Penduduk,,"2.213,5"
+penduduk,2100000,Kepulauan Riau,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,48"
+penduduk,2100000,Kepulauan Riau,2025,Persentase Penduduk,,"0,78"
+penduduk,2100000,Kepulauan Riau,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,268
+penduduk,2100000,Kepulauan Riau,2025,Rasio Jenis Kelamin Penduduk,,"103,1"
+penduduk,3100000,DKI Jakarta,2025,Jumlah Penduduk,,"10.678,0"
+penduduk,3100000,DKI Jakarta,2025,Laju Pertumbuhan Penduduk per Tahun,,"0,23"
+penduduk,3100000,DKI Jakarta,2025,Persentase Penduduk,,"3,75"
+penduduk,3100000,DKI Jakarta,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,16.155
+penduduk,3100000,DKI Jakarta,2025,Rasio Jenis Kelamin Penduduk,,"100,8"
+penduduk,3200000,Jawa Barat,2025,Jumlah Penduduk,,"50.759,0"
+penduduk,3200000,Jawa Barat,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,06"
+penduduk,3200000,Jawa Barat,2025,Persentase Penduduk,,"17,85"
+penduduk,3200000,Jawa Barat,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.370
+penduduk,3200000,Jawa Barat,2025,Rasio Jenis Kelamin Penduduk,,"102,4"
+penduduk,3300000,Jawa Tengah,2025,Jumlah Penduduk,,"38.233,9"
+penduduk,3300000,Jawa Tengah,2025,Laju Pertumbuhan Penduduk per Tahun,,"0,97"
+penduduk,3300000,Jawa Tengah,2025,Persentase Penduduk,,"13,44"
+penduduk,3300000,Jawa Tengah,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.113
+penduduk,3300000,Jawa Tengah,2025,Rasio Jenis Kelamin Penduduk,,"100,9"
+penduduk,3400000,DI Yogyakarta,2025,Jumlah Penduduk,,"3.781,5"
+penduduk,3400000,DI Yogyakarta,2025,Laju Pertumbuhan Penduduk per Tahun,,"0,64"
+penduduk,3400000,DI Yogyakarta,2025,Persentase Penduduk,,"1,33"
+penduduk,3400000,DI Yogyakarta,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.193
+penduduk,3400000,DI Yogyakarta,2025,Rasio Jenis Kelamin Penduduk,,"97,8"
+penduduk,3500000,Jawa Timur,2025,Jumlah Penduduk,,"42.089,3"
+penduduk,3500000,Jawa Timur,2025,Laju Pertumbuhan Penduduk per Tahun,,"0,73"
+penduduk,3500000,Jawa Timur,2025,Persentase Penduduk,,"14,80"
+penduduk,3500000,Jawa Timur,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,876
+penduduk,3500000,Jawa Timur,2025,Rasio Jenis Kelamin Penduduk,,"99,4"
+penduduk,3600000,Banten,2025,Jumlah Penduduk,,"12.537,4"
+penduduk,3600000,Banten,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,10"
+penduduk,3600000,Banten,2025,Persentase Penduduk,,"4,41"
+penduduk,3600000,Banten,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.341
+penduduk,3600000,Banten,2025,Rasio Jenis Kelamin Penduduk,,"103,3"
+penduduk,5100000,Bali,2025,Jumlah Penduduk,,"4.461,3"
+penduduk,5100000,Bali,2025,Laju Pertumbuhan Penduduk per Tahun,,"0,69"
+penduduk,5100000,Bali,2025,Persentase Penduduk,,"1,57"
+penduduk,5100000,Bali,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,798
+penduduk,5100000,Bali,2025,Rasio Jenis Kelamin Penduduk,,"100,4"
+penduduk,5200000,Nusa Tenggara Barat,2025,Jumlah Penduduk,,"5.731,1"
+penduduk,5200000,Nusa Tenggara Barat,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,58"
+penduduk,5200000,Nusa Tenggara Barat,2025,Persentase Penduduk,,"2,01"
+penduduk,5200000,Nusa Tenggara Barat,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,291
+penduduk,5200000,Nusa Tenggara Barat,2025,Rasio Jenis Kelamin Penduduk,,"100,9"
+penduduk,5300000,Nusa Tenggara Timur,2025,Jumlah Penduduk,,"5.742,6"
+penduduk,5300000,Nusa Tenggara Timur,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,60"
+penduduk,5300000,Nusa Tenggara Timur,2025,Persentase Penduduk,,"2,02"
+penduduk,5300000,Nusa Tenggara Timur,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,124
+penduduk,5300000,Nusa Tenggara Timur,2025,Rasio Jenis Kelamin Penduduk,,"100,0"
+penduduk,6100000,Kalimantan Barat,2025,Jumlah Penduduk,,"5.766,0"
+penduduk,6100000,Kalimantan Barat,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,33"
+penduduk,6100000,Kalimantan Barat,2025,Persentase Penduduk,,"2,03"
+penduduk,6100000,Kalimantan Barat,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,39
+penduduk,6100000,Kalimantan Barat,2025,Rasio Jenis Kelamin Penduduk,,"105,3"
+penduduk,6200000,Kalimantan Tengah,2025,Jumlah Penduduk,,"2.845,0"
+penduduk,6200000,Kalimantan Tengah,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,35"
+penduduk,6200000,Kalimantan Tengah,2025,Persentase Penduduk,,"1,00"
+penduduk,6200000,Kalimantan Tengah,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,19
+penduduk,6200000,Kalimantan Tengah,2025,Rasio Jenis Kelamin Penduduk,,"106,5"
+penduduk,6300000,Kalimantan Selatan,2025,Jumlah Penduduk,,"4.323,3"
+penduduk,6300000,Kalimantan Selatan,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,26"
+penduduk,6300000,Kalimantan Selatan,2025,Persentase Penduduk,,"1,52"
+penduduk,6300000,Kalimantan Selatan,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,116
+penduduk,6300000,Kalimantan Selatan,2025,Rasio Jenis Kelamin Penduduk,,"102,2"
+penduduk,6400000,Kalimantan Timur,2025,Jumlah Penduduk,,"4.267,6"
+penduduk,6400000,Kalimantan Timur,2025,Laju Pertumbuhan Penduduk per Tahun,,"2,67"
+penduduk,6400000,Kalimantan Timur,2025,Persentase Penduduk,,"1,50"
+penduduk,6400000,Kalimantan Timur,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,34
+penduduk,6400000,Kalimantan Timur,2025,Rasio Jenis Kelamin Penduduk,,"106,8"
+penduduk,6500000,Kalimantan Utara,2025,Jumlah Penduduk,,"749,4"
+penduduk,6500000,Kalimantan Utara,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,39"
+penduduk,6500000,Kalimantan Utara,2025,Persentase Penduduk,,"0,26"
+penduduk,6500000,Kalimantan Utara,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,11
+penduduk,6500000,Kalimantan Utara,2025,Rasio Jenis Kelamin Penduduk,,"110,4"
+penduduk,7100000,Sulawesi Utara,2025,Jumlah Penduduk,,"2.721,4"
+penduduk,7100000,Sulawesi Utara,2025,Laju Pertumbuhan Penduduk per Tahun,,"0,79"
+penduduk,7100000,Sulawesi Utara,2025,Persentase Penduduk,,"0,96"
+penduduk,7100000,Sulawesi Utara,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,188
+penduduk,7100000,Sulawesi Utara,2025,Rasio Jenis Kelamin Penduduk,,"104,1"
+penduduk,7200000,Sulawesi Tengah,2025,Jumlah Penduduk,,"3.156,1"
+penduduk,7200000,Sulawesi Tengah,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,18"
+penduduk,7200000,Sulawesi Tengah,2025,Persentase Penduduk,,"1,11"
+penduduk,7200000,Sulawesi Tengah,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,51
+penduduk,7200000,Sulawesi Tengah,2025,Rasio Jenis Kelamin Penduduk,,"105,1"
+penduduk,7300000,Sulawesi Selatan,2025,Jumlah Penduduk,,"9.563,1"
+penduduk,7300000,Sulawesi Selatan,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,11"
+penduduk,7300000,Sulawesi Selatan,2025,Persentase Penduduk,,"3,36"
+penduduk,7300000,Sulawesi Selatan,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,211
+penduduk,7300000,Sulawesi Selatan,2025,Rasio Jenis Kelamin Penduduk,,"98,8"
+penduduk,7400000,Sulawesi Tenggara,2025,Jumlah Penduduk,,"2.836,7"
+penduduk,7400000,Sulawesi Tenggara,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,65"
+penduduk,7400000,Sulawesi Tenggara,2025,Persentase Penduduk,,"1,00"
+penduduk,7400000,Sulawesi Tenggara,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,78
+penduduk,7400000,Sulawesi Tenggara,2025,Rasio Jenis Kelamin Penduduk,,"102,6"
+penduduk,7500000,Gorontalo,2025,Jumlah Penduduk,,"1.242,2"
+penduduk,7500000,Gorontalo,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,24"
+penduduk,7500000,Gorontalo,2025,Persentase Penduduk,,"0,44"
+penduduk,7500000,Gorontalo,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,103
+penduduk,7500000,Gorontalo,2025,Rasio Jenis Kelamin Penduduk,,"101,6"
+penduduk,7600000,Sulawesi Barat,2025,Jumlah Penduduk,,"1.525,3"
+penduduk,7600000,Sulawesi Barat,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,53"
+penduduk,7600000,Sulawesi Barat,2025,Persentase Penduduk,,"0,54"
+penduduk,7600000,Sulawesi Barat,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,92
+penduduk,7600000,Sulawesi Barat,2025,Rasio Jenis Kelamin Penduduk,,"102,7"
+penduduk,8100000,Maluku,2025,Jumlah Penduduk,,"1.970,6"
+penduduk,8100000,Maluku,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,35"
+penduduk,8100000,Maluku,2025,Persentase Penduduk,,"0,69"
+penduduk,8100000,Maluku,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,43
+penduduk,8100000,Maluku,2025,Rasio Jenis Kelamin Penduduk,,"102,2"
+penduduk,8200000,Maluku Utara,2025,Jumlah Penduduk,,"1.373,8"
+penduduk,8200000,Maluku Utara,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,45"
+penduduk,8200000,Maluku Utara,2025,Persentase Penduduk,,"0,48"
+penduduk,8200000,Maluku Utara,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,42
+penduduk,8200000,Maluku Utara,2025,Rasio Jenis Kelamin Penduduk,,"105,1"
+penduduk,9100000,Papua Barat,2025,Jumlah Penduduk,,"587,6"
+penduduk,9100000,Papua Barat,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,68"
+penduduk,9100000,Papua Barat,2025,Persentase Penduduk,,"0,21"
+penduduk,9100000,Papua Barat,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,10
+penduduk,9100000,Papua Barat,2025,Rasio Jenis Kelamin Penduduk,,"110,5"
+penduduk,9200000,Papua Barat Daya,2025,Jumlah Penduduk,,"636,4"
+penduduk,9200000,Papua Barat Daya,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,57"
+penduduk,9200000,Papua Barat Daya,2025,Persentase Penduduk,,"0,22"
+penduduk,9200000,Papua Barat Daya,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,16
+penduduk,9200000,Papua Barat Daya,2025,Rasio Jenis Kelamin Penduduk,,"108,5"
+penduduk,9400000,Papua,2025,Jumlah Penduduk,,"1.073,6"
+penduduk,9400000,Papua,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,34"
+penduduk,9400000,Papua,2025,Persentase Penduduk,,"0,38"
+penduduk,9400000,Papua,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,13
+penduduk,9400000,Papua,2025,Rasio Jenis Kelamin Penduduk,,"109,4"
+penduduk,9500000,Papua Selatan,2025,Jumlah Penduduk,,"549,7"
+penduduk,9500000,Papua Selatan,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,44"
+penduduk,9500000,Papua Selatan,2025,Persentase Penduduk,,"0,19"
+penduduk,9500000,Papua Selatan,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,5
+penduduk,9500000,Papua Selatan,2025,Rasio Jenis Kelamin Penduduk,,"107,7"
+penduduk,9600000,Papua Tengah,2025,Jumlah Penduduk,,"1.492,3"
+penduduk,9600000,Papua Tengah,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,49"
+penduduk,9600000,Papua Tengah,2025,Persentase Penduduk,,"0,52"
+penduduk,9600000,Papua Tengah,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,24
+penduduk,9600000,Papua Tengah,2025,Rasio Jenis Kelamin Penduduk,,"113,5"
+penduduk,9700000,Papua Pegunungan,2025,Jumlah Penduduk,,"1.484,9"
+penduduk,9700000,Papua Pegunungan,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,39"
+penduduk,9700000,Papua Pegunungan,2025,Persentase Penduduk,,"0,52"
+penduduk,9700000,Papua Pegunungan,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,29
+penduduk,9700000,Papua Pegunungan,2025,Rasio Jenis Kelamin Penduduk,,"114,0"
+penduduk,0000000,Indonesia,2025,Jumlah Penduduk,,"284.438,8"
+penduduk,0000000,Indonesia,2025,Laju Pertumbuhan Penduduk per Tahun,,"1,09"
+penduduk,0000000,Indonesia,2025,Persentase Penduduk,,"100,00"
+penduduk,0000000,Indonesia,2025,Kepadatan Penduduk per km persegi,km<sup>2</sup>,150
+penduduk,0000000,Indonesia,2025,Rasio Jenis Kelamin Penduduk,,"101,9"
+penduduk,1100000,Aceh,2026,Jumlah Penduduk,,"5.695,9"
+penduduk,1100000,Aceh,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,34"
+penduduk,1100000,Aceh,2026,Persentase Penduduk,,"1,98"
+penduduk,1100000,Aceh,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,100
+penduduk,1100000,Aceh,2026,Rasio Jenis Kelamin Penduduk,,"100,9"
+penduduk,1200000,Sumatera Utara,2026,Jumlah Penduduk,,"15.978,6"
+penduduk,1200000,Sumatera Utara,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,34"
+penduduk,1200000,Sumatera Utara,2026,Persentase Penduduk,,"5,56"
+penduduk,1200000,Sumatera Utara,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,221
+penduduk,1200000,Sumatera Utara,2026,Rasio Jenis Kelamin Penduduk,,"100,8"
+penduduk,1300000,Sumatera Barat,2026,Jumlah Penduduk,,"5.991,6"
+penduduk,1300000,Sumatera Barat,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,39"
+penduduk,1300000,Sumatera Barat,2026,Persentase Penduduk,,"2,09"
+penduduk,1300000,Sumatera Barat,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,142
+penduduk,1300000,Sumatera Barat,2026,Rasio Jenis Kelamin Penduduk,,"101,5"
+penduduk,1400000,Riau,2026,Jumlah Penduduk,,"6.892,4"
+penduduk,1400000,Riau,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,31"
+penduduk,1400000,Riau,2026,Persentase Penduduk,,"2,40"
+penduduk,1400000,Riau,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,77
+penduduk,1400000,Riau,2026,Rasio Jenis Kelamin Penduduk,,"104,1"
+penduduk,1500000,Jambi,2026,Jumlah Penduduk,,"3.811,7"
+penduduk,1500000,Jambi,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,25"
+penduduk,1500000,Jambi,2026,Persentase Penduduk,,"1,33"
+penduduk,1500000,Jambi,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,78
+penduduk,1500000,Jambi,2026,Rasio Jenis Kelamin Penduduk,,"103,0"
+penduduk,1600000,Sumatera Selatan,2026,Jumlah Penduduk,,"9.017,1"
+penduduk,1600000,Sumatera Selatan,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,10"
+penduduk,1600000,Sumatera Selatan,2026,Persentase Penduduk,,"3,14"
+penduduk,1600000,Sumatera Selatan,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,104
+penduduk,1600000,Sumatera Selatan,2026,Rasio Jenis Kelamin Penduduk,,"103,4"
+penduduk,1700000,Bengkulu,2026,Jumlah Penduduk,,"2.163,3"
+penduduk,1700000,Bengkulu,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,28"
+penduduk,1700000,Bengkulu,2026,Persentase Penduduk,,"0,75"
+penduduk,1700000,Bengkulu,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,108
+penduduk,1700000,Bengkulu,2026,Rasio Jenis Kelamin Penduduk,,"104,1"
+penduduk,1800000,Lampung,2026,Jumlah Penduduk,,"9.623,8"
+penduduk,1800000,Lampung,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,16"
+penduduk,1800000,Lampung,2026,Persentase Penduduk,,"3,35"
+penduduk,1800000,Lampung,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,287
+penduduk,1800000,Lampung,2026,Rasio Jenis Kelamin Penduduk,,"103,9"
+penduduk,1900000,Kepulauan Bangka Belitung,2026,Jumlah Penduduk,,"1.569,7"
+penduduk,1900000,Kepulauan Bangka Belitung,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,32"
+penduduk,1900000,Kepulauan Bangka Belitung,2026,Persentase Penduduk,,"0,55"
+penduduk,1900000,Kepulauan Bangka Belitung,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,94
+penduduk,1900000,Kepulauan Bangka Belitung,2026,Rasio Jenis Kelamin Penduduk,,"105,0"
+penduduk,2100000,Kepulauan Riau,2026,Jumlah Penduduk,,"2.243,1"
+penduduk,2100000,Kepulauan Riau,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,45"
+penduduk,2100000,Kepulauan Riau,2026,Persentase Penduduk,,"0,78"
+penduduk,2100000,Kepulauan Riau,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,275
+penduduk,2100000,Kepulauan Riau,2026,Rasio Jenis Kelamin Penduduk,,"102,9"
+penduduk,3100000,DKI Jakarta,2026,Jumlah Penduduk,,"10.669,7"
+penduduk,3100000,DKI Jakarta,2026,Laju Pertumbuhan Penduduk per Tahun,,"0,18"
+penduduk,3100000,DKI Jakarta,2026,Persentase Penduduk,,"3,72"
+penduduk,3100000,DKI Jakarta,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,16.129
+penduduk,3100000,DKI Jakarta,2026,Rasio Jenis Kelamin Penduduk,,"100,5"
+penduduk,3200000,Jawa Barat,2026,Jumlah Penduduk,,"51.163,9"
+penduduk,3200000,Jawa Barat,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,02"
+penduduk,3200000,Jawa Barat,2026,Persentase Penduduk,,"17,81"
+penduduk,3200000,Jawa Barat,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.381
+penduduk,3200000,Jawa Barat,2026,Rasio Jenis Kelamin Penduduk,,"102,3"
+penduduk,3300000,Jawa Tengah,2026,Jumlah Penduduk,,"38.565,0"
+penduduk,3300000,Jawa Tengah,2026,Laju Pertumbuhan Penduduk per Tahun,,"0,95"
+penduduk,3300000,Jawa Tengah,2026,Persentase Penduduk,,"13,43"
+penduduk,3300000,Jawa Tengah,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.123
+penduduk,3300000,Jawa Tengah,2026,Rasio Jenis Kelamin Penduduk,,"100,8"
+penduduk,3400000,DI Yogyakarta,2026,Jumlah Penduduk,,"3.802,7"
+penduduk,3400000,DI Yogyakarta,2026,Laju Pertumbuhan Penduduk per Tahun,,"0,63"
+penduduk,3400000,DI Yogyakarta,2026,Persentase Penduduk,,"1,32"
+penduduk,3400000,DI Yogyakarta,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.199
+penduduk,3400000,DI Yogyakarta,2026,Rasio Jenis Kelamin Penduduk,,"97,7"
+penduduk,3500000,Jawa Timur,2026,Jumlah Penduduk,,"42.352,0"
+penduduk,3500000,Jawa Timur,2026,Laju Pertumbuhan Penduduk per Tahun,,"0,71"
+penduduk,3500000,Jawa Timur,2026,Persentase Penduduk,,"14,75"
+penduduk,3500000,Jawa Timur,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,881
+penduduk,3500000,Jawa Timur,2026,Rasio Jenis Kelamin Penduduk,,"99,3"
+penduduk,3600000,Banten,2026,Jumlah Penduduk,,"12.641,3"
+penduduk,3600000,Banten,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,05"
+penduduk,3600000,Banten,2026,Persentase Penduduk,,"4,40"
+penduduk,3600000,Banten,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,1.351
+penduduk,3600000,Banten,2026,Rasio Jenis Kelamin Penduduk,,"103,1"
+penduduk,5100000,Bali,2026,Jumlah Penduduk,,"4.488,2"
+penduduk,5100000,Bali,2026,Laju Pertumbuhan Penduduk per Tahun,,"0,68"
+penduduk,5100000,Bali,2026,Persentase Penduduk,,"1,56"
+penduduk,5100000,Bali,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,804
+penduduk,5100000,Bali,2026,Rasio Jenis Kelamin Penduduk,,"100,2"
+penduduk,5200000,Nusa Tenggara Barat,2026,Jumlah Penduduk,,"5.815,3"
+penduduk,5200000,Nusa Tenggara Barat,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,56"
+penduduk,5200000,Nusa Tenggara Barat,2026,Persentase Penduduk,,"2,02"
+penduduk,5200000,Nusa Tenggara Barat,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,296
+penduduk,5200000,Nusa Tenggara Barat,2026,Rasio Jenis Kelamin Penduduk,,"101,2"
+penduduk,5300000,Nusa Tenggara Timur,2026,Jumlah Penduduk,,"5.828,6"
+penduduk,5300000,Nusa Tenggara Timur,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,58"
+penduduk,5300000,Nusa Tenggara Timur,2026,Persentase Penduduk,,"2,03"
+penduduk,5300000,Nusa Tenggara Timur,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,126
+penduduk,5300000,Nusa Tenggara Timur,2026,Rasio Jenis Kelamin Penduduk,,"100,0"
+penduduk,6100000,Kalimantan Barat,2026,Jumlah Penduduk,,"5.835,0"
+penduduk,6100000,Kalimantan Barat,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,31"
+penduduk,6100000,Kalimantan Barat,2026,Persentase Penduduk,,"2,03"
+penduduk,6100000,Kalimantan Barat,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,40
+penduduk,6100000,Kalimantan Barat,2026,Rasio Jenis Kelamin Penduduk,,"105,1"
+penduduk,6200000,Kalimantan Tengah,2026,Jumlah Penduduk,,"2.879,5"
+penduduk,6200000,Kalimantan Tengah,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,32"
+penduduk,6200000,Kalimantan Tengah,2026,Persentase Penduduk,,"1,00"
+penduduk,6200000,Kalimantan Tengah,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,19
+penduduk,6200000,Kalimantan Tengah,2026,Rasio Jenis Kelamin Penduduk,,"106,2"
+penduduk,6300000,Kalimantan Selatan,2026,Jumlah Penduduk,,"4.372,1"
+penduduk,6300000,Kalimantan Selatan,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,24"
+penduduk,6300000,Kalimantan Selatan,2026,Persentase Penduduk,,"1,52"
+penduduk,6300000,Kalimantan Selatan,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,118
+penduduk,6300000,Kalimantan Selatan,2026,Rasio Jenis Kelamin Penduduk,,"102,1"
+penduduk,6400000,Kalimantan Timur,2026,Jumlah Penduduk,,"4.478,4"
+penduduk,6400000,Kalimantan Timur,2026,Laju Pertumbuhan Penduduk per Tahun,,"3,06"
+penduduk,6400000,Kalimantan Timur,2026,Persentase Penduduk,,"1,56"
+penduduk,6400000,Kalimantan Timur,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,35
+penduduk,6400000,Kalimantan Timur,2026,Rasio Jenis Kelamin Penduduk,,"106,5"
+penduduk,6500000,Kalimantan Utara,2026,Jumlah Penduduk,,"758,8"
+penduduk,6500000,Kalimantan Utara,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,37"
+penduduk,6500000,Kalimantan Utara,2026,Persentase Penduduk,,"0,26"
+penduduk,6500000,Kalimantan Utara,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,11
+penduduk,6500000,Kalimantan Utara,2026,Rasio Jenis Kelamin Penduduk,,"110,0"
+penduduk,7100000,Sulawesi Utara,2026,Jumlah Penduduk,,"2.740,5"
+penduduk,7100000,Sulawesi Utara,2026,Laju Pertumbuhan Penduduk per Tahun,,"0,77"
+penduduk,7100000,Sulawesi Utara,2026,Persentase Penduduk,,"0,95"
+penduduk,7100000,Sulawesi Utara,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,189
+penduduk,7100000,Sulawesi Utara,2026,Rasio Jenis Kelamin Penduduk,,"104,0"
+penduduk,7200000,Sulawesi Tengah,2026,Jumlah Penduduk,,"3.189,8"
+penduduk,7200000,Sulawesi Tengah,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,16"
+penduduk,7200000,Sulawesi Tengah,2026,Persentase Penduduk,,"1,11"
+penduduk,7200000,Sulawesi Tengah,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,52
+penduduk,7200000,Sulawesi Tengah,2026,Rasio Jenis Kelamin Penduduk,,"105,0"
+penduduk,7300000,Sulawesi Selatan,2026,Jumlah Penduduk,,"9.661,3"
+penduduk,7300000,Sulawesi Selatan,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,10"
+penduduk,7300000,Sulawesi Selatan,2026,Persentase Penduduk,,"3,36"
+penduduk,7300000,Sulawesi Selatan,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,213
+penduduk,7300000,Sulawesi Selatan,2026,Rasio Jenis Kelamin Penduduk,,"98,8"
+penduduk,7400000,Sulawesi Tenggara,2026,Jumlah Penduduk,,"2.880,0"
+penduduk,7400000,Sulawesi Tenggara,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,63"
+penduduk,7400000,Sulawesi Tenggara,2026,Persentase Penduduk,,"1,00"
+penduduk,7400000,Sulawesi Tenggara,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,80
+penduduk,7400000,Sulawesi Tenggara,2026,Rasio Jenis Kelamin Penduduk,,"102,5"
+penduduk,7500000,Gorontalo,2026,Jumlah Penduduk,,"1.256,4"
+penduduk,7500000,Gorontalo,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,22"
+penduduk,7500000,Gorontalo,2026,Persentase Penduduk,,"0,44"
+penduduk,7500000,Gorontalo,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,104
+penduduk,7500000,Gorontalo,2026,Rasio Jenis Kelamin Penduduk,,"101,5"
+penduduk,7600000,Sulawesi Barat,2026,Jumlah Penduduk,,"1.547,4"
+penduduk,7600000,Sulawesi Barat,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,51"
+penduduk,7600000,Sulawesi Barat,2026,Persentase Penduduk,,"0,54"
+penduduk,7600000,Sulawesi Barat,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,93
+penduduk,7600000,Sulawesi Barat,2026,Rasio Jenis Kelamin Penduduk,,"102,6"
+penduduk,8100000,Maluku,2026,Jumlah Penduduk,,"1.995,2"
+penduduk,8100000,Maluku,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,33"
+penduduk,8100000,Maluku,2026,Persentase Penduduk,,"0,69"
+penduduk,8100000,Maluku,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,43
+penduduk,8100000,Maluku,2026,Rasio Jenis Kelamin Penduduk,,"102,2"
+penduduk,8200000,Maluku Utara,2026,Jumlah Penduduk,,"1.391,7"
+penduduk,8200000,Maluku Utara,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,43"
+penduduk,8200000,Maluku Utara,2026,Persentase Penduduk,,"0,48"
+penduduk,8200000,Maluku Utara,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,44
+penduduk,8200000,Maluku Utara,2026,Rasio Jenis Kelamin Penduduk,,"105,1"
+penduduk,9100000,Papua Barat,2026,Jumlah Penduduk,,"596,5"
+penduduk,9100000,Papua Barat,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,65"
+penduduk,9100000,Papua Barat,2026,Persentase Penduduk,,"0,21"
+penduduk,9100000,Papua Barat,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,10
+penduduk,9100000,Papua Barat,2026,Rasio Jenis Kelamin Penduduk,,"110,2"
+penduduk,9200000,Papua Barat Daya,2026,Jumlah Penduduk,,"645,5"
+penduduk,9200000,Papua Barat Daya,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,55"
+penduduk,9200000,Papua Barat Daya,2026,Persentase Penduduk,,"0,22"
+penduduk,9200000,Papua Barat Daya,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,17
+penduduk,9200000,Papua Barat Daya,2026,Rasio Jenis Kelamin Penduduk,,"108,1"
+penduduk,9400000,Papua,2026,Jumlah Penduduk,,"1.086,5"
+penduduk,9400000,Papua,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,31"
+penduduk,9400000,Papua,2026,Persentase Penduduk,,"0,38"
+penduduk,9400000,Papua,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,13
+penduduk,9400000,Papua,2026,Rasio Jenis Kelamin Penduduk,,"109,1"
+penduduk,9500000,Papua Selatan,2026,Jumlah Penduduk,,"557,2"
+penduduk,9500000,Papua Selatan,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,43"
+penduduk,9500000,Papua Selatan,2026,Persentase Penduduk,,"0,19"
+penduduk,9500000,Papua Selatan,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,5
+penduduk,9500000,Papua Selatan,2026,Rasio Jenis Kelamin Penduduk,,"107,5"
+penduduk,9600000,Papua Tengah,2026,Jumlah Penduduk,,"1.510,8"
+penduduk,9600000,Papua Tengah,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,45"
+penduduk,9600000,Papua Tengah,2026,Persentase Penduduk,,"0,53"
+penduduk,9600000,Papua Tengah,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,25
+penduduk,9600000,Papua Tengah,2026,Rasio Jenis Kelamin Penduduk,,"113,1"
+penduduk,9700000,Papua Pegunungan,2026,Jumlah Penduduk,,"1.501,9"
+penduduk,9700000,Papua Pegunungan,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,34"
+penduduk,9700000,Papua Pegunungan,2026,Persentase Penduduk,,"0,52"
+penduduk,9700000,Papua Pegunungan,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,29
+penduduk,9700000,Papua Pegunungan,2026,Rasio Jenis Kelamin Penduduk,,"113,5"
+penduduk,0000000,Indonesia,2026,Jumlah Penduduk,,"287.198,4"
+penduduk,0000000,Indonesia,2026,Laju Pertumbuhan Penduduk per Tahun,,"1,07"
+penduduk,0000000,Indonesia,2026,Persentase Penduduk,,"100,00"
+penduduk,0000000,Indonesia,2026,Kepadatan Penduduk per km persegi,km<sup>2</sup>,152
+penduduk,0000000,Indonesia,2026,Rasio Jenis Kelamin Penduduk,,"101,8"

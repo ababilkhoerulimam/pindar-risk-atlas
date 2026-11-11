@@ -1,0 +1,568 @@
+indicator,kode_wilayah,provinsi_raw,tahun,variabel,satuan,nilai_raw
+kemiskinan,1100000,Aceh,2023,Garis Kemiskinan - Maret,Rp,627.534
+kemiskinan,1100000,Aceh,2023,Jumlah Penduduk Miskin - Maret (ribu),,"806,75"
+kemiskinan,1100000,Aceh,2023,Persentase Penduduk Miskin - Maret,,"14,45"
+kemiskinan,1200000,Sumatera Utara,2023,Garis Kemiskinan - Maret,Rp,602.999
+kemiskinan,1200000,Sumatera Utara,2023,Jumlah Penduduk Miskin - Maret (ribu),,"1.239,71"
+kemiskinan,1200000,Sumatera Utara,2023,Persentase Penduduk Miskin - Maret,,"8,15"
+kemiskinan,1300000,Sumatera Barat,2023,Garis Kemiskinan - Maret,Rp,667.925
+kemiskinan,1300000,Sumatera Barat,2023,Jumlah Penduduk Miskin - Maret (ribu),,"340,37"
+kemiskinan,1300000,Sumatera Barat,2023,Persentase Penduduk Miskin - Maret,,"5,95"
+kemiskinan,1400000,Riau,2023,Garis Kemiskinan - Maret,Rp,658.611
+kemiskinan,1400000,Riau,2023,Jumlah Penduduk Miskin - Maret (ribu),,"485,66"
+kemiskinan,1400000,Riau,2023,Persentase Penduduk Miskin - Maret,,"6,68"
+kemiskinan,1500000,Jambi,2023,Garis Kemiskinan - Maret,Rp,599.688
+kemiskinan,1500000,Jambi,2023,Jumlah Penduduk Miskin - Maret (ribu),,"280,68"
+kemiskinan,1500000,Jambi,2023,Persentase Penduduk Miskin - Maret,,"7,58"
+kemiskinan,1600000,Sumatera Selatan,2023,Garis Kemiskinan - Maret,Rp,520.754
+kemiskinan,1600000,Sumatera Selatan,2023,Jumlah Penduduk Miskin - Maret (ribu),,"1.045,68"
+kemiskinan,1600000,Sumatera Selatan,2023,Persentase Penduduk Miskin - Maret,,"11,78"
+kemiskinan,1700000,Bengkulu,2023,Garis Kemiskinan - Maret,Rp,637.142
+kemiskinan,1700000,Bengkulu,2023,Jumlah Penduduk Miskin - Maret (ribu),,"288,46"
+kemiskinan,1700000,Bengkulu,2023,Persentase Penduduk Miskin - Maret,,"14,04"
+kemiskinan,1800000,Lampung,2023,Garis Kemiskinan - Maret,Rp,559.011
+kemiskinan,1800000,Lampung,2023,Jumlah Penduduk Miskin - Maret (ribu),,"970,67"
+kemiskinan,1800000,Lampung,2023,Persentase Penduduk Miskin - Maret,,"11,11"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2023,Garis Kemiskinan - Maret,Rp,874.204
+kemiskinan,1900000,Kepulauan Bangka Belitung,2023,Jumlah Penduduk Miskin - Maret (ribu),,"68,69"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2023,Persentase Penduduk Miskin - Maret,,"4,52"
+kemiskinan,2100000,Kepulauan Riau,2023,Garis Kemiskinan - Maret,Rp,742.526
+kemiskinan,2100000,Kepulauan Riau,2023,Jumlah Penduduk Miskin - Maret (ribu),,"142,50"
+kemiskinan,2100000,Kepulauan Riau,2023,Persentase Penduduk Miskin - Maret,,"5,69"
+kemiskinan,3100000,DKI Jakarta,2023,Garis Kemiskinan - Maret,Rp,792.515
+kemiskinan,3100000,DKI Jakarta,2023,Jumlah Penduduk Miskin - Maret (ribu),,"477,83"
+kemiskinan,3100000,DKI Jakarta,2023,Persentase Penduduk Miskin - Maret,,"4,44"
+kemiskinan,3200000,Jawa Barat,2023,Garis Kemiskinan - Maret,Rp,495.229
+kemiskinan,3200000,Jawa Barat,2023,Jumlah Penduduk Miskin - Maret (ribu),,"3.888,60"
+kemiskinan,3200000,Jawa Barat,2023,Persentase Penduduk Miskin - Maret,,"7,62"
+kemiskinan,3300000,Jawa Tengah,2023,Garis Kemiskinan - Maret,Rp,477.580
+kemiskinan,3300000,Jawa Tengah,2023,Jumlah Penduduk Miskin - Maret (ribu),,"3.791,50"
+kemiskinan,3300000,Jawa Tengah,2023,Persentase Penduduk Miskin - Maret,,"10,77"
+kemiskinan,3400000,DI Yogyakarta,2023,Garis Kemiskinan - Maret,Rp,573.022
+kemiskinan,3400000,DI Yogyakarta,2023,Jumlah Penduduk Miskin - Maret (ribu),,"448,47"
+kemiskinan,3400000,DI Yogyakarta,2023,Persentase Penduduk Miskin - Maret,,"11,04"
+kemiskinan,3500000,Jawa Timur,2023,Garis Kemiskinan - Maret,Rp,507.286
+kemiskinan,3500000,Jawa Timur,2023,Jumlah Penduduk Miskin - Maret (ribu),,"4.188,81"
+kemiskinan,3500000,Jawa Timur,2023,Persentase Penduduk Miskin - Maret,,"10,35"
+kemiskinan,3600000,Banten,2023,Garis Kemiskinan - Maret,Rp,618.721
+kemiskinan,3600000,Banten,2023,Jumlah Penduduk Miskin - Maret (ribu),,"826,13"
+kemiskinan,3600000,Banten,2023,Persentase Penduduk Miskin - Maret,,"6,17"
+kemiskinan,5100000,Bali,2023,Garis Kemiskinan - Maret,Rp,529.643
+kemiskinan,5100000,Bali,2023,Jumlah Penduduk Miskin - Maret (ribu),,"193,78"
+kemiskinan,5100000,Bali,2023,Persentase Penduduk Miskin - Maret,,"4,25"
+kemiskinan,5200000,Nusa Tenggara Barat,2023,Garis Kemiskinan - Maret,Rp,498.996
+kemiskinan,5200000,Nusa Tenggara Barat,2023,Jumlah Penduduk Miskin - Maret (ribu),,"751,23"
+kemiskinan,5200000,Nusa Tenggara Barat,2023,Persentase Penduduk Miskin - Maret,,"13,85"
+kemiskinan,5300000,Nusa Tenggara Timur,2023,Garis Kemiskinan - Maret,Rp,507.203
+kemiskinan,5300000,Nusa Tenggara Timur,2023,Jumlah Penduduk Miskin - Maret (ribu),,"1.141,11"
+kemiskinan,5300000,Nusa Tenggara Timur,2023,Persentase Penduduk Miskin - Maret,,"19,96"
+kemiskinan,6100000,Kalimantan Barat,2023,Garis Kemiskinan - Maret,Rp,563.288
+kemiskinan,6100000,Kalimantan Barat,2023,Jumlah Penduduk Miskin - Maret (ribu),,"353,35"
+kemiskinan,6100000,Kalimantan Barat,2023,Persentase Penduduk Miskin - Maret,,"6,71"
+kemiskinan,6200000,Kalimantan Tengah,2023,Garis Kemiskinan - Maret,Rp,596.184
+kemiskinan,6200000,Kalimantan Tengah,2023,Jumlah Penduduk Miskin - Maret (ribu),,"142,17"
+kemiskinan,6200000,Kalimantan Tengah,2023,Persentase Penduduk Miskin - Maret,,"5,11"
+kemiskinan,6300000,Kalimantan Selatan,2023,Garis Kemiskinan - Maret,Rp,604.266
+kemiskinan,6300000,Kalimantan Selatan,2023,Jumlah Penduduk Miskin - Maret (ribu),,"188,93"
+kemiskinan,6300000,Kalimantan Selatan,2023,Persentase Penduduk Miskin - Maret,,"4,29"
+kemiskinan,6400000,Kalimantan Timur,2023,Garis Kemiskinan - Maret,Rp,790.186
+kemiskinan,6400000,Kalimantan Timur,2023,Jumlah Penduduk Miskin - Maret (ribu),,"231,07"
+kemiskinan,6400000,Kalimantan Timur,2023,Persentase Penduduk Miskin - Maret,,"6,11"
+kemiskinan,6500000,Kalimantan Utara,2023,Garis Kemiskinan - Maret,Rp,817.876
+kemiskinan,6500000,Kalimantan Utara,2023,Jumlah Penduduk Miskin - Maret (ribu),,"47,97"
+kemiskinan,6500000,Kalimantan Utara,2023,Persentase Penduduk Miskin - Maret,,"6,45"
+kemiskinan,7100000,Sulawesi Utara,2023,Garis Kemiskinan - Maret,Rp,463.432
+kemiskinan,7100000,Sulawesi Utara,2023,Jumlah Penduduk Miskin - Maret (ribu),,"189,00"
+kemiskinan,7100000,Sulawesi Utara,2023,Persentase Penduduk Miskin - Maret,,"7,38"
+kemiskinan,7200000,Sulawesi Tengah,2023,Garis Kemiskinan - Maret,Rp,568.248
+kemiskinan,7200000,Sulawesi Tengah,2023,Jumlah Penduduk Miskin - Maret (ribu),,"395,66"
+kemiskinan,7200000,Sulawesi Tengah,2023,Persentase Penduduk Miskin - Maret,,"12,41"
+kemiskinan,7300000,Sulawesi Selatan,2023,Garis Kemiskinan - Maret,Rp,436.025
+kemiskinan,7300000,Sulawesi Selatan,2023,Jumlah Penduduk Miskin - Maret (ribu),,"788,85"
+kemiskinan,7300000,Sulawesi Selatan,2023,Persentase Penduduk Miskin - Maret,,"8,70"
+kemiskinan,7400000,Sulawesi Tenggara,2023,Garis Kemiskinan - Maret,Rp,443.980
+kemiskinan,7400000,Sulawesi Tenggara,2023,Jumlah Penduduk Miskin - Maret (ribu),,"321,53"
+kemiskinan,7400000,Sulawesi Tenggara,2023,Persentase Penduduk Miskin - Maret,,"11,43"
+kemiskinan,7500000,Gorontalo,2023,Garis Kemiskinan - Maret,Rp,442.194
+kemiskinan,7500000,Gorontalo,2023,Jumlah Penduduk Miskin - Maret (ribu),,"183,71"
+kemiskinan,7500000,Gorontalo,2023,Persentase Penduduk Miskin - Maret,,"15,15"
+kemiskinan,7600000,Sulawesi Barat,2023,Garis Kemiskinan - Maret,Rp,433.131
+kemiskinan,7600000,Sulawesi Barat,2023,Jumlah Penduduk Miskin - Maret (ribu),,"164,14"
+kemiskinan,7600000,Sulawesi Barat,2023,Persentase Penduduk Miskin - Maret,,"11,49"
+kemiskinan,8100000,Maluku,2023,Garis Kemiskinan - Maret,Rp,684.020
+kemiskinan,8100000,Maluku,2023,Jumlah Penduduk Miskin - Maret (ribu),,"301,61"
+kemiskinan,8100000,Maluku,2023,Persentase Penduduk Miskin - Maret,,"16,42"
+kemiskinan,8200000,Maluku Utara,2023,Garis Kemiskinan - Maret,Rp,564.733
+kemiskinan,8200000,Maluku Utara,2023,Jumlah Penduduk Miskin - Maret (ribu),,"83,80"
+kemiskinan,8200000,Maluku Utara,2023,Persentase Penduduk Miskin - Maret,,"6,46"
+kemiskinan,9100000,Papua Barat,2023,Garis Kemiskinan - Maret,Rp,728.619
+kemiskinan,9100000,Papua Barat,2023,Jumlah Penduduk Miskin - Maret (ribu),,"214,98"
+kemiskinan,9100000,Papua Barat,2023,Persentase Penduduk Miskin - Maret,,"20,49"
+kemiskinan,9400000,Papua,2023,Garis Kemiskinan - Maret,Rp,686.469
+kemiskinan,9400000,Papua,2023,Jumlah Penduduk Miskin - Maret (ribu),,"915,15"
+kemiskinan,9400000,Papua,2023,Persentase Penduduk Miskin - Maret,,"26,03"
+kemiskinan,0000000,Indonesia,2023,Garis Kemiskinan - Maret,Rp,550.458
+kemiskinan,0000000,Indonesia,2023,Jumlah Penduduk Miskin - Maret (ribu),,"25.898,55"
+kemiskinan,0000000,Indonesia,2023,Persentase Penduduk Miskin - Maret,,"9,36"
+kemiskinan,1100000,Aceh,2024,Garis Kemiskinan - Maret,Rp,661.227
+kemiskinan,1100000,Aceh,2024,Garis Kemiskinan - September,Rp,665.855
+kemiskinan,1100000,Aceh,2024,Jumlah Penduduk Miskin - Maret (ribu),,"804,53"
+kemiskinan,1100000,Aceh,2024,Jumlah Penduduk Miskin - September (ribu),,"718,96"
+kemiskinan,1100000,Aceh,2024,Persentase Penduduk Miskin - Maret,,"14,23"
+kemiskinan,1100000,Aceh,2024,Persentase Penduduk Miskin - September,,"12,64"
+kemiskinan,1200000,Sumatera Utara,2024,Garis Kemiskinan - Maret,Rp,642.423
+kemiskinan,1200000,Sumatera Utara,2024,Garis Kemiskinan - September,Rp,648.336
+kemiskinan,1200000,Sumatera Utara,2024,Jumlah Penduduk Miskin - Maret (ribu),,"1.228,01"
+kemiskinan,1200000,Sumatera Utara,2024,Jumlah Penduduk Miskin - September (ribu),,"1.110,92"
+kemiskinan,1200000,Sumatera Utara,2024,Persentase Penduduk Miskin - Maret,,"7,99"
+kemiskinan,1200000,Sumatera Utara,2024,Persentase Penduduk Miskin - September,,"7,19"
+kemiskinan,1300000,Sumatera Barat,2024,Garis Kemiskinan - Maret,Rp,708.416
+kemiskinan,1300000,Sumatera Barat,2024,Garis Kemiskinan - September,Rp,714.991
+kemiskinan,1300000,Sumatera Barat,2024,Jumlah Penduduk Miskin - Maret (ribu),,"345,73"
+kemiskinan,1300000,Sumatera Barat,2024,Jumlah Penduduk Miskin - September (ribu),,"315,43"
+kemiskinan,1300000,Sumatera Barat,2024,Persentase Penduduk Miskin - Maret,,"5,97"
+kemiskinan,1300000,Sumatera Barat,2024,Persentase Penduduk Miskin - September,,"5,42"
+kemiskinan,1400000,Riau,2024,Garis Kemiskinan - Maret,Rp,697.296
+kemiskinan,1400000,Riau,2024,Garis Kemiskinan - September,Rp,702.620
+kemiskinan,1400000,Riau,2024,Jumlah Penduduk Miskin - Maret (ribu),,"492,25"
+kemiskinan,1400000,Riau,2024,Jumlah Penduduk Miskin - September (ribu),,"473,04"
+kemiskinan,1400000,Riau,2024,Persentase Penduduk Miskin - Maret,,"6,67"
+kemiskinan,1400000,Riau,2024,Persentase Penduduk Miskin - September,,"6,36"
+kemiskinan,1500000,Jambi,2024,Garis Kemiskinan - Maret,Rp,650.115
+kemiskinan,1500000,Jambi,2024,Garis Kemiskinan - September,Rp,658.100
+kemiskinan,1500000,Jambi,2024,Jumlah Penduduk Miskin - Maret (ribu),,"265,42"
+kemiskinan,1500000,Jambi,2024,Jumlah Penduduk Miskin - September (ribu),,"272,70"
+kemiskinan,1500000,Jambi,2024,Persentase Penduduk Miskin - Maret,,"7,10"
+kemiskinan,1500000,Jambi,2024,Persentase Penduduk Miskin - September,,"7,26"
+kemiskinan,1600000,Sumatera Selatan,2024,Garis Kemiskinan - Maret,Rp,554.197
+kemiskinan,1600000,Sumatera Selatan,2024,Garis Kemiskinan - September,Rp,564.462
+kemiskinan,1600000,Sumatera Selatan,2024,Jumlah Penduduk Miskin - Maret (ribu),,"984,24"
+kemiskinan,1600000,Sumatera Selatan,2024,Jumlah Penduduk Miskin - September (ribu),,"948,84"
+kemiskinan,1600000,Sumatera Selatan,2024,Persentase Penduduk Miskin - Maret,,"10,97"
+kemiskinan,1600000,Sumatera Selatan,2024,Persentase Penduduk Miskin - September,,"10,51"
+kemiskinan,1700000,Bengkulu,2024,Garis Kemiskinan - Maret,Rp,671.095
+kemiskinan,1700000,Bengkulu,2024,Garis Kemiskinan - September,Rp,672.816
+kemiskinan,1700000,Bengkulu,2024,Jumlah Penduduk Miskin - Maret (ribu),,"281,36"
+kemiskinan,1700000,Bengkulu,2024,Jumlah Penduduk Miskin - September (ribu),,"261,15"
+kemiskinan,1700000,Bengkulu,2024,Persentase Penduduk Miskin - Maret,,"13,56"
+kemiskinan,1700000,Bengkulu,2024,Persentase Penduduk Miskin - September,,"12,52"
+kemiskinan,1800000,Lampung,2024,Garis Kemiskinan - Maret,Rp,586.551
+kemiskinan,1800000,Lampung,2024,Garis Kemiskinan - September,Rp,599.018
+kemiskinan,1800000,Lampung,2024,Jumlah Penduduk Miskin - Maret (ribu),,"941,23"
+kemiskinan,1800000,Lampung,2024,Jumlah Penduduk Miskin - September (ribu),,"939,30"
+kemiskinan,1800000,Lampung,2024,Persentase Penduduk Miskin - Maret,,"10,69"
+kemiskinan,1800000,Lampung,2024,Persentase Penduduk Miskin - September,,"10,62"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2024,Garis Kemiskinan - Maret,Rp,908.397
+kemiskinan,1900000,Kepulauan Bangka Belitung,2024,Garis Kemiskinan - September,Rp,917.673
+kemiskinan,1900000,Kepulauan Bangka Belitung,2024,Jumlah Penduduk Miskin - Maret (ribu),,"69,95"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2024,Jumlah Penduduk Miskin - September (ribu),,"78,58"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2024,Persentase Penduduk Miskin - Maret,,"4,55"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2024,Persentase Penduduk Miskin - September,,"5,08"
+kemiskinan,2100000,Kepulauan Riau,2024,Garis Kemiskinan - Maret,Rp,787.211
+kemiskinan,2100000,Kepulauan Riau,2024,Garis Kemiskinan - September,Rp,807.602
+kemiskinan,2100000,Kepulauan Riau,2024,Jumlah Penduduk Miskin - Maret (ribu),,"138,30"
+kemiskinan,2100000,Kepulauan Riau,2024,Jumlah Penduduk Miskin - September (ribu),,"124,96"
+kemiskinan,2100000,Kepulauan Riau,2024,Persentase Penduduk Miskin - Maret,,"5,37"
+kemiskinan,2100000,Kepulauan Riau,2024,Persentase Penduduk Miskin - September,,"4,78"
+kemiskinan,3100000,DKI Jakarta,2024,Garis Kemiskinan - Maret,Rp,825.288
+kemiskinan,3100000,DKI Jakarta,2024,Garis Kemiskinan - September,Rp,846.085
+kemiskinan,3100000,DKI Jakarta,2024,Jumlah Penduduk Miskin - Maret (ribu),,"464,93"
+kemiskinan,3100000,DKI Jakarta,2024,Jumlah Penduduk Miskin - September (ribu),,"449,07"
+kemiskinan,3100000,DKI Jakarta,2024,Persentase Penduduk Miskin - Maret,,"4,30"
+kemiskinan,3100000,DKI Jakarta,2024,Persentase Penduduk Miskin - September,,"4,14"
+kemiskinan,3200000,Jawa Barat,2024,Garis Kemiskinan - Maret,Rp,524.052
+kemiskinan,3200000,Jawa Barat,2024,Garis Kemiskinan - September,Rp,535.509
+kemiskinan,3200000,Jawa Barat,2024,Jumlah Penduduk Miskin - Maret (ribu),,"3.848,67"
+kemiskinan,3200000,Jawa Barat,2024,Jumlah Penduduk Miskin - September (ribu),,"3.668,35"
+kemiskinan,3200000,Jawa Barat,2024,Persentase Penduduk Miskin - Maret,,"7,46"
+kemiskinan,3200000,Jawa Barat,2024,Persentase Penduduk Miskin - September,,"7,08"
+kemiskinan,3300000,Jawa Tengah,2024,Garis Kemiskinan - Maret,Rp,507.001
+kemiskinan,3300000,Jawa Tengah,2024,Garis Kemiskinan - September,Rp,521.093
+kemiskinan,3300000,Jawa Tengah,2024,Jumlah Penduduk Miskin - Maret (ribu),,"3.704,33"
+kemiskinan,3300000,Jawa Tengah,2024,Jumlah Penduduk Miskin - September (ribu),,"3.396,34"
+kemiskinan,3300000,Jawa Tengah,2024,Persentase Penduduk Miskin - Maret,,"10,47"
+kemiskinan,3300000,Jawa Tengah,2024,Persentase Penduduk Miskin - September,,"9,58"
+kemiskinan,3400000,DI Yogyakarta,2024,Garis Kemiskinan - Maret,Rp,602.437
+kemiskinan,3400000,DI Yogyakarta,2024,Garis Kemiskinan - September,Rp,613.370
+kemiskinan,3400000,DI Yogyakarta,2024,Jumlah Penduduk Miskin - Maret (ribu),,"445,55"
+kemiskinan,3400000,DI Yogyakarta,2024,Jumlah Penduduk Miskin - September (ribu),,"430,47"
+kemiskinan,3400000,DI Yogyakarta,2024,Persentase Penduduk Miskin - Maret,,"10,83"
+kemiskinan,3400000,DI Yogyakarta,2024,Persentase Penduduk Miskin - September,,"10,40"
+kemiskinan,3500000,Jawa Timur,2024,Garis Kemiskinan - Maret,Rp,536.122
+kemiskinan,3500000,Jawa Timur,2024,Garis Kemiskinan - September,Rp,547.751
+kemiskinan,3500000,Jawa Timur,2024,Jumlah Penduduk Miskin - Maret (ribu),,"3.982,69"
+kemiskinan,3500000,Jawa Timur,2024,Jumlah Penduduk Miskin - September (ribu),,"3.893,82"
+kemiskinan,3500000,Jawa Timur,2024,Persentase Penduduk Miskin - Maret,,"9,79"
+kemiskinan,3500000,Jawa Timur,2024,Persentase Penduduk Miskin - September,,"9,56"
+kemiskinan,3600000,Banten,2024,Garis Kemiskinan - Maret,Rp,654.213
+kemiskinan,3600000,Banten,2024,Garis Kemiskinan - September,Rp,667.403
+kemiskinan,3600000,Banten,2024,Jumlah Penduduk Miskin - Maret (ribu),,"791,61"
+kemiskinan,3600000,Banten,2024,Jumlah Penduduk Miskin - September (ribu),,"777,49"
+kemiskinan,3600000,Banten,2024,Persentase Penduduk Miskin - Maret,,"5,84"
+kemiskinan,3600000,Banten,2024,Persentase Penduduk Miskin - September,,"5,70"
+kemiskinan,5100000,Bali,2024,Garis Kemiskinan - Maret,Rp,568.510
+kemiskinan,5100000,Bali,2024,Garis Kemiskinan - September,Rp,580.306
+kemiskinan,5100000,Bali,2024,Jumlah Penduduk Miskin - Maret (ribu),,"184,43"
+kemiskinan,5100000,Bali,2024,Jumlah Penduduk Miskin - September (ribu),,"176,21"
+kemiskinan,5100000,Bali,2024,Persentase Penduduk Miskin - Maret,,"4,00"
+kemiskinan,5100000,Bali,2024,Persentase Penduduk Miskin - September,,"3,80"
+kemiskinan,5200000,Nusa Tenggara Barat,2024,Garis Kemiskinan - Maret,Rp,534.703
+kemiskinan,5200000,Nusa Tenggara Barat,2024,Garis Kemiskinan - September,Rp,540.339
+kemiskinan,5200000,Nusa Tenggara Barat,2024,Jumlah Penduduk Miskin - Maret (ribu),,"709,01"
+kemiskinan,5200000,Nusa Tenggara Barat,2024,Jumlah Penduduk Miskin - September (ribu),,"658,60"
+kemiskinan,5200000,Nusa Tenggara Barat,2024,Persentase Penduduk Miskin - Maret,,"12,91"
+kemiskinan,5200000,Nusa Tenggara Barat,2024,Persentase Penduduk Miskin - September,,"11,91"
+kemiskinan,5300000,Nusa Tenggara Timur,2024,Garis Kemiskinan - Maret,Rp,527.275
+kemiskinan,5300000,Nusa Tenggara Timur,2024,Garis Kemiskinan - September,Rp,533.944
+kemiskinan,5300000,Nusa Tenggara Timur,2024,Jumlah Penduduk Miskin - Maret (ribu),,"1.127,57"
+kemiskinan,5300000,Nusa Tenggara Timur,2024,Jumlah Penduduk Miskin - September (ribu),,"1.107,94"
+kemiskinan,5300000,Nusa Tenggara Timur,2024,Persentase Penduduk Miskin - Maret,,"19,48"
+kemiskinan,5300000,Nusa Tenggara Timur,2024,Persentase Penduduk Miskin - September,,"19,02"
+kemiskinan,6100000,Kalimantan Barat,2024,Garis Kemiskinan - Maret,Rp,595.509
+kemiskinan,6100000,Kalimantan Barat,2024,Garis Kemiskinan - September,Rp,611.320
+kemiskinan,6100000,Kalimantan Barat,2024,Jumlah Penduduk Miskin - Maret (ribu),,"336,08"
+kemiskinan,6100000,Kalimantan Barat,2024,Jumlah Penduduk Miskin - September (ribu),,"333,99"
+kemiskinan,6100000,Kalimantan Barat,2024,Persentase Penduduk Miskin - Maret,,"6,32"
+kemiskinan,6100000,Kalimantan Barat,2024,Persentase Penduduk Miskin - September,,"6,25"
+kemiskinan,6200000,Kalimantan Tengah,2024,Garis Kemiskinan - Maret,Rp,623.954
+kemiskinan,6200000,Kalimantan Tengah,2024,Garis Kemiskinan - September,Rp,641.524
+kemiskinan,6200000,Kalimantan Tengah,2024,Jumlah Penduduk Miskin - Maret (ribu),,"145,63"
+kemiskinan,6200000,Kalimantan Tengah,2024,Jumlah Penduduk Miskin - September (ribu),,"149,24"
+kemiskinan,6200000,Kalimantan Tengah,2024,Persentase Penduduk Miskin - Maret,,"5,17"
+kemiskinan,6200000,Kalimantan Tengah,2024,Persentase Penduduk Miskin - September,,"5,26"
+kemiskinan,6300000,Kalimantan Selatan,2024,Garis Kemiskinan - Maret,Rp,632.739
+kemiskinan,6300000,Kalimantan Selatan,2024,Garis Kemiskinan - September,Rp,644.107
+kemiskinan,6300000,Kalimantan Selatan,2024,Jumlah Penduduk Miskin - Maret (ribu),,"183,31"
+kemiskinan,6300000,Kalimantan Selatan,2024,Jumlah Penduduk Miskin - September (ribu),,"180,20"
+kemiskinan,6300000,Kalimantan Selatan,2024,Persentase Penduduk Miskin - Maret,,"4,11"
+kemiskinan,6300000,Kalimantan Selatan,2024,Persentase Penduduk Miskin - September,,"4,02"
+kemiskinan,6400000,Kalimantan Timur,2024,Garis Kemiskinan - Maret,Rp,833.955
+kemiskinan,6400000,Kalimantan Timur,2024,Garis Kemiskinan - September,Rp,853.997
+kemiskinan,6400000,Kalimantan Timur,2024,Jumlah Penduduk Miskin - Maret (ribu),,"221,34"
+kemiskinan,6400000,Kalimantan Timur,2024,Jumlah Penduduk Miskin - September (ribu),,"211,88"
+kemiskinan,6400000,Kalimantan Timur,2024,Persentase Penduduk Miskin - Maret,,"5,78"
+kemiskinan,6400000,Kalimantan Timur,2024,Persentase Penduduk Miskin - September,,"5,51"
+kemiskinan,6500000,Kalimantan Utara,2024,Garis Kemiskinan - Maret,Rp,854.294
+kemiskinan,6500000,Kalimantan Utara,2024,Garis Kemiskinan - September,Rp,876.375
+kemiskinan,6500000,Kalimantan Utara,2024,Jumlah Penduduk Miskin - Maret (ribu),,"47,83"
+kemiskinan,6500000,Kalimantan Utara,2024,Jumlah Penduduk Miskin - September (ribu),,"41,11"
+kemiskinan,6500000,Kalimantan Utara,2024,Persentase Penduduk Miskin - Maret,,"6,32"
+kemiskinan,6500000,Kalimantan Utara,2024,Persentase Penduduk Miskin - September,,"5,38"
+kemiskinan,7100000,Sulawesi Utara,2024,Garis Kemiskinan - Maret,Rp,490.719
+kemiskinan,7100000,Sulawesi Utara,2024,Garis Kemiskinan - September,Rp,511.710
+kemiskinan,7100000,Sulawesi Utara,2024,Jumlah Penduduk Miskin - Maret (ribu),,"186,86"
+kemiskinan,7100000,Sulawesi Utara,2024,Jumlah Penduduk Miskin - September (ribu),,"173,30"
+kemiskinan,7100000,Sulawesi Utara,2024,Persentase Penduduk Miskin - Maret,,"7,25"
+kemiskinan,7100000,Sulawesi Utara,2024,Persentase Penduduk Miskin - September,,"6,70"
+kemiskinan,7200000,Sulawesi Tengah,2024,Garis Kemiskinan - Maret,Rp,600.872
+kemiskinan,7200000,Sulawesi Tengah,2024,Garis Kemiskinan - September,Rp,608.687
+kemiskinan,7200000,Sulawesi Tengah,2024,Jumlah Penduduk Miskin - Maret (ribu),,"379,76"
+kemiskinan,7200000,Sulawesi Tengah,2024,Jumlah Penduduk Miskin - September (ribu),,"358,33"
+kemiskinan,7200000,Sulawesi Tengah,2024,Persentase Penduduk Miskin - Maret,,"11,77"
+kemiskinan,7200000,Sulawesi Tengah,2024,Persentase Penduduk Miskin - September,,"11,04"
+kemiskinan,7300000,Sulawesi Selatan,2024,Garis Kemiskinan - Maret,Rp,459.226
+kemiskinan,7300000,Sulawesi Selatan,2024,Garis Kemiskinan - September,Rp,467.991
+kemiskinan,7300000,Sulawesi Selatan,2024,Jumlah Penduduk Miskin - Maret (ribu),,"736,48"
+kemiskinan,7300000,Sulawesi Selatan,2024,Jumlah Penduduk Miskin - September (ribu),,"711,77"
+kemiskinan,7300000,Sulawesi Selatan,2024,Persentase Penduduk Miskin - Maret,,"8,06"
+kemiskinan,7300000,Sulawesi Selatan,2024,Persentase Penduduk Miskin - September,,"7,77"
+kemiskinan,7400000,Sulawesi Tenggara,2024,Garis Kemiskinan - Maret,Rp,462.715
+kemiskinan,7400000,Sulawesi Tenggara,2024,Garis Kemiskinan - September,Rp,473.343
+kemiskinan,7400000,Sulawesi Tenggara,2024,Jumlah Penduduk Miskin - Maret (ribu),,"319,71"
+kemiskinan,7400000,Sulawesi Tenggara,2024,Jumlah Penduduk Miskin - September (ribu),,"305,27"
+kemiskinan,7400000,Sulawesi Tenggara,2024,Persentase Penduduk Miskin - Maret,,"11,21"
+kemiskinan,7400000,Sulawesi Tenggara,2024,Persentase Penduduk Miskin - September,,"10,63"
+kemiskinan,7500000,Gorontalo,2024,Garis Kemiskinan - Maret,Rp,473.006
+kemiskinan,7500000,Gorontalo,2024,Garis Kemiskinan - September,Rp,487.578
+kemiskinan,7500000,Gorontalo,2024,Jumlah Penduduk Miskin - Maret (ribu),,"177,99"
+kemiskinan,7500000,Gorontalo,2024,Jumlah Penduduk Miskin - September (ribu),,"170,03"
+kemiskinan,7500000,Gorontalo,2024,Persentase Penduduk Miskin - Maret,,"14,57"
+kemiskinan,7500000,Gorontalo,2024,Persentase Penduduk Miskin - September,,"13,87"
+kemiskinan,7600000,Sulawesi Barat,2024,Garis Kemiskinan - Maret,Rp,454.879
+kemiskinan,7600000,Sulawesi Barat,2024,Garis Kemiskinan - September,Rp,460.283
+kemiskinan,7600000,Sulawesi Barat,2024,Jumlah Penduduk Miskin - Maret (ribu),,"162,19"
+kemiskinan,7600000,Sulawesi Barat,2024,Jumlah Penduduk Miskin - September (ribu),,"155,91"
+kemiskinan,7600000,Sulawesi Barat,2024,Persentase Penduduk Miskin - Maret,,"11,21"
+kemiskinan,7600000,Sulawesi Barat,2024,Persentase Penduduk Miskin - September,,"10,71"
+kemiskinan,8100000,Maluku,2024,Garis Kemiskinan - Maret,Rp,713.503
+kemiskinan,8100000,Maluku,2024,Garis Kemiskinan - September,Rp,739.818
+kemiskinan,8100000,Maluku,2024,Jumlah Penduduk Miskin - Maret (ribu),,"297,68"
+kemiskinan,8100000,Maluku,2024,Jumlah Penduduk Miskin - September (ribu),,"293,99"
+kemiskinan,8100000,Maluku,2024,Persentase Penduduk Miskin - Maret,,"16,05"
+kemiskinan,8100000,Maluku,2024,Persentase Penduduk Miskin - September,,"15,78"
+kemiskinan,8200000,Maluku Utara,2024,Garis Kemiskinan - Maret,Rp,604.460
+kemiskinan,8200000,Maluku Utara,2024,Garis Kemiskinan - September,Rp,639.337
+kemiskinan,8200000,Maluku Utara,2024,Jumlah Penduduk Miskin - Maret (ribu),,"83,09"
+kemiskinan,8200000,Maluku Utara,2024,Jumlah Penduduk Miskin - September (ribu),,"79,69"
+kemiskinan,8200000,Maluku Utara,2024,Persentase Penduduk Miskin - Maret,,"6,32"
+kemiskinan,8200000,Maluku Utara,2024,Persentase Penduduk Miskin - September,,"6,03"
+kemiskinan,9100000,Papua Barat,2024,Garis Kemiskinan - Maret,Rp,793.804
+kemiskinan,9100000,Papua Barat,2024,Garis Kemiskinan - September,Rp,816.613
+kemiskinan,9100000,Papua Barat,2024,Jumlah Penduduk Miskin - Maret (ribu),,"110,16"
+kemiskinan,9100000,Papua Barat,2024,Jumlah Penduduk Miskin - September (ribu),,"108,28"
+kemiskinan,9100000,Papua Barat,2024,Persentase Penduduk Miskin - Maret,,"21,66"
+kemiskinan,9100000,Papua Barat,2024,Persentase Penduduk Miskin - September,,"21,09"
+kemiskinan,9200000,Papua Barat Daya,2024,Garis Kemiskinan - Maret,Rp,756.237
+kemiskinan,9200000,Papua Barat Daya,2024,Garis Kemiskinan - September,Rp,791.570
+kemiskinan,9200000,Papua Barat Daya,2024,Jumlah Penduduk Miskin - Maret (ribu),,"102,27"
+kemiskinan,9200000,Papua Barat Daya,2024,Jumlah Penduduk Miskin - September (ribu),,"96,81"
+kemiskinan,9200000,Papua Barat Daya,2024,Persentase Penduduk Miskin - Maret,,"18,13"
+kemiskinan,9200000,Papua Barat Daya,2024,Persentase Penduduk Miskin - September,,"16,95"
+kemiskinan,9400000,Papua,2024,Garis Kemiskinan - Maret,Rp,674.371
+kemiskinan,9400000,Papua,2024,Garis Kemiskinan - September,Rp,708.811
+kemiskinan,9400000,Papua,2024,Jumlah Penduduk Miskin - Maret (ribu),,"152,91"
+kemiskinan,9400000,Papua,2024,Jumlah Penduduk Miskin - September (ribu),,"161,07"
+kemiskinan,9400000,Papua,2024,Persentase Penduduk Miskin - Maret,,"17,26"
+kemiskinan,9400000,Papua,2024,Persentase Penduduk Miskin - September,,"18,09"
+kemiskinan,9500000,Papua Selatan,2024,Garis Kemiskinan - Maret,Rp,519.979
+kemiskinan,9500000,Papua Selatan,2024,Jumlah Penduduk Miskin - Maret (ribu),,"92,20"
+kemiskinan,9500000,Papua Selatan,2024,Persentase Penduduk Miskin - Maret,,"17,44"
+kemiskinan,9500000,Papua Selatan,2024,Persentase Penduduk Miskin - September,,"19,35"
+kemiskinan,9600000,Papua Tengah,2024,Garis Kemiskinan - Maret,Rp,764.115
+kemiskinan,9600000,Papua Tengah,2024,Jumlah Penduduk Miskin - Maret (ribu),,"308,48"
+kemiskinan,9600000,Papua Tengah,2024,Persentase Penduduk Miskin - Maret,,"29,76"
+kemiskinan,9600000,Papua Tengah,2024,Persentase Penduduk Miskin - September,,"27,60"
+kemiskinan,9700000,Papua Pegunungan,2024,Garis Kemiskinan - Maret,Rp,1.007.060
+kemiskinan,9700000,Papua Pegunungan,2024,Jumlah Penduduk Miskin - Maret (ribu),,"365,44"
+kemiskinan,9700000,Papua Pegunungan,2024,Persentase Penduduk Miskin - Maret,,"32,97"
+kemiskinan,9700000,Papua Pegunungan,2024,Persentase Penduduk Miskin - September,,"29,66"
+kemiskinan,0000000,Indonesia,2024,Garis Kemiskinan - Maret,Rp,582.932
+kemiskinan,0000000,Indonesia,2024,Garis Kemiskinan - September,Rp,595.242
+kemiskinan,0000000,Indonesia,2024,Jumlah Penduduk Miskin - Maret (ribu),,"25.219,20"
+kemiskinan,0000000,Indonesia,2024,Jumlah Penduduk Miskin - September (ribu),,"24.054,72"
+kemiskinan,0000000,Indonesia,2024,Persentase Penduduk Miskin - Maret,,"9,03"
+kemiskinan,0000000,Indonesia,2024,Persentase Penduduk Miskin - September,,"8,57"
+kemiskinan,1100000,Aceh,2025,Garis Kemiskinan - Maret,Rp,676.247
+kemiskinan,1100000,Aceh,2025,Garis Kemiskinan - September,Rp,715.103
+kemiskinan,1100000,Aceh,2025,Jumlah Penduduk Miskin - Maret (ribu),,"704,69"
+kemiskinan,1100000,Aceh,2025,Jumlah Penduduk Miskin - September (ribu),,"703,33"
+kemiskinan,1100000,Aceh,2025,Persentase Penduduk Miskin - Maret,,"12,33"
+kemiskinan,1100000,Aceh,2025,Persentase Penduduk Miskin - September,,"12,22"
+kemiskinan,1200000,Sumatera Utara,2025,Garis Kemiskinan - Maret,Rp,666.546
+kemiskinan,1200000,Sumatera Utara,2025,Garis Kemiskinan - September,Rp,718.220
+kemiskinan,1200000,Sumatera Utara,2025,Jumlah Penduduk Miskin - Maret (ribu),,"1.140,25"
+kemiskinan,1200000,Sumatera Utara,2025,Jumlah Penduduk Miskin - September (ribu),,"1.128,06"
+kemiskinan,1200000,Sumatera Utara,2025,Persentase Penduduk Miskin - Maret,,"7,36"
+kemiskinan,1200000,Sumatera Utara,2025,Persentase Penduduk Miskin - September,,"7,24"
+kemiskinan,1300000,Sumatera Barat,2025,Garis Kemiskinan - Maret,Rp,729.806
+kemiskinan,1300000,Sumatera Barat,2025,Garis Kemiskinan - September,Rp,776.517
+kemiskinan,1300000,Sumatera Barat,2025,Jumlah Penduduk Miskin - Maret (ribu),,"312,35"
+kemiskinan,1300000,Sumatera Barat,2025,Jumlah Penduduk Miskin - September (ribu),,"312,30"
+kemiskinan,1300000,Sumatera Barat,2025,Persentase Penduduk Miskin - Maret,,"5,35"
+kemiskinan,1300000,Sumatera Barat,2025,Persentase Penduduk Miskin - September,,"5,31"
+kemiskinan,1400000,Riau,2025,Garis Kemiskinan - Maret,Rp,713.117
+kemiskinan,1400000,Riau,2025,Garis Kemiskinan - September,Rp,747.345
+kemiskinan,1400000,Riau,2025,Jumlah Penduduk Miskin - Maret (ribu),,"460,96"
+kemiskinan,1400000,Riau,2025,Jumlah Penduduk Miskin - September (ribu),,"475,57"
+kemiskinan,1400000,Riau,2025,Persentase Penduduk Miskin - Maret,,"6,16"
+kemiskinan,1400000,Riau,2025,Persentase Penduduk Miskin - September,,"6,30"
+kemiskinan,1500000,Jambi,2025,Garis Kemiskinan - Maret,Rp,664.127
+kemiskinan,1500000,Jambi,2025,Garis Kemiskinan - September,Rp,713.849
+kemiskinan,1500000,Jambi,2025,Jumlah Penduduk Miskin - Maret (ribu),,"270,94"
+kemiskinan,1500000,Jambi,2025,Jumlah Penduduk Miskin - September (ribu),,"261,25"
+kemiskinan,1500000,Jambi,2025,Persentase Penduduk Miskin - Maret,,"7,19"
+kemiskinan,1500000,Jambi,2025,Persentase Penduduk Miskin - September,,"6,89"
+kemiskinan,1600000,Sumatera Selatan,2025,Garis Kemiskinan - Maret,Rp,581.702
+kemiskinan,1600000,Sumatera Selatan,2025,Garis Kemiskinan - September,Rp,609.044
+kemiskinan,1600000,Sumatera Selatan,2025,Jumlah Penduduk Miskin - Maret (ribu),,"919,60"
+kemiskinan,1600000,Sumatera Selatan,2025,Jumlah Penduduk Miskin - September (ribu),,"898,24"
+kemiskinan,1600000,Sumatera Selatan,2025,Persentase Penduduk Miskin - Maret,,"10,15"
+kemiskinan,1600000,Sumatera Selatan,2025,Persentase Penduduk Miskin - September,,"9,85"
+kemiskinan,1700000,Bengkulu,2025,Garis Kemiskinan - Maret,Rp,683.820
+kemiskinan,1700000,Bengkulu,2025,Garis Kemiskinan - September,Rp,712.003
+kemiskinan,1700000,Bengkulu,2025,Jumlah Penduduk Miskin - Maret (ribu),,"252,97"
+kemiskinan,1700000,Bengkulu,2025,Jumlah Penduduk Miskin - September (ribu),,"250,19"
+kemiskinan,1700000,Bengkulu,2025,Persentase Penduduk Miskin - Maret,,"12,08"
+kemiskinan,1700000,Bengkulu,2025,Persentase Penduduk Miskin - September,,"11,88"
+kemiskinan,1800000,Lampung,2025,Garis Kemiskinan - Maret,Rp,612.451
+kemiskinan,1800000,Lampung,2025,Garis Kemiskinan - September,Rp,634.062
+kemiskinan,1800000,Lampung,2025,Jumlah Penduduk Miskin - Maret (ribu),,"887,02"
+kemiskinan,1800000,Lampung,2025,Jumlah Penduduk Miskin - September (ribu),,"860,13"
+kemiskinan,1800000,Lampung,2025,Persentase Penduduk Miskin - Maret,,"10,00"
+kemiskinan,1800000,Lampung,2025,Persentase Penduduk Miskin - September,,"9,66"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2025,Garis Kemiskinan - Maret,Rp,956.833
+kemiskinan,1900000,Kepulauan Bangka Belitung,2025,Garis Kemiskinan - September,Rp,992.426
+kemiskinan,1900000,Kepulauan Bangka Belitung,2025,Jumlah Penduduk Miskin - Maret (ribu),,"77,71"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2025,Jumlah Penduduk Miskin - September (ribu),,"74,65"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2025,Persentase Penduduk Miskin - Maret,,"5,00"
+kemiskinan,1900000,Kepulauan Bangka Belitung,2025,Persentase Penduduk Miskin - September,,"4,77"
+kemiskinan,2100000,Kepulauan Riau,2025,Garis Kemiskinan - Maret,Rp,832.410
+kemiskinan,2100000,Kepulauan Riau,2025,Garis Kemiskinan - September,Rp,870.738
+kemiskinan,2100000,Kepulauan Riau,2025,Jumlah Penduduk Miskin - Maret (ribu),,"117,28"
+kemiskinan,2100000,Kepulauan Riau,2025,Jumlah Penduduk Miskin - September (ribu),,"114,55"
+kemiskinan,2100000,Kepulauan Riau,2025,Persentase Penduduk Miskin - Maret,,"4,44"
+kemiskinan,2100000,Kepulauan Riau,2025,Persentase Penduduk Miskin - September,,"4,26"
+kemiskinan,3100000,DKI Jakarta,2025,Garis Kemiskinan - Maret,Rp,852.768
+kemiskinan,3100000,DKI Jakarta,2025,Garis Kemiskinan - September,Rp,897.768
+kemiskinan,3100000,DKI Jakarta,2025,Jumlah Penduduk Miskin - Maret (ribu),,"464,87"
+kemiskinan,3100000,DKI Jakarta,2025,Jumlah Penduduk Miskin - September (ribu),,"439,12"
+kemiskinan,3100000,DKI Jakarta,2025,Persentase Penduduk Miskin - Maret,,"4,28"
+kemiskinan,3100000,DKI Jakarta,2025,Persentase Penduduk Miskin - September,,"4,03"
+kemiskinan,3200000,Jawa Barat,2025,Garis Kemiskinan - Maret,Rp,547.752
+kemiskinan,3200000,Jawa Barat,2025,Garis Kemiskinan - September,Rp,575.499
+kemiskinan,3200000,Jawa Barat,2025,Jumlah Penduduk Miskin - Maret (ribu),,"3.654,75"
+kemiskinan,3200000,Jawa Barat,2025,Jumlah Penduduk Miskin - September (ribu),,"3.550,71"
+kemiskinan,3200000,Jawa Barat,2025,Persentase Penduduk Miskin - Maret,,"7,02"
+kemiskinan,3200000,Jawa Barat,2025,Persentase Penduduk Miskin - September,,"6,78"
+kemiskinan,3300000,Jawa Tengah,2025,Garis Kemiskinan - Maret,Rp,537.812
+kemiskinan,3300000,Jawa Tengah,2025,Garis Kemiskinan - September,Rp,570.870
+kemiskinan,3300000,Jawa Tengah,2025,Jumlah Penduduk Miskin - Maret (ribu),,"3.366,69"
+kemiskinan,3300000,Jawa Tengah,2025,Jumlah Penduduk Miskin - September (ribu),,"3.344,82"
+kemiskinan,3300000,Jawa Tengah,2025,Persentase Penduduk Miskin - Maret,,"9,48"
+kemiskinan,3300000,Jawa Tengah,2025,Persentase Penduduk Miskin - September,,"9,39"
+kemiskinan,3400000,DI Yogyakarta,2025,Garis Kemiskinan - Maret,Rp,626.363
+kemiskinan,3400000,DI Yogyakarta,2025,Garis Kemiskinan - September,Rp,649.331
+kemiskinan,3400000,DI Yogyakarta,2025,Jumlah Penduduk Miskin - Maret (ribu),,"425,82"
+kemiskinan,3400000,DI Yogyakarta,2025,Jumlah Penduduk Miskin - September (ribu),,"422,79"
+kemiskinan,3400000,DI Yogyakarta,2025,Persentase Penduduk Miskin - Maret,,"10,23"
+kemiskinan,3400000,DI Yogyakarta,2025,Persentase Penduduk Miskin - September,,"10,08"
+kemiskinan,3500000,Jawa Timur,2025,Garis Kemiskinan - Maret,Rp,558.029
+kemiskinan,3500000,Jawa Timur,2025,Garis Kemiskinan - September,Rp,585.020
+kemiskinan,3500000,Jawa Timur,2025,Jumlah Penduduk Miskin - Maret (ribu),,"3.875,88"
+kemiskinan,3500000,Jawa Timur,2025,Jumlah Penduduk Miskin - September (ribu),,"3.804,29"
+kemiskinan,3500000,Jawa Timur,2025,Persentase Penduduk Miskin - Maret,,"9,50"
+kemiskinan,3500000,Jawa Timur,2025,Persentase Penduduk Miskin - September,,"9,30"
+kemiskinan,3600000,Banten,2025,Garis Kemiskinan - Maret,Rp,684.232
+kemiskinan,3600000,Banten,2025,Garis Kemiskinan - September,Rp,715.288
+kemiskinan,3600000,Banten,2025,Jumlah Penduduk Miskin - Maret (ribu),,"772,78"
+kemiskinan,3600000,Banten,2025,Jumlah Penduduk Miskin - September (ribu),,"760,85"
+kemiskinan,3600000,Banten,2025,Persentase Penduduk Miskin - Maret,,"5,63"
+kemiskinan,3600000,Banten,2025,Persentase Penduduk Miskin - September,,"5,51"
+kemiskinan,5100000,Bali,2025,Garis Kemiskinan - Maret,Rp,607.847
+kemiskinan,5100000,Bali,2025,Garis Kemiskinan - September,Rp,642.986
+kemiskinan,5100000,Bali,2025,Jumlah Penduduk Miskin - Maret (ribu),,"173,24"
+kemiskinan,5100000,Bali,2025,Jumlah Penduduk Miskin - September (ribu),,"160,09"
+kemiskinan,5100000,Bali,2025,Persentase Penduduk Miskin - Maret,,"3,72"
+kemiskinan,5100000,Bali,2025,Persentase Penduduk Miskin - September,,"3,42"
+kemiskinan,5200000,Nusa Tenggara Barat,2025,Garis Kemiskinan - Maret,Rp,556.846
+kemiskinan,5200000,Nusa Tenggara Barat,2025,Garis Kemiskinan - September,Rp,575.856
+kemiskinan,5200000,Nusa Tenggara Barat,2025,Jumlah Penduduk Miskin - Maret (ribu),,"654,57"
+kemiskinan,5200000,Nusa Tenggara Barat,2025,Jumlah Penduduk Miskin - September (ribu),,"637,18"
+kemiskinan,5200000,Nusa Tenggara Barat,2025,Persentase Penduduk Miskin - Maret,,"11,78"
+kemiskinan,5200000,Nusa Tenggara Barat,2025,Persentase Penduduk Miskin - September,,"11,38"
+kemiskinan,5300000,Nusa Tenggara Timur,2025,Garis Kemiskinan - Maret,Rp,549.607
+kemiskinan,5300000,Nusa Tenggara Timur,2025,Garis Kemiskinan - September,Rp,563.052
+kemiskinan,5300000,Nusa Tenggara Timur,2025,Jumlah Penduduk Miskin - Maret (ribu),,"1.088,78"
+kemiskinan,5300000,Nusa Tenggara Timur,2025,Jumlah Penduduk Miskin - September (ribu),,"1.031,69"
+kemiskinan,5300000,Nusa Tenggara Timur,2025,Persentase Penduduk Miskin - Maret,,"18,60"
+kemiskinan,5300000,Nusa Tenggara Timur,2025,Persentase Penduduk Miskin - September,,"17,50"
+kemiskinan,6100000,Kalimantan Barat,2025,Garis Kemiskinan - Maret,Rp,622.882
+kemiskinan,6100000,Kalimantan Barat,2025,Garis Kemiskinan - September,Rp,652.220
+kemiskinan,6100000,Kalimantan Barat,2025,Jumlah Penduduk Miskin - Maret (ribu),,"330,95"
+kemiskinan,6100000,Kalimantan Barat,2025,Jumlah Penduduk Miskin - September (ribu),,"322,54"
+kemiskinan,6100000,Kalimantan Barat,2025,Persentase Penduduk Miskin - Maret,,"6,16"
+kemiskinan,6100000,Kalimantan Barat,2025,Persentase Penduduk Miskin - September,,"5,97"
+kemiskinan,6200000,Kalimantan Tengah,2025,Garis Kemiskinan - Maret,Rp,654.066
+kemiskinan,6200000,Kalimantan Tengah,2025,Garis Kemiskinan - September,Rp,683.664
+kemiskinan,6200000,Kalimantan Tengah,2025,Jumlah Penduduk Miskin - Maret (ribu),,"147,81"
+kemiskinan,6200000,Kalimantan Tengah,2025,Jumlah Penduduk Miskin - September (ribu),,"141,75"
+kemiskinan,6200000,Kalimantan Tengah,2025,Persentase Penduduk Miskin - Maret,,"5,19"
+kemiskinan,6200000,Kalimantan Tengah,2025,Persentase Penduduk Miskin - September,,"4,94"
+kemiskinan,6300000,Kalimantan Selatan,2025,Garis Kemiskinan - Maret,Rp,650.675
+kemiskinan,6300000,Kalimantan Selatan,2025,Garis Kemiskinan - September,Rp,684.567
+kemiskinan,6300000,Kalimantan Selatan,2025,Jumlah Penduduk Miskin - Maret (ribu),,"172,72"
+kemiskinan,6300000,Kalimantan Selatan,2025,Jumlah Penduduk Miskin - September (ribu),,"168,81"
+kemiskinan,6300000,Kalimantan Selatan,2025,Persentase Penduduk Miskin - Maret,,"3,84"
+kemiskinan,6300000,Kalimantan Selatan,2025,Persentase Penduduk Miskin - September,,"3,73"
+kemiskinan,6400000,Kalimantan Timur,2025,Garis Kemiskinan - Maret,Rp,866.193
+kemiskinan,6400000,Kalimantan Timur,2025,Garis Kemiskinan - September,Rp,897.759
+kemiskinan,6400000,Kalimantan Timur,2025,Jumlah Penduduk Miskin - Maret (ribu),,"199,71"
+kemiskinan,6400000,Kalimantan Timur,2025,Jumlah Penduduk Miskin - September (ribu),,"202,04"
+kemiskinan,6400000,Kalimantan Timur,2025,Persentase Penduduk Miskin - Maret,,"5,17"
+kemiskinan,6400000,Kalimantan Timur,2025,Persentase Penduduk Miskin - September,,"5,19"
+kemiskinan,6500000,Kalimantan Utara,2025,Garis Kemiskinan - Maret,Rp,884.970
+kemiskinan,6500000,Kalimantan Utara,2025,Garis Kemiskinan - September,Rp,933.675
+kemiskinan,6500000,Kalimantan Utara,2025,Jumlah Penduduk Miskin - Maret (ribu),,"42,57"
+kemiskinan,6500000,Kalimantan Utara,2025,Jumlah Penduduk Miskin - September (ribu),,"42,45"
+kemiskinan,6500000,Kalimantan Utara,2025,Persentase Penduduk Miskin - Maret,,"5,54"
+kemiskinan,6500000,Kalimantan Utara,2025,Persentase Penduduk Miskin - September,,"5,47"
+kemiskinan,7100000,Sulawesi Utara,2025,Garis Kemiskinan - Maret,Rp,530.304
+kemiskinan,7100000,Sulawesi Utara,2025,Garis Kemiskinan - September,Rp,557.310
+kemiskinan,7100000,Sulawesi Utara,2025,Jumlah Penduduk Miskin - Maret (ribu),,"173,84"
+kemiskinan,7100000,Sulawesi Utara,2025,Jumlah Penduduk Miskin - September (ribu),,"172,13"
+kemiskinan,7100000,Sulawesi Utara,2025,Persentase Penduduk Miskin - Maret,,"6,71"
+kemiskinan,7100000,Sulawesi Utara,2025,Persentase Penduduk Miskin - September,,"6,62"
+kemiskinan,7200000,Sulawesi Tengah,2025,Garis Kemiskinan - Maret,Rp,624.854
+kemiskinan,7200000,Sulawesi Tengah,2025,Garis Kemiskinan - September,Rp,664.691
+kemiskinan,7200000,Sulawesi Tengah,2025,Jumlah Penduduk Miskin - Maret (ribu),,"356,19"
+kemiskinan,7200000,Sulawesi Tengah,2025,Jumlah Penduduk Miskin - September (ribu),,"345,38"
+kemiskinan,7200000,Sulawesi Tengah,2025,Persentase Penduduk Miskin - Maret,,"10,92"
+kemiskinan,7200000,Sulawesi Tengah,2025,Persentase Penduduk Miskin - September,,"10,52"
+kemiskinan,7300000,Sulawesi Selatan,2025,Garis Kemiskinan - Maret,Rp,477.966
+kemiskinan,7300000,Sulawesi Selatan,2025,Garis Kemiskinan - September,Rp,514.958
+kemiskinan,7300000,Sulawesi Selatan,2025,Jumlah Penduduk Miskin - Maret (ribu),,"698,13"
+kemiskinan,7300000,Sulawesi Selatan,2025,Jumlah Penduduk Miskin - September (ribu),,"685,14"
+kemiskinan,7300000,Sulawesi Selatan,2025,Persentase Penduduk Miskin - Maret,,"7,60"
+kemiskinan,7300000,Sulawesi Selatan,2025,Persentase Penduduk Miskin - September,,"7,43"
+kemiskinan,7400000,Sulawesi Tenggara,2025,Garis Kemiskinan - Maret,Rp,488.171
+kemiskinan,7400000,Sulawesi Tenggara,2025,Garis Kemiskinan - September,Rp,519.411
+kemiskinan,7400000,Sulawesi Tenggara,2025,Jumlah Penduduk Miskin - Maret (ribu),,"304,43"
+kemiskinan,7400000,Sulawesi Tenggara,2025,Jumlah Penduduk Miskin - September (ribu),,"295,31"
+kemiskinan,7400000,Sulawesi Tenggara,2025,Persentase Penduduk Miskin - Maret,,"10,54"
+kemiskinan,7400000,Sulawesi Tenggara,2025,Persentase Penduduk Miskin - September,,"10,14"
+kemiskinan,7500000,Gorontalo,2025,Garis Kemiskinan - Maret,Rp,495.576
+kemiskinan,7500000,Gorontalo,2025,Garis Kemiskinan - September,Rp,519.640
+kemiskinan,7500000,Gorontalo,2025,Jumlah Penduduk Miskin - Maret (ribu),,"162,74"
+kemiskinan,7500000,Gorontalo,2025,Jumlah Penduduk Miskin - September (ribu),,"155,76"
+kemiskinan,7500000,Gorontalo,2025,Persentase Penduduk Miskin - Maret,,"13,24"
+kemiskinan,7500000,Gorontalo,2025,Persentase Penduduk Miskin - September,,"12,62"
+kemiskinan,7600000,Sulawesi Barat,2025,Garis Kemiskinan - Maret,Rp,475.488
+kemiskinan,7600000,Sulawesi Barat,2025,Garis Kemiskinan - September,Rp,510.846
+kemiskinan,7600000,Sulawesi Barat,2025,Jumlah Penduduk Miskin - Maret (ribu),,"152,31"
+kemiskinan,7600000,Sulawesi Barat,2025,Jumlah Penduduk Miskin - September (ribu),,"149,88"
+kemiskinan,7600000,Sulawesi Barat,2025,Persentase Penduduk Miskin - Maret,,"10,41"
+kemiskinan,7600000,Sulawesi Barat,2025,Persentase Penduduk Miskin - September,,"10,18"
+kemiskinan,8100000,Maluku,2025,Garis Kemiskinan - Maret,Rp,757.600
+kemiskinan,8100000,Maluku,2025,Garis Kemiskinan - September,Rp,797.060
+kemiskinan,8100000,Maluku,2025,Jumlah Penduduk Miskin - Maret (ribu),,"287,76"
+kemiskinan,8100000,Maluku,2025,Jumlah Penduduk Miskin - September (ribu),,"286,86"
+kemiskinan,8100000,Maluku,2025,Persentase Penduduk Miskin - Maret,,"15,38"
+kemiskinan,8100000,Maluku,2025,Persentase Penduduk Miskin - September,,"15,25"
+kemiskinan,8200000,Maluku Utara,2025,Garis Kemiskinan - Maret,Rp,662.397
+kemiskinan,8200000,Maluku Utara,2025,Garis Kemiskinan - September,Rp,692.592
+kemiskinan,8200000,Maluku Utara,2025,Jumlah Penduduk Miskin - Maret (ribu),,"77,27"
+kemiskinan,8200000,Maluku Utara,2025,Jumlah Penduduk Miskin - September (ribu),,"74,81"
+kemiskinan,8200000,Maluku Utara,2025,Persentase Penduduk Miskin - Maret,,"5,81"
+kemiskinan,8200000,Maluku Utara,2025,Persentase Penduduk Miskin - September,,"5,59"
+kemiskinan,9100000,Papua Barat,2025,Garis Kemiskinan - Maret,Rp,831.001
+kemiskinan,9100000,Papua Barat,2025,Garis Kemiskinan - September,Rp,868.631
+kemiskinan,9100000,Papua Barat,2025,Jumlah Penduduk Miskin - Maret (ribu),,"106,90"
+kemiskinan,9100000,Papua Barat,2025,Jumlah Penduduk Miskin - September (ribu),,"102,40"
+kemiskinan,9100000,Papua Barat,2025,Persentase Penduduk Miskin - Maret,,"20,66"
+kemiskinan,9100000,Papua Barat,2025,Persentase Penduduk Miskin - September,,"19,58"
+kemiskinan,9200000,Papua Barat Daya,2025,Garis Kemiskinan - Maret,Rp,812.630
+kemiskinan,9200000,Papua Barat Daya,2025,Garis Kemiskinan - September,Rp,855.657
+kemiskinan,9200000,Papua Barat Daya,2025,Jumlah Penduduk Miskin - Maret (ribu),,"103,57"
+kemiskinan,9200000,Papua Barat Daya,2025,Jumlah Penduduk Miskin - September (ribu),,"102,41"
+kemiskinan,9200000,Papua Barat Daya,2025,Persentase Penduduk Miskin - Maret,,"17,95"
+kemiskinan,9200000,Papua Barat Daya,2025,Persentase Penduduk Miskin - September,,"17,50"
+kemiskinan,9400000,Papua,2025,Garis Kemiskinan - Maret,Rp,714.365
+kemiskinan,9400000,Papua,2025,Garis Kemiskinan - September,Rp,736.720
+kemiskinan,9400000,Papua,2025,Jumlah Penduduk Miskin - Maret (ribu),,"171,38"
+kemiskinan,9400000,Papua,2025,Jumlah Penduduk Miskin - September (ribu),,"160,25"
+kemiskinan,9400000,Papua,2025,Persentase Penduduk Miskin - Maret,,"19,16"
+kemiskinan,9400000,Papua,2025,Persentase Penduduk Miskin - September,,"17,82"
+kemiskinan,9500000,Papua Selatan,2025,Garis Kemiskinan - Maret,Rp,566.052
+kemiskinan,9500000,Papua Selatan,2025,Garis Kemiskinan - September,Rp,587.264
+kemiskinan,9500000,Papua Selatan,2025,Jumlah Penduduk Miskin - Maret (ribu),,"105,53"
+kemiskinan,9500000,Papua Selatan,2025,Jumlah Penduduk Miskin - September (ribu),,"103,92"
+kemiskinan,9500000,Papua Selatan,2025,Persentase Penduduk Miskin - Maret,,"19,71"
+kemiskinan,9500000,Papua Selatan,2025,Persentase Penduduk Miskin - September,,"19,26"
+kemiskinan,9600000,Papua Tengah,2025,Garis Kemiskinan - Maret,Rp,817.834
+kemiskinan,9600000,Papua Tengah,2025,Garis Kemiskinan - September,Rp,873.843
+kemiskinan,9600000,Papua Tengah,2025,Jumlah Penduduk Miskin - Maret (ribu),,"302,31"
+kemiskinan,9600000,Papua Tengah,2025,Jumlah Penduduk Miskin - September (ribu),,"309,86"
+kemiskinan,9600000,Papua Tengah,2025,Persentase Penduduk Miskin - Maret,,"28,90"
+kemiskinan,9600000,Papua Tengah,2025,Persentase Penduduk Miskin - September,,"29,45"
+kemiskinan,9700000,Papua Pegunungan,2025,Garis Kemiskinan - Maret,Rp,1.132.178
+kemiskinan,9700000,Papua Pegunungan,2025,Garis Kemiskinan - September,Rp,1.235.328
+kemiskinan,9700000,Papua Pegunungan,2025,Jumlah Penduduk Miskin - Maret (ribu),,"337,32"
+kemiskinan,9700000,Papua Pegunungan,2025,Jumlah Penduduk Miskin - September (ribu),,"308,19"
+kemiskinan,9700000,Papua Pegunungan,2025,Persentase Penduduk Miskin - Maret,,"30,03"
+kemiskinan,9700000,Papua Pegunungan,2025,Persentase Penduduk Miskin - September,,"27,21"
+kemiskinan,0000000,Indonesia,2025,Garis Kemiskinan - Maret,Rp,609.160
+kemiskinan,0000000,Indonesia,2025,Garis Kemiskinan - September,Rp,641.443
+kemiskinan,0000000,Indonesia,2025,Jumlah Penduduk Miskin - Maret (ribu),,"23.854,56"
+kemiskinan,0000000,Indonesia,2025,Jumlah Penduduk Miskin - September (ribu),,"23.359,71"
+kemiskinan,0000000,Indonesia,2025,Persentase Penduduk Miskin - Maret,,"8,47"
+kemiskinan,0000000,Indonesia,2025,Persentase Penduduk Miskin - September,,"8,25"

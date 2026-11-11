@@ -1,0 +1,115 @@
+indicator,kode_wilayah,provinsi_raw,tahun,variabel,satuan,nilai_raw
+pdrb_perkapita,1100000,Aceh,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,41.408
+pdrb_perkapita,1200000,Sumatera Utara,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,68.306
+pdrb_perkapita,1300000,Sumatera Barat,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,54.334
+pdrb_perkapita,1400000,Riau,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,154.522
+pdrb_perkapita,1500000,Jambi,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,79.873
+pdrb_perkapita,1600000,Sumatera Selatan,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,71.958
+pdrb_perkapita,1700000,Bengkulu,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,46.301
+pdrb_perkapita,1800000,Lampung,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,48.188
+pdrb_perkapita,1900000,Kepulauan Bangka Belitung,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,67.813
+pdrb_perkapita,2100000,Kepulauan Riau,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,154.065
+pdrb_perkapita,3100000,DKI Jakarta,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,322.651
+pdrb_perkapita,3200000,Jawa Barat,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,52.651
+pdrb_perkapita,3300000,Jawa Tengah,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,45.162
+pdrb_perkapita,3400000,DI Yogyakarta,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,48.373
+pdrb_perkapita,3500000,Jawa Timur,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,71.122
+pdrb_perkapita,3600000,Banten,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,66.147
+pdrb_perkapita,5100000,Bali,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,62.299
+pdrb_perkapita,5200000,Nusa Tenggara Barat,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,29.926
+pdrb_perkapita,5300000,Nusa Tenggara Timur,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,23.079
+pdrb_perkapita,6100000,Kalimantan Barat,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,48.809
+pdrb_perkapita,6200000,Kalimantan Tengah,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,75.271
+pdrb_perkapita,6300000,Kalimantan Selatan,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,63.754
+pdrb_perkapita,6400000,Kalimantan Timur,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,215.804
+pdrb_perkapita,6500000,Kalimantan Utara,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,201.789
+pdrb_perkapita,7100000,Sulawesi Utara,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,64.131
+pdrb_perkapita,7200000,Sulawesi Tengah,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,112.461
+pdrb_perkapita,7300000,Sulawesi Selatan,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,69.710
+pdrb_perkapita,7400000,Sulawesi Tenggara,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,64.088
+pdrb_perkapita,7500000,Gorontalo,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,42.341
+pdrb_perkapita,7600000,Sulawesi Barat,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,39.547
+pdrb_perkapita,8100000,Maluku,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,30.455
+pdrb_perkapita,8200000,Maluku Utara,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,64.270
+pdrb_perkapita,9100000,Papua Barat,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,108.110
+pdrb_perkapita,9200000,Papua Barat Daya,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,58.450
+pdrb_perkapita,9400000,Papua,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,78.055
+pdrb_perkapita,9500000,Papua Selatan,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,58.581
+pdrb_perkapita,9600000,Papua Tengah,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,103.508
+pdrb_perkapita,9700000,Papua Pegunungan,2023,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,16.870
+pdrb_perkapita,1100000,Aceh,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,43.782
+pdrb_perkapita,1200000,Sumatera Utara,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,73.575
+pdrb_perkapita,1300000,Sumatera Barat,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,57.083
+pdrb_perkapita,1400000,Riau,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,165.350
+pdrb_perkapita,1500000,Jambi,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,86.775
+pdrb_perkapita,1600000,Sumatera Selatan,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,75.132
+pdrb_perkapita,1700000,Bengkulu,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,49.233
+pdrb_perkapita,1800000,Lampung,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,51.387
+pdrb_perkapita,1900000,Kepulauan Bangka Belitung,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,70.193
+pdrb_perkapita,2100000,Kepulauan Riau,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,161.424
+pdrb_perkapita,3100000,DKI Jakarta,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,344.383
+pdrb_perkapita,3200000,Jawa Barat,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,56.082
+pdrb_perkapita,3300000,Jawa Tengah,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,47.970
+pdrb_perkapita,3400000,DI Yogyakarta,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,51.486
+pdrb_perkapita,3500000,Jawa Timur,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,75.770
+pdrb_perkapita,3600000,Banten,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,70.276
+pdrb_perkapita,5100000,Bali,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,67.318
+pdrb_perkapita,5200000,Nusa Tenggara Barat,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,32.282
+pdrb_perkapita,5300000,Nusa Tenggara Timur,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,24.303
+pdrb_perkapita,6100000,Kalimantan Barat,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,52.703
+pdrb_perkapita,6200000,Kalimantan Tengah,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,79.320
+pdrb_perkapita,6300000,Kalimantan Selatan,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,67.122
+pdrb_perkapita,6400000,Kalimantan Timur,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,212.117
+pdrb_perkapita,6500000,Kalimantan Utara,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,198.677
+pdrb_perkapita,7100000,Sulawesi Utara,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,69.352
+pdrb_perkapita,7200000,Sulawesi Tengah,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,120.750
+pdrb_perkapita,7300000,Sulawesi Selatan,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,73.573
+pdrb_perkapita,7400000,Sulawesi Tenggara,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,67.840
+pdrb_perkapita,7500000,Gorontalo,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,44.437
+pdrb_perkapita,7600000,Sulawesi Barat,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,42.718
+pdrb_perkapita,8100000,Maluku,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,32.199
+pdrb_perkapita,8200000,Maluku Utara,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,71.517
+pdrb_perkapita,9100000,Papua Barat,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,131.636
+pdrb_perkapita,9200000,Papua Barat Daya,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,59.064
+pdrb_perkapita,9400000,Papua,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,81.009
+pdrb_perkapita,9500000,Papua Selatan,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,61.622
+pdrb_perkapita,9600000,Papua Tengah,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,118.774
+pdrb_perkapita,9700000,Papua Pegunungan,2024,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,18.105
+pdrb_perkapita,1100000,Aceh,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,45.770
+pdrb_perkapita,1200000,Sumatera Utara,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,78.310
+pdrb_perkapita,1300000,Sumatera Barat,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,59.549
+pdrb_perkapita,1400000,Riau,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,176.385
+pdrb_perkapita,1500000,Jambi,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,92.786
+pdrb_perkapita,1600000,Sumatera Selatan,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,80.663
+pdrb_perkapita,1700000,Bengkulu,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,52.305
+pdrb_perkapita,1800000,Lampung,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,55.009
+pdrb_perkapita,1900000,Kepulauan Bangka Belitung,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,75.323
+pdrb_perkapita,2100000,Kepulauan Riau,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,172.459
+pdrb_perkapita,3100000,DKI Jakarta,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,367.687
+pdrb_perkapita,3200000,Jawa Barat,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,59.865
+pdrb_perkapita,3300000,Jawa Tengah,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,50.824
+pdrb_perkapita,3400000,DI Yogyakarta,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,55.039
+pdrb_perkapita,3500000,Jawa Timur,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,80.856
+pdrb_perkapita,3600000,Banten,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,74.673
+pdrb_perkapita,5100000,Bali,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,72.658
+pdrb_perkapita,5200000,Nusa Tenggara Barat,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,33.667
+pdrb_perkapita,5300000,Nusa Tenggara Timur,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,25.837
+pdrb_perkapita,6100000,Kalimantan Barat,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,56.984
+pdrb_perkapita,6200000,Kalimantan Tengah,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,84.730
+pdrb_perkapita,6300000,Kalimantan Selatan,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,70.577
+pdrb_perkapita,6400000,Kalimantan Timur,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,208.331
+pdrb_perkapita,6500000,Kalimantan Utara,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,208.210
+pdrb_perkapita,7100000,Sulawesi Utara,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,75.235
+pdrb_perkapita,7200000,Sulawesi Tengah,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,131.643
+pdrb_perkapita,7300000,Sulawesi Selatan,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,78.748
+pdrb_perkapita,7400000,Sulawesi Tenggara,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,72.031
+pdrb_perkapita,7500000,Gorontalo,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,47.477
+pdrb_perkapita,7600000,Sulawesi Barat,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,46.654
+pdrb_perkapita,8100000,Maluku,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,33.652
+pdrb_perkapita,8200000,Maluku Utara,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,97.262
+pdrb_perkapita,9100000,Papua Barat,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,139.213
+pdrb_perkapita,9200000,Papua Barat Daya,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,61.624
+pdrb_perkapita,9400000,Papua,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,84.305
+pdrb_perkapita,9500000,Papua Selatan,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,64.928
+pdrb_perkapita,9600000,Papua Tengah,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,107.566
+pdrb_perkapita,9700000,Papua Pegunungan,2025,Produk Domestik Regional Bruto per Kapita Atas Dasar Harga Berlaku,Rp,19.111

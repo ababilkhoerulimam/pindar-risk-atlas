@@ -1,0 +1,95 @@
+no,kategori_lembaga,nama_perusahaan,nama_sistem_elektronik,nomor_izin,tanggal_izin_raw,jenis_usaha,wilayah_kerja,alamat_website,sistem_operasi
+1,LPBBTI,PT Pasar Dana Pinjaman,Danamas,KEP-49/D.05/2017,06 Juli 2017,Konvensional,Pusat,https://p2p.danamas.co.id/,Android
+2,LPBBTI,PT Amartha Mikro Fintek,Amartha,KEP-46/D.05/2019,13 Mei 2019,Konvensional,Pusat,https://amartha.com/,Android
+3,LPBBTI,PT Indo Fin Tek,Dompet Kilat,KEP-47/D.05/2019,13 Mei 2019,Konvensional,Pusat,https://dompetkilat.co.id/,Android
+4,LPBBTI,PT Creative Mobile Adventure,Boost,KEP-48/D.05/2019,13 Mei 2019,Konvensional,Pusat,https://www.myboost.co.id,-
+5,LPBBTI,PT Toko Modal Mitra Usaha,Tokomodal,KEP-49/D.05/2019,24 Mei 2019,Konvensional,Pusat,https://www.tokomodal.co.id/,Android
+6,LPBBTI,PT Mitrausaha Indonesia Grup,Modalku,KEP-81/D.05/2019,30-Sep-19,Konvensional,Pusat,https://modalku.co.id/,Android
+7,LPBBTI,PT Pendanaan Teknologi Nusa,KTA Kilat,KEP-82/D.05/2019,30-Sep-19,Konvensional,Pusat,https://www.pendanaan.com/,Android
+8,LPBBTI,PT Kredit Pintar Indonesia,Kredit Pintar,KEP-83/D.05/2019,30-Sep-19,Konvensional,Pusat,https://www.kreditpintar.com/,Android
+9,LPBBTI,PT Oriente Mas Sejahtera,Finmas,KEP-85/D.05/2019,30-Sep-19,Konvensional,Pusat,www.finmas.co.id,Android
+10,LPBBTI,PT Aman Cermat Cepat,KlikA2C,KEP-87/D.05/2019,30-Sep-19,Konvensional,Pusat,https://klika2c.co.id,Android
+11,LPBBTI,PT Akseleran Keuangan Inklusif Indonesia,Akseleran,KEP-122/D.05/2019,13 Desember 2019,Konvensional,Pusat,https://www.akseleran.co.id/,Android
+12,LPBBTI,PT Ammana Fintek Syariah,Ammana,KEP-123/D.05/2019,13 Desember 2019,Syariah,Pusat,https://ammana.id/,Android & iOS
+13,LPBBTI,PT Dana Pinjaman Inklusif,PinjamanGo,KEP-124/D.05/2019,13 Desember 2019,Konvensional,Pusat,https://pinjamango.co.id,Android & iOS
+14,LPBBTI,PT Lunaria Annua Teknologi,KoinP2P,KEP-125/D.05/2019,13 Desember 2019,Konvensional,Pusat,https://koinp2p.com/,-
+15,LPBBTI,PT Pohon Dana Indonesia,Pohondana,KEP-126/D.05/2019,13 Desember 2019,Konvensional,Pusat,https://pohondana.id/,-
+16,LPBBTI,PT Mekar InvestamaTeknologi,Mekar,KEP-127/D.05/2019,13 Desember 2019,Konvensional,Pusat,https://mekar.id,-
+17,LPBBTI,PT Pembiayaan Digital Indonesia,AdaKami,KEP-128/D.05/2019,13 Desember 2019,Konvensional,Pusat,https://www.adakami.id/,Android & iOS
+18,LPBBTI,PT Esta Kapital Fintek,Esta Kapital,KEP-129/D.05/2019,13 Desember 2019,Konvensional,Pusat,www.estakapital.co.id,-
+19,LPBBTI,PT Tri Digi Fin,KreditPro,KEP-130/D.05/2019,13 Desember 2019,Konvensional,Pusat,www.kreditpro.id,-
+20,LPBBTI,PT Fintegra Homido Indonesia,FINTAG,KEP-131/D.05/2019,13 Desember 2019,Konvensional,Pusat,https://fintag.id,-
+21,LPBBTI,PT Kredit Utama Fintech Indonesia,RupiahCepat,KEP-132/D.05/2019,13 Desember 2019,Konvensional,Pusat,https://www.rupiahcepat.co.id/,Android
+22,LPBBTI,PT Mediator Komunitas Indonesia,Crowdo,KEP-133/D.05/2019,13 Desember 2019,Konvensional,Pusat,https://crowdo.co.id/,Android
+23,LPBBTI,PT Artha Dana Teknologi,Indodana Fintech,KEP-15/D.05/2020,19 Mei 2020,Konvensional,Pusat,https://www.indodanafintech.co.id/,Android & iOS
+24,LPBBTI,PT JULO Teknologi Finansial,JULO,KEP-16/D.05/2020,19 Mei 2020,Konvensional,Pusat,https://www.julo.co.id/,Android
+25,LPBBTI,PT Progo Puncak Group,Pinjamin,KEP-17/D.05/2020,19 Mei 2020,Konvensional,Pusat,https://pinjamwinwin.com/,Android & iOS
+26,LPBBTI,PT Pindar Berbagi Bersama,DanaKredi,KEP-18/D.05/2020,19 Mei 2020,Konvensional,Pusat,https://www.danakredi.com/,Android & iOS
+27,LPBBTI,PT Indonusa Bara Sejahtera,OVO Finansial,KEP-19/D.05/2020,19 Mei 2020,Konvensional,Pusat,https://ovofinansial.com,-
+28,LPBBTI,PT Finansial Integrasi Teknologi,PinjamModal,KEP-20/D.05/2020,19 Mei 2020,Konvensional,Pusat,https://pinjammodal.id/,Android & iOS
+29,LPBBTI,PT Alami Fintek Sharia,Alami,KEP-21/D.05/2020,27 Mei 2020,Syariah,Pusat,https://alamisharia.co.id/,Android & iOS
+30,LPBBTI,PT Simplefi Teknologi Indonesia,AwanTunai,KEP-22/D.05/2020,27 Mei 2020,Konvensional,Pusat,https://awantunai.co.id/,Android
+31,LPBBTI,PT Dana Kini Indonesia,Danakini,KEP-46/D.05/2020,16 Oktober 2020,Konvensional,Pusat,www.danakini.co.id,Android & iOS
+32,LPBBTI,PT Abadi Sejahtera Finansindo,Singa,KEP-47/D.05/2020,16 Oktober 2020,Konvensional,Pusat,https://singa.id/,Android
+33,LPBBTI,PT Intekno Raya,Danamerdeka,KEP-48/D.05/2020,16 Oktober 2020,Konvensional,Pusat,https://danamerdeka.co.id,Android
+34,LPBBTI,PT Indonesia Fintopia Technology,Easycash,KEP-49/D.05/2020,16 Oktober 2020,Konvensional,Pusat,https://www.easycash.id/,Android & iOS
+35,LPBBTI,PT Kuaikuai Tech Indonesia,Pinjamyuk,KEP-2/D.05/2021,06 Januari 2021,Konvensional,Pusat,https://www.pinjamyuk.co.id/,Android
+36,LPBBTI,PT Rezeki Bersama Teknologi,Finplus,KEP-3/D.05/2021,06 Januari 2021,Konvensional,Pusat,https://finplus.co.id/,-
+37,LPBBTI,PT Uangme Fintek Indonesia,Uangme,KEP-4/D.05/2021,06 Januari 2021,Konvensional,Pusat,https://www.uangme.id/,Android & iOS
+38,LPBBTI,PT Stanford Teknologi Indonesia,PinjamDuit,KEP-5/D.05/2021,06 Januari 2021,Konvensional,Pusat,https://pinjamduit.co.id/,Android & iOS
+39,LPBBTI,PT Dana Syariah Indonesia,DANA SYARIAH,KEP-10/D.05/2021,23 Februari 2021,Syariah,Pusat,http://danasyariah.id,Android
+40,LPBBTI,PT Berdayakan Usaha Indonesia,BATUMBU,KEP-11/D.05/2021,23 Februari 2021,Konvensional,Pusat,www.batumbu.id,-
+41,LPBBTI,PT Artha Permata Makmur,Cashcepat,KEP-12/D.05/2021,23 Februari 2021,Konvensional,Pusat,http://cashcepat.id,Android
+42,LPBBTI,PT Pinjaman Kemakmuran Rakyat,klikUMKM,KEP-13/D.05/2021,23 Februari 2021,Konvensional,Pusat,www.klikUMKM.co.id,-
+43,LPBBTI,PT Kredit Plus Teknologi,Pinjam Gampang,KEP-16/D.05/2021,16 Maret 2021,Konvensional,Pusat,http://www.kreditplusteknologi.id,Android
+44,LPBBTI,PT Cicil Solusi Mitra Teknologi,cicil,KEP-20/D.05/2021,14 April 2021,Konvensional,Pusat,https://www.cicil.co.id,Android
+45,LPBBTI,PT Lumbung Dana Indonesia,lumbungdana,KEP-21/D.05/2021,14 April 2021,Konvensional,Pusat,http://lumbungdana.co.id,Android & iOS
+46,LPBBTI,PT Inovasi Terdepan Nusantara,KrediOne,KEP-22/D.05/2021,14 April 2021,Konvensional,Pusat,www.360kredi.id/,Android
+47,LPBBTI,PT Kreditku Teknologi Indonesia,Kredinesia,KEP-25/D.05/2021,21 April 2021,Konvensional,Pusat,www.kredinesia.id,Android & iOS
+48,LPBBTI,PT Pinduit Teknologi Indonesia,Pintek,KEP-26/D.05/2021,21 April 2021,Konvensional,Pusat,http://pintek.id,-
+49,LPBBTI,PT Modal Rakyat Indonesia,ModalRakyat,KEP-27/D.05/2021,21 April 2021,Konvensional,Pusat,http://modalrakyat.id,Android & iOS
+50,LPBBTI,PT Anugerah Digital Indonesia,SOLUSIKU,KEP-28/D.05/2021,21 April 2021,Konvensional,Pusat,www.solusi-ku.id,Android & iOS
+51,LPBBTI,PT Idana Solusi Sejahtera,Cairin,KEP-29/D.05/2021,21 April 2021,Konvensional,Pusat,www.cairin.id,Android & iOS
+52,LPBBTI,PT Trust Teknologi Finansial,Danaku,KEP-30/D.05/2021,21 April 2021,Konvensional,Pusat,http://danaku.id,Android & iOS
+53,LPBBTI,PT Harapan Fintech Indonesia,KLIK KAMI,KEP-31/D.05/2021,21 April 2021,Konvensional,Pusat,www.klikkami.co.id,Android & iOS
+54,LPBBTI,PT Duha Madani Syariah,Duha SYARIAH,KEP-32/D.05/2021,21 April 2021,Syariah,Pusat,www.duhasyariah.com,Android
+55,LPBBTI,PT Sol Mitra Fintec,Invoila,KEP-39/D.05/2021,11 Mei 2021,Konvensional,Pusat,http://invoila.co.id,Android
+56,LPBBTI,PT Satustop Finansial Solusi,Sanders One Stop Solution,KEP-40/D.05/2021,11 Mei 2021,Konvensional,KOBD,http://sanders.co.id,-
+57,LPBBTI,PT Dana Bagus Indonesia,DanaBagus,KEP-41/D.05/2021,11 Mei 2021,Konvensional,Pusat,www.danabagus.id,Android
+58,LPBBTI,PT Teknologi Merlin Sejahtera,UKU,KEP-46/D.05/2021,2 Juni 2021,Konvensional,Pusat,ukuindo.com,Android
+59,LPBBTI,PT Fintek Digital Indonesia,KREDITO,KEP-47/D.05/2021,2 Juni 2021,Konvensional,Pusat,https://kredito.id,Android & iOS
+60,LPBBTI,PT Info Tekno Siaga,AdaPundi,KEP-48/D.05/2021,2 Juni 2021,Konvensional,Pusat,www.adapundi.com,Android & iOS
+61,LPBBTI,PT Lentera Dana Nusantara,Lentera Dana Nusantara,KEP-49/D.05/2021,2 Juni 2021,Konvensional,Pusat,www.lenteradana.co.id/lender/,Android
+62,LPBBTI,PT Solusi Teknologi Finansial,Modal Nasional,KEP-50/D.05/2021,2 Juni 2021,Konvensional,Pusat,www.modalnasional.co.id,Android & iOS
+63,LPBBTI,PT Komunal Finansial Indonesia,Komunal,KEP-51/D.05/2021,2 Juni 2021,Konvensional,KOSB,www.komunal.co.id,Android & iOS
+64,LPBBTI,PT Cerita Teknologi Indonesia,Restock.ID,KEP-52/D.05/2021,2 Juni 2021,Konvensional,Pusat,www.restock.id,-
+65,LPBBTI,PT Grha Dana Bersama,Avantee,KEP-66/D.05/2021,2 Agustus 2021,Konvensional,Pusat,www.avantee.co.id,-
+66,LPBBTI,PT Gradana Teknoruci Indonesia,Gradana,KEP-67/D.05/2021,2 Agustus 2021,Konvensional,Pusat,gradana.co.id,-
+67,LPBBTI,PT Inclusive Finance Group,Danacita,KEP-68/D.05/2021,2 Agustus 2021,Konvensional,Pusat,www.danacita.co.id,-
+68,LPBBTI,PT IKI Karunia Indonesia,Pijar,KEP-69/D.05/2021,2 Agustus 2021,Konvensional,Pusat,www.pijar.com,-
+69,LPBBTI,PT Finansia Aira Teknologi,Ivoji,KEP-73/D.05/2021,19 Agustus 2021,Konvensional,Pusat,www.ivoji.id,Android & iOS
+70,LPBBTI,PT Bursa Akselerasi Indonesia,Indofund.id,KEP-74/D.05/2021,19 Agustus 2021,Konvensional,Pusat,indofund.id,-
+71,LPBBTI,PT LinkAja Modalin Nusantara,iGrow,KEP-75/D.05/2021,19 Agustus 2021,Konvensional,Pusat,igrow.asia,Android & iOS
+72,LPBBTI,PT Adiwisista Finansial Teknologi,Danai.id,KEP-76/D.05/2021,19 Agustus 2021,Konvensional,Pusat,http://danai.id,Android & iOS
+73,LPBBTI,PT Fidac Inovasi Teknologi,DUMI,KEP-78/D.05/2021,24 Agustus 2021,Konvensional,Pusat,minjem.com,Android & iOS
+74,LPBBTI,PT Lampung Berkah Finansial Teknologi,LAHAN SIKAM,KEP-79/D.05/2021,24 Agustus 2021,Konvensional,KOPG,www.lahansikam.co.id,-
+75,LPBBTI,PT Qazwa Mitra Hasanah,qazwa.id,KEP-80/D.05/2021,24 Agustus 2021,Syariah,Pusat,qazwa.id,-
+76,LPBBTI,PT KrediFazz Digital Indonesia,KrediFazz,KEP-81/D.05/2021,24 Agustus 2021,Konvensional,Pusat,www.kredifazz.id,Android
+77,LPBBTI,PT Doeku Peduli Indonesia,KreditOK,KEP-82/D.05/2021,24 Agustus 2021,Konvensional,Pusat,http://kreditok.id/,Android
+78,LPBBTI,PT Aktivaku Investama Teknologi,Aktivaku,KEP-83/D.05/2021,24 Agustus 2021,Konvensional,Pusat,aktivaku.com,-
+79,LPBBTI,PT Mulia Inovasi Digital,Danain,KEP-84/D.05/2021,24 Agustus 2021,Konvensional,Pusat,www.danain.co.id,Android & iOS
+80,LPBBTI,PT Indosaku Digital Teknologi,Indosaku,KEP-86/D.05/2021,31 Agustus 2021,Konvensional,Pusat,indosaku.id,Android
+81,LPBBTI,PT Fintech Bina Bangsa,EDUFUND,KEP-88/D.05/2021,8 September 2021,Konvensional,Pusat,www.edufund.co.id,Andorid
+82,LPBBTI,PT Kreasi Anak Indonesia,GandengTangan,KEP-89/D.05/2021,8 September 2021,Konvensional,Pusat,www.gandengtangan.co.id,Android
+83,LPBBTI,PT Piranti Alphabet Perkasa,PAPITUPI SYARIAH,KEP-90/D.05/2021,8 September 2021,Syariah,Pusat,www.papitupisyariah.com,Android
+84,LPBBTI,PT Smartec Teknologi Indonesia,BantuSaku,KEP-91/D.05/2021,8 September 2021,Konvensional,Pusat,bantusaku.id,Android
+85,LPBBTI,PT Digital Micro Indonesia,danabijak,KEP-92/D.05/2021,8 September 2021,Konvensional,Pusat,danabijak.com,Android
+86,LPBBTI,PT Solid Fintek Indonesia,AdaModal,KEP-94/D.05/2021,8 September 2021,Konvensional,Pusat,www.adamodal.co.id,Android & iOS
+87,LPBBTI,PT Sejahtera Sama Kita,SamaKita,KEP-95/D.05/2021,8 September 2021,Konvensional,Pusat,samakita.co.id,-
+88,LPBBTI,PT Kawan Cicil Teknologi Utama,KawanCicil,KEP-101/D.05/2021,17 September 2021,Konvensional,Pusat,kawancicil.co.id,Android & iOS
+89,LPBBTI,PT Klikcair Magga Jaya,KlikCair,KEP-103/D.05/2021,17 September 2021,Konvensional,Pusat,klikcair.com,Android
+90,LPBBTI,PT Ethis Fintek Indonesia,ETHIS,KEP-104/D.05/2021,17 September 2021,Syariah,Pusat,ethis.co.id,-
+91,LPBBTI,PT Sahabat Mikro Fintek,SAMIR,KEP-105/D.05/2021,17 September 2021,Konvensional,Pusat,www.samir.co.id,Android
+92,LPBBTI,PT Plus Ultra Abadi,UATAS,KEP-106/D.05/2021,17 September 2021,Konvensional,Pusat,www.uatas.id,Android
+93,LPBBTI,PT Pintar Inovasi Digital,Asetku,KEP-123/D.05/2021,23 Desember 2021,Konvensional,Pusat,www.asetku.co.id,Android & iOS
+94,LPBBTI,PT Mapan Global Reksa,Findaya,KEP-124/D.05/2021,23 Desember 2021,Konvensional,Pusat,https://www.findaya.co.id,Android & iOS

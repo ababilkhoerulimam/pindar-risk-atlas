@@ -1,0 +1,1133 @@
+indicator,kode_prov,provinsi_raw,variabel,satuan,turunan_var,tahun,periode,nilai_raw
+ipm,1100,<b>ACEH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.03
+ipm,1101,Simeulue,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.01
+ipm,1102,Aceh Singkil,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.75
+ipm,1103,Aceh Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.1
+ipm,1104,Aceh Tenggara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.7
+ipm,1105,Aceh Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.87
+ipm,1106,Aceh Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.41
+ipm,1107,Aceh Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.69
+ipm,1108,Aceh Besar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.13
+ipm,1109,Pidie,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.31
+ipm,1110,Bireuen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.45
+ipm,1111,Aceh Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.7
+ipm,1112,Aceh Barat Daya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.75
+ipm,1113,Gayo Lues,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.83
+ipm,1114,Aceh Tamiang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.32
+ipm,1115,Nagan Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.72
+ipm,1116,Aceh Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.83
+ipm,1117,Bener Meriah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.01
+ipm,1118,Pidie Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.16
+ipm,1171,Kota Banda Aceh,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,87.17
+ipm,1172,Kota Sabang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.32
+ipm,1173,Kota Langsa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.81
+ipm,1174,Kota Lhokseumawe,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,79.55
+ipm,1175,Kota Subulussalam,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.04
+ipm,1200,<b>SUMATERA UTARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.02
+ipm,1201,Nias,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.55
+ipm,1202,Mandailing Natal,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.33
+ipm,1203,Tapanuli Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.14
+ipm,1204,Tapanuli Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.52
+ipm,1205,Tapanuli Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.23
+ipm,1206,Toba Samosir / Toba,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.91
+ipm,1207,Labuhan Batu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.18
+ipm,1208,Asahan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.09
+ipm,1209,Simalungun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.97
+ipm,1210,Dairi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.92
+ipm,1211,Karo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.55
+ipm,1212,Deli Serdang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.92
+ipm,1213,Langkat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.73
+ipm,1214,Nias Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.02
+ipm,1215,Humbang Hasundutan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.59
+ipm,1216,Pakpak Bharat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.36
+ipm,1217,Samosir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.88
+ipm,1218,Serdang Bedagai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.47
+ipm,1219,Batu Bara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.83
+ipm,1220,Padang Lawas Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.32
+ipm,1221,Padang Lawas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.27
+ipm,1222,Labuhan Batu Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.67
+ipm,1223,Labuhan Batu Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.4
+ipm,1224,Nias Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.62
+ipm,1225,Nias Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.67
+ipm,1271,Kota Sibolga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.66
+ipm,1272,Kota Tanjung Balai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.1
+ipm,1273,Kota Pematang Siantar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.17
+ipm,1274,Kota Tebing Tinggi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.45
+ipm,1275,Kota Medan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.76
+ipm,1276,Kota Binjai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.1
+ipm,1277,Kota Padangsidimpuan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.96
+ipm,1278,Kota Gunungsitoli,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.41
+ipm,1300,<b>SUMATERA BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.49
+ipm,1301,Kepulauan Mentawai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,63.99
+ipm,1302,Pesisir Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.02
+ipm,1303,Solok,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.02
+ipm,1304,Sijunjung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.23
+ipm,1305,Tanah Datar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.9
+ipm,1306,Padang Pariaman,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.1
+ipm,1307,Agam,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.66
+ipm,1308,Lima Puluh Kota,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.14
+ipm,1309,Pasaman,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.89
+ipm,1310,Solok Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.5
+ipm,1311,Dharmasraya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.06
+ipm,1312,Pasaman Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.93
+ipm,1371,Kota Padang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,83.99
+ipm,1372,Kota Solok,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.0
+ipm,1373,Kota Sawah Lunto,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.13
+ipm,1374,Kota Padang Panjang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.17
+ipm,1375,Kota Bukittinggi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.51
+ipm,1376,Kota Payakumbuh,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.61
+ipm,1377,Kota Pariaman,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.88
+ipm,1400,<b>RIAU</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.79
+ipm,1401,Kuantan Singingi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.33
+ipm,1402,Indragiri Hulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.48
+ipm,1403,Indragiri Hilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.38
+ipm,1404,Pelalawan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.08
+ipm,1405,Siak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.45
+ipm,1406,Kampar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.85
+ipm,1407,Rokan Hulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.82
+ipm,1408,Bengkalis,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.28
+ipm,1409,Rokan Hilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.2
+ipm,1410,Kepulauan Meranti,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.92
+ipm,1471,Kota Pekanbaru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.89
+ipm,1473,Kota Dumai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.19
+ipm,1500,<b>JAMBI</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.43
+ipm,1501,Kerinci,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.11
+ipm,1502,Merangin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.66
+ipm,1503,Sarolangun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.01
+ipm,1504,Batang Hari,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.67
+ipm,1505,Muaro Jambi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.91
+ipm,1506,Tanjung Jabung Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.54
+ipm,1507,Tanjung Jabung Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.93
+ipm,1508,Tebo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.32
+ipm,1509,Bungo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.92
+ipm,1571,Kota Jambi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.04
+ipm,1572,Kota Sungai Penuh,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.4
+ipm,1600,<b>SUMATERA SELATAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.3
+ipm,1601,Ogan Komering Ulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.55
+ipm,1602,Ogan Komering Ilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.33
+ipm,1603,Muara Enim,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.0
+ipm,1604,Lahat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.77
+ipm,1605,Musi Rawas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.95
+ipm,1606,Musi Banyuasin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.12
+ipm,1607,Banyu Asin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.51
+ipm,1608,Ogan Komering Ulu Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.65
+ipm,1609,Ogan Komering Ulu Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.55
+ipm,1610,Ogan Ilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.4
+ipm,1611,Empat Lawang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.25
+ipm,1612,Penukal Abab Lematang Ilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.48
+ipm,1613,Musi Rawas Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.4
+ipm,1671,Kota Palembang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.57
+ipm,1672,Kota Prabumulih,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.08
+ipm,1673,Kota Pagar Alam,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.19
+ipm,1674,Kota Lubuklinggau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.82
+ipm,1700,<b>BENGKULU</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.39
+ipm,1701,Bengkulu Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.35
+ipm,1702,Rejang Lebong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.92
+ipm,1703,Bengkulu Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.11
+ipm,1704,Kaur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.98
+ipm,1705,Seluma,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.97
+ipm,1706,Mukomuko,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.63
+ipm,1707,Lebong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.27
+ipm,1708,Kepahiang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.27
+ipm,1709,Bengkulu Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.84
+ipm,1771,Kota Bengkulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.04
+ipm,1800,<b>LAMPUNG</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.81
+ipm,1801,Lampung Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.84
+ipm,1802,Tanggamus,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.52
+ipm,1803,Lampung Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.28
+ipm,1804,Lampung Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.84
+ipm,1805,Lampung Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.37
+ipm,1806,Lampung Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.62
+ipm,1807,Way Kanan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.31
+ipm,1808,Tulangbawang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.66
+ipm,1809,Pesawaran,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.52
+ipm,1810,Pringsewu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.29
+ipm,1811,Mesuji,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.46
+ipm,1812,Tulang Bawang Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.46
+ipm,1813,Pesisir Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.73
+ipm,1871,Kota Bandar Lampung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,79.19
+ipm,1872,Kota Metro,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.93
+ipm,1900,<b>KEP. BANGKA BELITUNG</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.33
+ipm,1901,Bangka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.98
+ipm,1902,Belitung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.47
+ipm,1903,Bangka Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.67
+ipm,1904,Bangka Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.9
+ipm,1905,Bangka Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.86
+ipm,1906,Belitung Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.19
+ipm,1971,Kota Pangkal Pinang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.4
+ipm,2100,<b>KEPULAUAN RIAU</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.97
+ipm,2101,Karimun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.28
+ipm,2102,Bintan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.18
+ipm,2103,Natuna,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.56
+ipm,2104,Lingga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.19
+ipm,2105,Kepulauan Anambas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.93
+ipm,2171,Kota Batam,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.86
+ipm,2172,Kota Tanjung Pinang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.63
+ipm,3100,<b>DKI JAKARTA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,83.08
+ipm,3101,Kep. Seribu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.17
+ipm,3171,Kota Jakarta Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,86.94
+ipm,3172,Kota Jakarta Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,84.65
+ipm,3173,Kota Jakarta Pusat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,83.01
+ipm,3174,Kota Jakarta Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,83.64
+ipm,3175,Kota Jakarta Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.39
+ipm,3200,<b>JAWA BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.43
+ipm,3201,Bogor,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.39
+ipm,3202,Sukabumi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.97
+ipm,3203,Cianjur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.24
+ipm,3204,Bandung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.27
+ipm,3205,Garut,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.79
+ipm,3206,Tasikmalaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.36
+ipm,3207,Ciamis,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.56
+ipm,3208,Kuningan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.26
+ipm,3209,Cirebon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.44
+ipm,3210,Majalengka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.74
+ipm,3211,Sumedang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.73
+ipm,3212,Indramayu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.83
+ipm,3213,Subang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.36
+ipm,3214,Purwakarta,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.65
+ipm,3215,Karawang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.9
+ipm,3216,Bekasi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.44
+ipm,3217,Bandung Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.03
+ipm,3218,Pangandaran,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.85
+ipm,3271,Kota Bogor,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.52
+ipm,3272,Kota Sukabumi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.85
+ipm,3273,Kota Bandung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,83.52
+ipm,3274,Kota Cirebon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.08
+ipm,3275,Kota Bekasi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,83.54
+ipm,3276,Kota Depok,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.91
+ipm,3277,Kota Cimahi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.08
+ipm,3278,Kota Tasikmalaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.04
+ipm,3279,Kota Banjar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.64
+ipm,3300,<b>JAWA TENGAH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.88
+ipm,3301,Cilacap,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.38
+ipm,3302,Banyumas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.52
+ipm,3303,Purbalingga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.69
+ipm,3304,Banjarnegara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.6
+ipm,3305,Kebumen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.93
+ipm,3306,Purworejo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.11
+ipm,3307,Wonosobo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.82
+ipm,3308,Magelang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.99
+ipm,3309,Boyolali,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.96
+ipm,3310,Klaten,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.16
+ipm,3311,Sukoharjo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,79.3
+ipm,3312,Wonogiri,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.55
+ipm,3313,Karanganyar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.11
+ipm,3314,Sragen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.53
+ipm,3315,Grobogan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.02
+ipm,3316,Blora,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.39
+ipm,3317,Rembang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.53
+ipm,3318,Pati,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.1
+ipm,3319,Kudus,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.22
+ipm,3320,Jepara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.32
+ipm,3321,Demak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.57
+ipm,3322,Semarang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.67
+ipm,3323,Temanggung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.87
+ipm,3324,Kendal,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.34
+ipm,3325,Batang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.74
+ipm,3326,Pekalongan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.84
+ipm,3327,Pemalang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.55
+ipm,3328,Tegal,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.77
+ipm,3329,Brebes,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.46
+ipm,3371,Kota Magelang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.15
+ipm,3372,Kota Surakarta,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,84.4
+ipm,3373,Kota Salatiga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,85.72
+ipm,3374,Kota Semarang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,85.25
+ipm,3375,Kota Pekalongan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.22
+ipm,3376,Kota Tegal,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.43
+ipm,3400,<b>D I YOGYAKARTA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.55
+ipm,3401,Kulon Progo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.14
+ipm,3402,Bantul,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.74
+ipm,3403,Gunung Kidul,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.89
+ipm,3404,Sleman,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,85.61
+ipm,3471,Kota Yogyakarta,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,88.77
+ipm,3500,<b>JAWA TIMUR<b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.09
+ipm,3501,Pacitan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.74
+ipm,3502,Ponorogo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.01
+ipm,3503,Trenggalek,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.24
+ipm,3504,Tulungagung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.09
+ipm,3505,Blitar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.09
+ipm,3506,Kediri,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.44
+ipm,3507,Malang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.68
+ipm,3508,Lumajang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.8
+ipm,3509,Jember,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.15
+ipm,3510,Banyuwangi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.11
+ipm,3511,Bondowoso,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.65
+ipm,3512,Situbondo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.75
+ipm,3513,Probolinggo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.29
+ipm,3514,Pasuruan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.73
+ipm,3515,Sidoarjo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.31
+ipm,3516,Mojokerto,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.98
+ipm,3517,Jombang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.1
+ipm,3518,Nganjuk,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.23
+ipm,3519,Madiun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.74
+ipm,3520,Magetan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.87
+ipm,3521,Ngawi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.09
+ipm,3522,Bojonegoro,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.78
+ipm,3523,Tuban,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.23
+ipm,3524,Lamongan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.13
+ipm,3525,Gresik,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.45
+ipm,3526,Bangkalan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.27
+ipm,3527,Sampang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.65
+ipm,3528,Pamekasan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.49
+ipm,3529,Sumenep,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.26
+ipm,3571,Kota Kediri,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.35
+ipm,3572,Kota Blitar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.27
+ipm,3573,Kota Malang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,84.06
+ipm,3574,Kota Probolinggo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.27
+ipm,3575,Kota Pasuruan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.75
+ipm,3576,Kota Mojokerto,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.92
+ipm,3577,Kota Madiun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,83.48
+ipm,3578,Kota Surabaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,84.14
+ipm,3579,Kota Batu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.79
+ipm,3600,<b>BANTEN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.48
+ipm,3601,Pandeglang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.99
+ipm,3602,Lebak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.86
+ipm,3603,Tangerang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.09
+ipm,3604,Serang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.03
+ipm,3671,Kota Tangerang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.02
+ipm,3672,Kota Cilegon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.14
+ipm,3673,Kota Serang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.99
+ipm,3674,Kota Tangerang Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.89
+ipm,5100,<b>BALI</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.76
+ipm,5101,Jembrana,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.6
+ipm,5102,Tabanan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.42
+ipm,5103,Badung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,83.87
+ipm,5104,Gianyar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,79.82
+ipm,5105,Klungkung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.04
+ipm,5106,Bangli,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.34
+ipm,5107,Karangasem,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.74
+ipm,5108,Buleleng,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.52
+ipm,5171,Kota Denpasar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,85.22
+ipm,5200,<b>NUSA TENGGARA BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.93
+ipm,5201,Lombok Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.67
+ipm,5202,Lombok Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.17
+ipm,5203,Lombok Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.23
+ipm,5204,Sumbawa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.55
+ipm,5205,Dompu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.78
+ipm,5206,Bima,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.94
+ipm,5207,Sumbawa Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.86
+ipm,5208,Lombok Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.24
+ipm,5271,Kota Mataram,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.6
+ipm,5272,Kota Bima,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.04
+ipm,5300,<b>NUSA TENGGARA TIMUR</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.39
+ipm,5301,Sumba Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.06
+ipm,5302,Sumba Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.68
+ipm,5303,Kupang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.57
+ipm,5304,Timor Tengah Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.36
+ipm,5305,Timor Tengah Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.83
+ipm,5306,Belu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.43
+ipm,5307,Alor,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,63.82
+ipm,5308,Lembata,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.62
+ipm,5309,Flores Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.29
+ipm,5310,Sikka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.41
+ipm,5311,Ende,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.11
+ipm,5312,Ngada,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.52
+ipm,5313,Manggarai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.28
+ipm,5314,Rote Ndao,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.59
+ipm,5315,Manggarai Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.65
+ipm,5316,Sumba Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.31
+ipm,5317,Sumba Barat Daya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.27
+ipm,5318,Nagekeo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.72
+ipm,5319,Manggarai Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.2
+ipm,5320,Sabu Raijua,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,59.58
+ipm,5321,Malaka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,62.73
+ipm,5371,Kota Kupang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.08
+ipm,6100,<b>KALIMANTAN BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.13
+ipm,6101,Sambas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.31
+ipm,6102,Bengkayang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.3
+ipm,6103,Landak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.08
+ipm,6104,Mempawah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.56
+ipm,6105,Sanggau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.43
+ipm,6106,Ketapang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.42
+ipm,6107,Sintang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.42
+ipm,6108,Kapuas Hulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.58
+ipm,6109,Sekadau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.25
+ipm,6110,Melawi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.66
+ipm,6111,Kayong Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.74
+ipm,6112,Kubu Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.25
+ipm,6171,Kota Pontianak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.57
+ipm,6172,Kota Singkawang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.87
+ipm,6200,<b>KALIMANTAN TENGAH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.73
+ipm,6201,Kotawaringin Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.44
+ipm,6202,Kotawaringin Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.66
+ipm,6203,Kapuas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.32
+ipm,6204,Barito Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.36
+ipm,6205,Barito Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.31
+ipm,6206,Sukamara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.85
+ipm,6207,Lamandau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.25
+ipm,6208,Seruyan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.05
+ipm,6209,Katingan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.7
+ipm,6210,Pulang Pisau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.27
+ipm,6211,Gunung Mas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.73
+ipm,6212,Barito Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.26
+ipm,6213,Murung Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.03
+ipm,6271,Kota Palangka Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.2
+ipm,6300,<b>KALIMANTAN SELATAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.03
+ipm,6301,Tanah Laut,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.43
+ipm,6302,Kotabaru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.61
+ipm,6303,Banjar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.87
+ipm,6304,Barito Kuala,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.84
+ipm,6305,Tapin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.51
+ipm,6306,Hulu Sungai Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.21
+ipm,6307,Hulu Sungai Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.69
+ipm,6308,Hulu Sungai Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.28
+ipm,6309,Tabalong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.41
+ipm,6310,Tanah Bumbu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.95
+ipm,6311,Balangan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.34
+ipm,6371,Kota Banjarmasin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,79.05
+ipm,6372,Kota Banjar Baru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.51
+ipm,6400,<b>KALIMANTAN TIMUR</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.83
+ipm,6401,Paser,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.7
+ipm,6402,Kutai Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.5
+ipm,6403,Kutai Kartanegara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.91
+ipm,6404,Kutai Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.53
+ipm,6405,Berau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.66
+ipm,6409,Penajam Paser Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.9
+ipm,6411,Mahakam Ulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.35
+ipm,6471,Kota Balikpapan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.24
+ipm,6472,Kota Samarinda,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.81
+ipm,6474,Kota Bontang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.42
+ipm,6500,<b>KALIMANTAN UTARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.02
+ipm,6501,Malinau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.9
+ipm,6502,Bulungan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.34
+ipm,6503,Tana Tidung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.08
+ipm,6504,Nunukan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.52
+ipm,6571,Kota Tarakan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.96
+ipm,7100,<b>SULAWESI UTARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.03
+ipm,7101,Bolaang Mongondow,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.29
+ipm,7102,Minahasa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,77.74
+ipm,7103,Kepulauan Sangihe,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.71
+ipm,7104,Kepulauan Talaud,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.77
+ipm,7105,Minahasa Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.17
+ipm,7106,Minahasa Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.89
+ipm,7107,Bolaang Mongondow Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.32
+ipm,7108,Siau Tagulandang Biaro,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.31
+ipm,7109,Minahasa Tenggara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.66
+ipm,7110,Bolaang Mongondow Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.14
+ipm,7111,Bolaang Mongondow Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.53
+ipm,7171,Kota Manado,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,80.63
+ipm,7172,Kota Bitung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.71
+ipm,7173,Kota Tomohon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.89
+ipm,7174,Kota Kotamobagu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.27
+ipm,7200,<b>SULAWESI TENGAH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.56
+ipm,7201,Banggai Kepulauan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.43
+ipm,7202,Banggai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.32
+ipm,7203,Morowali,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.54
+ipm,7204,Poso,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.87
+ipm,7205,Donggala,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.45
+ipm,7206,Toli-Toli,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.37
+ipm,7207,Buol,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.28
+ipm,7208,Parigi Moutong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.49
+ipm,7209,Tojo Una-Una,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.97
+ipm,7210,Sigi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.51
+ipm,7211,Banggai Laut,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.43
+ipm,7212,Morowali Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.58
+ipm,7271,Kota Palu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.88
+ipm,7300,<b>SULAWESI SELATAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.05
+ipm,7301,Kepulauan Selayar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.03
+ipm,7302,Bulukumba,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.97
+ipm,7303,Bantaeng,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.48
+ipm,7304,Jeneponto,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.38
+ipm,7305,Takalar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.47
+ipm,7306,Gowa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.26
+ipm,7307,Sinjai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.52
+ipm,7308,Maros,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.11
+ipm,7309,Pangkajene dan Kepulauan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.22
+ipm,7310,Barru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.06
+ipm,7311,Bone,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.36
+ipm,7312,Soppeng,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.39
+ipm,7313,Wajo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.52
+ipm,7314,Sidenreng Rappang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.21
+ipm,7315,Pinrang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.55
+ipm,7316,Enrekang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.61
+ipm,7317,Luwu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.79
+ipm,7318,Tana Toraja,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.67
+ipm,7322,Luwu Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.07
+ipm,7325,Luwu Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.95
+ipm,7326,Toraja Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.85
+ipm,7371,Kota Makasar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,83.9
+ipm,7372,Kota Parepare,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,79.64
+ipm,7373,Kota Palopo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,79.94
+ipm,7400,<b>SULAWESI TENGGARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.48
+ipm,7401,Buton,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.88
+ipm,7402,Muna,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.05
+ipm,7403,Konawe,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.39
+ipm,7404,Kolaka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,75.18
+ipm,7405,Konawe Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.19
+ipm,7406,Bombana,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.15
+ipm,7407,Wakatobi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.02
+ipm,7408,Kolaka Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.7
+ipm,7409,Buton Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.6
+ipm,7410,Konawe Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.32
+ipm,7411,Kolaka Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.27
+ipm,7412,Konawe Kepulauan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.99
+ipm,7413,Muna Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.06
+ipm,7414,Buton Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.47
+ipm,7415,Buton Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.0
+ipm,7471,Kota Kendari,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,85.33
+ipm,7472,Kota Baubau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,78.13
+ipm,7500,<b>GORONTALO</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.23
+ipm,7501,Boalemo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.74
+ipm,7502,Gorontalo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.66
+ipm,7503,Pohuwato,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.02
+ipm,7504,Bone Bolango,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.38
+ipm,7505,Gorontalo Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.46
+ipm,7571,Kota Gorontalo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,79.18
+ipm,7600,<b>SULAWESI BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.2
+ipm,7601,Majene,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.42
+ipm,7602,Polewali Mandar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.22
+ipm,7603,Mamasa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.37
+ipm,7604,Mamuju,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.4
+ipm,7605,Mamuju Utara / Pasangkayu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.73
+ipm,7606,Mamuju Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.36
+ipm,8100,<b>MALUKU</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.57
+ipm,8101,Maluku Tenggara Barat / Kepulauan Tanimbar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.83
+ipm,8102,Maluku Tenggara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.24
+ipm,8103,Maluku Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.21
+ipm,8104,Buru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.01
+ipm,8105,Kepulauan Aru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.83
+ipm,8106,Seram Bagian Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.39
+ipm,8107,Seram Bagian Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.24
+ipm,8108,Maluku Barat Daya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.86
+ipm,8109,Buru Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.09
+ipm,8171,Kota Ambon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.56
+ipm,8172,Kota Tual,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.21
+ipm,8200,<b>MALUKU UTARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.03
+ipm,8201,Halmahera Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.53
+ipm,8202,Halmahera Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.45
+ipm,8203,Kepulauan Sula,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.99
+ipm,8204,Halmahera Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.66
+ipm,8205,Halmahera Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.78
+ipm,8206,Halmahera Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.58
+ipm,8207,Pulau Morotai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.68
+ipm,8208,Pulau Taliabu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,62.9
+ipm,8271,Kota Ternate,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,82.12
+ipm,8272,Kota Tidore Kepulauan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.91
+ipm,9100,<b>PAPUA BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.02
+ipm,9101,Fakfak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,70.39
+ipm,9102,Kaimana,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.6
+ipm,9103,Teluk Wondama,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,62.36
+ipm,9104,Teluk Bintuni,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.75
+ipm,9105,Manokwari,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.83
+ipm,9111,Manokwari Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,62.45
+ipm,9112,Pegunungan Arfak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,58.73
+ipm,9200,<b>PAPUA BARAT DAYA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.63
+ipm,9201,Raja Ampat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.86
+ipm,9202,Sorong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.29
+ipm,9203,Sorong Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.5
+ipm,9204,Maybrat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,61.83
+ipm,9205,Tambrauw,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,56.32
+ipm,9271,Kota Sorong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,79.93
+ipm,9400,<b>PAPUA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.0
+ipm,9403,Jayapura,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.11
+ipm,9408,Kepulauan Yapen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,69.65
+ipm,9409,Biak Numfor,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,73.98
+ipm,9419,Sarmi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.72
+ipm,9420,Keerom,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,68.68
+ipm,9426,Waropen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,66.92
+ipm,9427,Supiori,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,65.15
+ipm,9428,Mamberamo Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,55.0
+ipm,9471,Kota Jayapura,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,81.67
+ipm,9500,<b>PAPUA SELATAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,67.9
+ipm,9501,Merauke,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,72.73
+ipm,9502,Boven Digoel,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,64.26
+ipm,9503,Mappi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,61.51
+ipm,9504,Asmat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,53.92
+ipm,9600,<b>PAPUA TENGAH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,59.75
+ipm,9601,Mimika,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,76.85
+ipm,9602,Dogiyai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,57.68
+ipm,9603,Deiyai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,52.07
+ipm,9604,Nabire,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,71.77
+ipm,9605,Paniai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,58.69
+ipm,9606,Intan Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,50.71
+ipm,9607,Puncak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,45.6
+ipm,9608,Puncak Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,51.78
+ipm,9700,<b>PAPUA PEGUNUNGAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,53.42
+ipm,9701,Nduga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,36.3
+ipm,9702,Jayawijaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,61.03
+ipm,9703,Lanny Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,51.59
+ipm,9704,Tolikara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,52.05
+ipm,9705,Mamberamo Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,50.72
+ipm,9706,Yalimo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,51.85
+ipm,9707,Yahukimo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,51.98
+ipm,9708,Pegunungan Bintang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,49.36
+ipm,9999,<b>INDONESIA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2024,Tahun,74.2
+ipm,1100,<b>ACEH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.4
+ipm,1101,Simeulue,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.06
+ipm,1102,Aceh Singkil,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.14
+ipm,1103,Aceh Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.44
+ipm,1104,Aceh Tenggara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.05
+ipm,1105,Aceh Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.32
+ipm,1106,Aceh Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.6
+ipm,1107,Aceh Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.88
+ipm,1108,Aceh Besar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.53
+ipm,1109,Pidie,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.66
+ipm,1110,Bireuen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.63
+ipm,1111,Aceh Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.87
+ipm,1112,Aceh Barat Daya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.07
+ipm,1113,Gayo Lues,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.93
+ipm,1114,Aceh Tamiang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.35
+ipm,1115,Nagan Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.78
+ipm,1116,Aceh Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.88
+ipm,1117,Bener Meriah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.49
+ipm,1118,Pidie Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.8
+ipm,1171,Kota Banda Aceh,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,86.69
+ipm,1172,Kota Sabang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.52
+ipm,1173,Kota Langsa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.36
+ipm,1174,Kota Lhokseumawe,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.92
+ipm,1175,Kota Subulussalam,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.1
+ipm,1200,<b>SUMATERA UTARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.37
+ipm,1201,Nias,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,64.56
+ipm,1202,Mandailing Natal,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.56
+ipm,1203,Tapanuli Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.55
+ipm,1204,Tapanuli Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.91
+ipm,1205,Tapanuli Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.65
+ipm,1206,Toba Samosir / Toba,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.38
+ipm,1207,Labuhan Batu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.69
+ipm,1208,Asahan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.56
+ipm,1209,Simalungun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.29
+ipm,1210,Dairi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.27
+ipm,1211,Karo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.98
+ipm,1212,Deli Serdang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.52
+ipm,1213,Langkat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.21
+ipm,1214,Nias Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,64.12
+ipm,1215,Humbang Hasundutan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.75
+ipm,1216,Pakpak Bharat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.58
+ipm,1217,Samosir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.08
+ipm,1218,Serdang Bedagai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.75
+ipm,1219,Batu Bara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.31
+ipm,1220,Padang Lawas Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.63
+ipm,1221,Padang Lawas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.34
+ipm,1222,Labuhan Batu Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.82
+ipm,1223,Labuhan Batu Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.63
+ipm,1224,Nias Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,64.64
+ipm,1225,Nias Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.7
+ipm,1271,Kota Sibolga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.2
+ipm,1272,Kota Tanjung Balai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.59
+ipm,1273,Kota Pematang Siantar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.46
+ipm,1274,Kota Tebing Tinggi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.98
+ipm,1275,Kota Medan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.19
+ipm,1276,Kota Binjai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.6
+ipm,1277,Kota Padangsidimpuan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.44
+ipm,1278,Kota Gunungsitoli,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.68
+ipm,1300,<b>SUMATERA BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.75
+ipm,1301,Kepulauan Mentawai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.13
+ipm,1302,Pesisir Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.44
+ipm,1303,Solok,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.63
+ipm,1304,Sijunjung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.65
+ipm,1305,Tanah Datar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.98
+ipm,1306,Padang Pariaman,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.61
+ipm,1307,Agam,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.98
+ipm,1308,Lima Puluh Kota,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.7
+ipm,1309,Pasaman,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.13
+ipm,1310,Solok Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.58
+ipm,1311,Dharmasraya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.04
+ipm,1312,Pasaman Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.19
+ipm,1371,Kota Padang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,83.58
+ipm,1372,Kota Solok,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.58
+ipm,1373,Kota Sawah Lunto,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.42
+ipm,1374,Kota Padang Panjang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.26
+ipm,1375,Kota Bukittinggi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.78
+ipm,1376,Kota Payakumbuh,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.97
+ipm,1377,Kota Pariaman,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.13
+ipm,1400,<b>RIAU</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.04
+ipm,1401,Kuantan Singingi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.67
+ipm,1402,Indragiri Hulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.04
+ipm,1403,Indragiri Hilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.98
+ipm,1404,Pelalawan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.59
+ipm,1405,Siak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.98
+ipm,1406,Kampar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.24
+ipm,1407,Rokan Hulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.02
+ipm,1408,Bengkalis,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.97
+ipm,1409,Rokan Hilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.78
+ipm,1410,Kepulauan Meranti,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.28
+ipm,1471,Kota Pekanbaru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.38
+ipm,1473,Kota Dumai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.66
+ipm,1500,<b>JAMBI</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.77
+ipm,1501,Kerinci,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.54
+ipm,1502,Merangin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.81
+ipm,1503,Sarolangun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.29
+ipm,1504,Batang Hari,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.02
+ipm,1505,Muaro Jambi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.04
+ipm,1506,Tanjung Jabung Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.65
+ipm,1507,Tanjung Jabung Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.35
+ipm,1508,Tebo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.63
+ipm,1509,Bungo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.06
+ipm,1571,Kota Jambi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.15
+ipm,1572,Kota Sungai Penuh,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.65
+ipm,1600,<b>SUMATERA SELATAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.62
+ipm,1601,Ogan Komering Ulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.01
+ipm,1602,Ogan Komering Ilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.65
+ipm,1603,Muara Enim,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.24
+ipm,1604,Lahat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.1
+ipm,1605,Musi Rawas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.26
+ipm,1606,Musi Banyuasin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.17
+ipm,1607,Banyu Asin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.65
+ipm,1608,Ogan Komering Ulu Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.67
+ipm,1609,Ogan Komering Ulu Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.96
+ipm,1610,Ogan Ilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.76
+ipm,1611,Empat Lawang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.68
+ipm,1612,Penukal Abab Lematang Ilir,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.64
+ipm,1613,Musi Rawas Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.6
+ipm,1671,Kota Palembang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.02
+ipm,1672,Kota Prabumulih,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.46
+ipm,1673,Kota Pagar Alam,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.45
+ipm,1674,Kota Lubuklinggau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.19
+ipm,1700,<b>BENGKULU</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.78
+ipm,1701,Bengkulu Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.91
+ipm,1702,Rejang Lebong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.31
+ipm,1703,Bengkulu Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.28
+ipm,1704,Kaur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.38
+ipm,1705,Seluma,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.27
+ipm,1706,Mukomuko,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.97
+ipm,1707,Lebong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.71
+ipm,1708,Kepahiang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.6
+ipm,1709,Bengkulu Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.99
+ipm,1771,Kota Bengkulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.45
+ipm,1800,<b>LAMPUNG</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.15
+ipm,1801,Lampung Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.11
+ipm,1802,Tanggamus,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.86
+ipm,1803,Lampung Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.63
+ipm,1804,Lampung Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.21
+ipm,1805,Lampung Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.6
+ipm,1806,Lampung Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.95
+ipm,1807,Way Kanan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.63
+ipm,1808,Tulangbawang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.02
+ipm,1809,Pesawaran,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.67
+ipm,1810,Pringsewu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.61
+ipm,1811,Mesuji,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.64
+ipm,1812,Tulang Bawang Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.81
+ipm,1813,Pesisir Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.0
+ipm,1871,Kota Bandar Lampung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.56
+ipm,1872,Kota Metro,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.36
+ipm,1900,<b>KEP. BANGKA BELITUNG</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.85
+ipm,1901,Bangka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.66
+ipm,1902,Belitung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.02
+ipm,1903,Bangka Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.45
+ipm,1904,Bangka Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.71
+ipm,1905,Bangka Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.51
+ipm,1906,Belitung Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.86
+ipm,1971,Kota Pangkal Pinang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.93
+ipm,2100,<b>KEPULAUAN RIAU</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.11
+ipm,2101,Karimun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.51
+ipm,2102,Bintan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.7
+ipm,2103,Natuna,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.21
+ipm,2104,Lingga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.44
+ipm,2105,Kepulauan Anambas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.26
+ipm,2171,Kota Batam,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.11
+ipm,2172,Kota Tanjung Pinang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.23
+ipm,3100,<b>DKI JAKARTA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.46
+ipm,3101,Kep. Seribu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.39
+ipm,3171,Kota Jakarta Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,86.07
+ipm,3172,Kota Jakarta Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,84.13
+ipm,3173,Kota Jakarta Pusat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.53
+ipm,3174,Kota Jakarta Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,83.02
+ipm,3175,Kota Jakarta Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.11
+ipm,3200,<b>JAWA BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.74
+ipm,3201,Bogor,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.78
+ipm,3202,Sukabumi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.49
+ipm,3203,Cianjur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.55
+ipm,3204,Bandung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.74
+ipm,3205,Garut,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.11
+ipm,3206,Tasikmalaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.76
+ipm,3207,Ciamis,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.05
+ipm,3208,Kuningan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.72
+ipm,3209,Cirebon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.95
+ipm,3210,Majalengka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.13
+ipm,3211,Sumedang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.18
+ipm,3212,Indramayu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.25
+ipm,3213,Subang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.7
+ipm,3214,Purwakarta,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.09
+ipm,3215,Karawang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.35
+ipm,3216,Bekasi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.76
+ipm,3217,Bandung Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.61
+ipm,3218,Pangandaran,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.38
+ipm,3271,Kota Bogor,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.85
+ipm,3272,Kota Sukabumi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.32
+ipm,3273,Kota Bandung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,83.04
+ipm,3274,Kota Cirebon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.46
+ipm,3275,Kota Bekasi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,83.03
+ipm,3276,Kota Depok,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.38
+ipm,3277,Kota Cimahi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.46
+ipm,3278,Kota Tasikmalaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.47
+ipm,3279,Kota Banjar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.08
+ipm,3300,<b>JAWA TENGAH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.39
+ipm,3301,Cilacap,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.83
+ipm,3302,Banyumas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.86
+ipm,3303,Purbalingga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.24
+ipm,3304,Banjarnegara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.14
+ipm,3305,Kebumen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.37
+ipm,3306,Purworejo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.28
+ipm,3307,Wonosobo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.37
+ipm,3308,Magelang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.45
+ipm,3309,Boyolali,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.41
+ipm,3310,Klaten,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.59
+ipm,3311,Sukoharjo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.65
+ipm,3312,Wonogiri,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.97
+ipm,3313,Karanganyar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.31
+ipm,3314,Sragen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.1
+ipm,3315,Grobogan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.49
+ipm,3316,Blora,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.63
+ipm,3317,Rembang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.89
+ipm,3318,Pati,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.59
+ipm,3319,Kudus,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.71
+ipm,3320,Jepara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.85
+ipm,3321,Demak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.07
+ipm,3322,Semarang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.13
+ipm,3323,Temanggung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.33
+ipm,3324,Kendal,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.86
+ipm,3325,Batang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.2
+ipm,3326,Pekalongan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.4
+ipm,3327,Pemalang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.03
+ipm,3328,Tegal,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.23
+ipm,3329,Brebes,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.95
+ipm,3371,Kota Magelang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.17
+ipm,3372,Kota Surakarta,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,83.54
+ipm,3373,Kota Salatiga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,84.99
+ipm,3374,Kota Semarang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,84.43
+ipm,3375,Kota Pekalongan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.71
+ipm,3376,Kota Tegal,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.02
+ipm,3400,<b>D I YOGYAKARTA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.07
+ipm,3401,Kulon Progo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.79
+ipm,3402,Bantul,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.39
+ipm,3403,Gunung Kidul,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.24
+ipm,3404,Sleman,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,84.77
+ipm,3471,Kota Yogyakarta,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,88.28
+ipm,3500,<b>JAWA TIMUR<b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.38
+ipm,3501,Pacitan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.19
+ipm,3502,Ponorogo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.5
+ipm,3503,Trenggalek,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.73
+ipm,3504,Tulungagung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.61
+ipm,3505,Blitar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.49
+ipm,3506,Kediri,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.96
+ipm,3507,Malang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.16
+ipm,3508,Lumajang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.87
+ipm,3509,Jember,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.64
+ipm,3510,Banyuwangi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.61
+ipm,3511,Bondowoso,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.99
+ipm,3512,Situbondo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.16
+ipm,3513,Probolinggo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.79
+ipm,3514,Pasuruan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.29
+ipm,3515,Sidoarjo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.55
+ipm,3516,Mojokerto,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.53
+ipm,3517,Jombang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.6
+ipm,3518,Nganjuk,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.71
+ipm,3519,Madiun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.97
+ipm,3520,Magetan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.41
+ipm,3521,Ngawi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.47
+ipm,3522,Bojonegoro,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.85
+ipm,3523,Tuban,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.34
+ipm,3524,Lamongan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.53
+ipm,3525,Gresik,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.98
+ipm,3526,Bangkalan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.75
+ipm,3527,Sampang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,64.13
+ipm,3528,Pamekasan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.96
+ipm,3529,Sumenep,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.61
+ipm,3571,Kota Kediri,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.44
+ipm,3572,Kota Blitar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.63
+ipm,3573,Kota Malang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,83.39
+ipm,3574,Kota Probolinggo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.43
+ipm,3575,Kota Pasuruan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.17
+ipm,3576,Kota Mojokerto,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.07
+ipm,3577,Kota Madiun,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.71
+ipm,3578,Kota Surabaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,83.45
+ipm,3579,Kota Batu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.18
+ipm,3600,<b>BANTEN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.87
+ipm,3601,Pandeglang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.42
+ipm,3602,Lebak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.21
+ipm,3603,Tangerang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.43
+ipm,3604,Serang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.39
+ipm,3671,Kota Tangerang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.46
+ipm,3672,Kota Cilegon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.54
+ipm,3673,Kota Serang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.48
+ipm,3674,Kota Tangerang Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.28
+ipm,5100,<b>BALI</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.1
+ipm,5101,Jembrana,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.04
+ipm,5102,Tabanan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.43
+ipm,5103,Badung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,83.08
+ipm,5104,Gianyar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.24
+ipm,5105,Klungkung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.11
+ipm,5106,Bangli,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.79
+ipm,5107,Karangasem,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.91
+ipm,5108,Buleleng,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.97
+ipm,5171,Kota Denpasar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,84.73
+ipm,5200,<b>NUSA TENGGARA BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.2
+ipm,5201,Lombok Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.15
+ipm,5202,Lombok Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.4
+ipm,5203,Lombok Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.41
+ipm,5204,Sumbawa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.87
+ipm,5205,Dompu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.98
+ipm,5206,Bima,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.28
+ipm,5207,Sumbawa Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.17
+ipm,5208,Lombok Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.62
+ipm,5271,Kota Mataram,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.09
+ipm,5272,Kota Bima,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.36
+ipm,5300,<b>NUSA TENGGARA TIMUR</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.68
+ipm,5301,Sumba Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.22
+ipm,5302,Sumba Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.05
+ipm,5303,Kupang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.82
+ipm,5304,Timor Tengah Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.58
+ipm,5305,Timor Tengah Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.16
+ipm,5306,Belu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.83
+ipm,5307,Alor,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,62.99
+ipm,5308,Lembata,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.12
+ipm,5309,Flores Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.79
+ipm,5310,Sikka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.89
+ipm,5311,Ende,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.63
+ipm,5312,Ngada,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.14
+ipm,5313,Manggarai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.42
+ipm,5314,Rote Ndao,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,64.0
+ipm,5315,Manggarai Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.81
+ipm,5316,Sumba Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.48
+ipm,5317,Sumba Barat Daya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.74
+ipm,5318,Nagekeo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.07
+ipm,5319,Manggarai Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.24
+ipm,5320,Sabu Raijua,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,58.89
+ipm,5321,Malaka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,62.06
+ipm,5371,Kota Kupang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.62
+ipm,6100,<b>KALIMANTAN BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.41
+ipm,6101,Sambas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.69
+ipm,6102,Bengkayang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.53
+ipm,6103,Landak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.14
+ipm,6104,Mempawah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.92
+ipm,6105,Sanggau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.77
+ipm,6106,Ketapang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.68
+ipm,6107,Sintang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.67
+ipm,6108,Kapuas Hulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.67
+ipm,6109,Sekadau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.33
+ipm,6110,Melawi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.76
+ipm,6111,Kayong Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,64.79
+ipm,6112,Kubu Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.6
+ipm,6171,Kota Pontianak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.03
+ipm,6172,Kota Singkawang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.39
+ipm,6200,<b>KALIMANTAN TENGAH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.2
+ipm,6201,Kotawaringin Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.04
+ipm,6202,Kotawaringin Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.21
+ipm,6203,Kapuas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.75
+ipm,6204,Barito Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.65
+ipm,6205,Barito Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.84
+ipm,6206,Sukamara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.44
+ipm,6207,Lamandau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.81
+ipm,6208,Seruyan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.68
+ipm,6209,Katingan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.28
+ipm,6210,Pulang Pisau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.6
+ipm,6211,Gunung Mas,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.09
+ipm,6212,Barito Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.7
+ipm,6213,Murung Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.42
+ipm,6271,Kota Palangka Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.68
+ipm,6300,<b>KALIMANTAN SELATAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.5
+ipm,6301,Tanah Laut,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.98
+ipm,6302,Kotabaru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.18
+ipm,6303,Banjar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.46
+ipm,6304,Barito Kuala,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.11
+ipm,6305,Tapin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.0
+ipm,6306,Hulu Sungai Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.5
+ipm,6307,Hulu Sungai Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.13
+ipm,6308,Hulu Sungai Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.66
+ipm,6309,Tabalong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.85
+ipm,6310,Tanah Bumbu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.31
+ipm,6311,Balangan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.49
+ipm,6371,Kota Banjarmasin,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.5
+ipm,6372,Kota Banjar Baru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.11
+ipm,6400,<b>KALIMANTAN TIMUR</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.2
+ipm,6401,Paser,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.14
+ipm,6402,Kutai Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.72
+ipm,6403,Kutai Kartanegara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.3
+ipm,6404,Kutai Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.98
+ipm,6405,Berau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.21
+ipm,6409,Penajam Paser Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.3
+ipm,6411,Mahakam Ulu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.59
+ipm,6471,Kota Balikpapan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.66
+ipm,6472,Kota Samarinda,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.32
+ipm,6474,Kota Bontang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.56
+ipm,6500,<b>KALIMANTAN UTARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.49
+ipm,6501,Malinau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.19
+ipm,6502,Bulungan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.72
+ipm,6503,Tana Tidung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.2
+ipm,6504,Nunukan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.7
+ipm,6571,Kota Tarakan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.53
+ipm,7100,<b>SULAWESI UTARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.36
+ipm,7101,Bolaang Mongondow,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.62
+ipm,7102,Minahasa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,76.96
+ipm,7103,Kepulauan Sangihe,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.22
+ipm,7104,Kepulauan Talaud,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.14
+ipm,7105,Minahasa Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.66
+ipm,7106,Minahasa Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.31
+ipm,7107,Bolaang Mongondow Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.64
+ipm,7108,Siau Tagulandang Biaro,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.57
+ipm,7109,Minahasa Tenggara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.93
+ipm,7110,Bolaang Mongondow Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.4
+ipm,7111,Bolaang Mongondow Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.95
+ipm,7171,Kota Manado,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,80.14
+ipm,7172,Kota Bitung,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.11
+ipm,7173,Kota Tomohon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.1
+ipm,7174,Kota Kotamobagu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.43
+ipm,7200,<b>SULAWESI TENGAH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.95
+ipm,7201,Banggai Kepulauan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.82
+ipm,7202,Banggai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.7
+ipm,7203,Morowali,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.02
+ipm,7204,Poso,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.48
+ipm,7205,Donggala,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.95
+ipm,7206,Toli-Toli,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.66
+ipm,7207,Buol,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.57
+ipm,7208,Parigi Moutong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.11
+ipm,7209,Tojo Una-Una,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.39
+ipm,7210,Sigi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.93
+ipm,7211,Banggai Laut,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.93
+ipm,7212,Morowali Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.73
+ipm,7271,Kota Palu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.52
+ipm,7300,<b>SULAWESI SELATAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.46
+ipm,7301,Kepulauan Selayar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.2
+ipm,7302,Bulukumba,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.21
+ipm,7303,Bantaeng,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.57
+ipm,7304,Jeneponto,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.9
+ipm,7305,Takalar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.9
+ipm,7306,Gowa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.57
+ipm,7307,Sinjai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.92
+ipm,7308,Maros,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.63
+ipm,7309,Pangkajene dan Kepulauan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.59
+ipm,7310,Barru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.36
+ipm,7311,Bone,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.81
+ipm,7312,Soppeng,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.58
+ipm,7313,Wajo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.1
+ipm,7314,Sidenreng Rappang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.71
+ipm,7315,Pinrang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.84
+ipm,7316,Enrekang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.89
+ipm,7317,Luwu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.16
+ipm,7318,Tana Toraja,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.73
+ipm,7322,Luwu Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.34
+ipm,7325,Luwu Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.35
+ipm,7326,Toraja Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.23
+ipm,7371,Kota Makasar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,83.52
+ipm,7372,Kota Parepare,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.03
+ipm,7373,Kota Palopo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.45
+ipm,7400,<b>SULAWESI TENGGARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.79
+ipm,7401,Buton,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.12
+ipm,7402,Muna,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.16
+ipm,7403,Konawe,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.77
+ipm,7404,Kolaka,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,74.72
+ipm,7405,Konawe Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.32
+ipm,7406,Bombana,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.43
+ipm,7407,Wakatobi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.43
+ipm,7408,Kolaka Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.04
+ipm,7409,Buton Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.7
+ipm,7410,Konawe Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.71
+ipm,7411,Kolaka Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.57
+ipm,7412,Konawe Kepulauan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.32
+ipm,7413,Muna Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.13
+ipm,7414,Buton Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.83
+ipm,7415,Buton Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.15
+ipm,7471,Kota Kendari,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,84.85
+ipm,7472,Kota Baubau,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,77.52
+ipm,7500,<b>GORONTALO</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.45
+ipm,7501,Boalemo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.18
+ipm,7502,Gorontalo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.09
+ipm,7503,Pohuwato,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.15
+ipm,7504,Bone Bolango,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,71.51
+ipm,7505,Gorontalo Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.61
+ipm,7571,Kota Gorontalo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,78.64
+ipm,7600,<b>SULAWESI BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.55
+ipm,7601,Majene,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.62
+ipm,7602,Polewali Mandar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.59
+ipm,7603,Mamasa,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.83
+ipm,7604,Mamuju,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.61
+ipm,7605,Mamuju Utara / Pasangkayu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.11
+ipm,7606,Mamuju Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.45
+ipm,8100,<b>MALUKU</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.94
+ipm,8101,Maluku Tenggara Barat / Kepulauan Tanimbar,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,64.16
+ipm,8102,Maluku Tenggara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.57
+ipm,8103,Maluku Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.45
+ipm,8104,Buru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.56
+ipm,8105,Kepulauan Aru,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.01
+ipm,8106,Seram Bagian Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.56
+ipm,8107,Seram Bagian Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.82
+ipm,8108,Maluku Barat Daya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.93
+ipm,8109,Buru Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.23
+ipm,8171,Kota Ambon,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,82.06
+ipm,8172,Kota Tual,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.43
+ipm,8200,<b>MALUKU UTARA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.21
+ipm,8201,Halmahera Barat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.91
+ipm,8202,Halmahera Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.48
+ipm,8203,Kepulauan Sula,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.29
+ipm,8204,Halmahera Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.83
+ipm,8205,Halmahera Utara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.05
+ipm,8206,Halmahera Timur,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.82
+ipm,8207,Pulau Morotai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,64.73
+ipm,8208,Pulau Taliabu,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,62.31
+ipm,8271,Kota Ternate,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.35
+ipm,8272,Kota Tidore Kepulauan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.4
+ipm,9100,<b>PAPUA BARAT</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.16
+ipm,9101,Fakfak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.72
+ipm,9102,Kaimana,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.72
+ipm,9103,Teluk Wondama,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,61.67
+ipm,9104,Teluk Bintuni,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.0
+ipm,9105,Manokwari,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.21
+ipm,9106,Sorong Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.94
+ipm,9107,Sorong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.49
+ipm,9108,Raja Ampat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.26
+ipm,9109,Tambrauw,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,55.55
+ipm,9110,Maybrat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,61.29
+ipm,9111,Manokwari Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,61.55
+ipm,9112,Pegunungan Arfak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,57.82
+ipm,9171,Kota Sorong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.65
+ipm,9200,<b>PAPUA BARAT DAYA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.05
+ipm,9201,Raja Ampat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.26
+ipm,9202,Sorong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.49
+ipm,9203,Sorong Selatan,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.94
+ipm,9204,Maybrat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,61.29
+ipm,9205,Tambrauw,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,55.55
+ipm,9271,Kota Sorong,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,79.65
+ipm,9400,<b>PAPUA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.41
+ipm,9401,Merauke,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.19
+ipm,9402,Jayawijaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,60.5
+ipm,9403,Jayapura,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.5
+ipm,9404,Nabire,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.84
+ipm,9408,Kepulauan Yapen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,69.11
+ipm,9409,Biak Numfor,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.46
+ipm,9410,Paniai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,57.91
+ipm,9411,Puncak Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.81
+ipm,9412,Mimika,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.91
+ipm,9413,Boven Digoel,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.46
+ipm,9414,Mappi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,60.57
+ipm,9415,Asmat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,53.19
+ipm,9416,Yahukimo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,51.19
+ipm,9417,Pegunungan Bintang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,48.18
+ipm,9418,Tolikara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,51.48
+ipm,9419,Sarmi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,65.8
+ipm,9420,Keerom,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,68.08
+ipm,9426,Waropen,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,66.46
+ipm,9427,Supiori,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,64.61
+ipm,9428,Mamberamo Raya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,54.08
+ipm,9429,Nduga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,35.19
+ipm,9430,Lanny Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.56
+ipm,9431,Mamberamo Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.22
+ipm,9432,Yalimo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.87
+ipm,9433,Puncak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,44.59
+ipm,9434,Dogiyai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,56.7
+ipm,9435,Intan Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.19
+ipm,9436,Deiyai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,51.18
+ipm,9471,Kota Jayapura,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,81.14
+ipm,9500,<b>PAPUA SELATAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,67.27
+ipm,9501,Merauke,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,72.19
+ipm,9502,Boven Digoel,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,63.46
+ipm,9503,Mappi,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,60.57
+ipm,9504,Asmat,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,53.19
+ipm,9600,<b>PAPUA TENGAH</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,58.93
+ipm,9601,Mimika,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,75.91
+ipm,9602,Dogiyai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,56.7
+ipm,9603,Deiyai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,51.18
+ipm,9604,Nabire,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,70.84
+ipm,9605,Paniai,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,57.91
+ipm,9606,Intan Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.19
+ipm,9607,Puncak,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,44.59
+ipm,9608,Puncak Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.81
+ipm,9700,<b>PAPUA PEGUNUNGAN</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,52.45
+ipm,9701,Nduga,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,35.19
+ipm,9702,Jayawijaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,60.5
+ipm,9703,Lanny Jaya,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.56
+ipm,9704,Tolikara,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,51.48
+ipm,9705,Mamberamo Tengah,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.22
+ipm,9706,Yalimo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,50.87
+ipm,9707,Yahukimo,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,51.19
+ipm,9708,Pegunungan Bintang,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,48.18
+ipm,9999,<b>INDONESIA</b>,[Metode Baru] Indeks Pembangunan Manusia (IPM),,Tidak ada,2023,Tahun,73.55

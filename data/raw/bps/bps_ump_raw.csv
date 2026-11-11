@@ -1,0 +1,148 @@
+indicator,kode_prov,provinsi_raw,variabel,satuan,turunan_var,tahun,periode,nilai_raw
+ump,1,11 Aceh ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3932552
+ump,2,12 Sumatera Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3228949
+ump,3,13 Sumatera Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3182955
+ump,4,14 Riau ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3780495
+ump,5,15 Jambi ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3471497
+ump,6,16 Sumatera Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3942963
+ump,7,17 Bengkulu ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,2827250
+ump,8,18 Lampung ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3047734
+ump,9,19 Kepulauan Bangka Belitung ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,4035000
+ump,10,21 Kepulauan Riau ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3879520
+ump,11,31 DKI Jakarta ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,5729876
+ump,12,32 Jawa Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,2317601
+ump,13,33 Jawa Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,2327386
+ump,14,34 DI Yogyakarta ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,2417495
+ump,15,35 Jawa Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,2446880
+ump,16,36 Banten ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3100881
+ump,17,51 Bali ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3207459
+ump,18,52 Nusa Tenggara Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,2673861
+ump,19,53 Nusa Tenggara Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,2455898
+ump,20,61 Kalimantan Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3054552
+ump,21,62 Kalimantan Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3686138
+ump,22,63 Kalimantan Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3725000
+ump,23,64 Kalimantan Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3762431
+ump,24,65 Kalimantan Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3775243
+ump,25,71 Sulawesi Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,4002630
+ump,26,72 Sulawesi Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3179565
+ump,27,73 Sulawesi Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3921088
+ump,28,74 Sulawesi Tenggara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3306496
+ump,29,75 Gorontalo ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3405144
+ump,30,76 Sulawesi Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3315934
+ump,31,81 Maluku ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3334490
+ump,32,82 Maluku Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3510240
+ump,33,91 Papua Barat,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3841000
+ump,34,92 Papua Barat Daya ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,3766000
+ump,35,94 Papua,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,4436283
+ump,36,95 Papua Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,4508100
+ump,37,96 Papua Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,4285848
+ump,38,97 Papua Pegunungan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2026,Tahun,4508714
+ump,1,11 Aceh ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3685616
+ump,2,12 Sumatera Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2992559
+ump,3,13 Sumatera Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2994193
+ump,4,14 Riau ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3508776
+ump,5,15 Jambi ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3234535
+ump,6,16 Sumatera Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3681571
+ump,7,17 Bengkulu ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2670039
+ump,8,18 Lampung ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2893070
+ump,9,19 Kepulauan Bangka Belitung ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3876600
+ump,10,21 Kepulauan Riau ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3623654
+ump,11,31 DKI Jakarta ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,5396761
+ump,12,32 Jawa Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2191232
+ump,13,33 Jawa Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2169349
+ump,14,34 DI Yogyakarta ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2264081
+ump,15,35 Jawa Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2305985
+ump,16,36 Banten ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2905120
+ump,17,51 Bali ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2996561
+ump,18,52 Nusa Tenggara Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2602931
+ump,19,53 Nusa Tenggara Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2328970
+ump,20,61 Kalimantan Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2878286
+ump,21,62 Kalimantan Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3473621
+ump,22,63 Kalimantan Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3496195
+ump,23,64 Kalimantan Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3579314
+ump,24,65 Kalimantan Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3580160
+ump,25,71 Sulawesi Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3775425
+ump,26,72 Sulawesi Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,2915000
+ump,27,73 Sulawesi Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3657527
+ump,28,74 Sulawesi Tenggara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3073552
+ump,29,75 Gorontalo ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3221731
+ump,30,76 Sulawesi Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3104430
+ump,31,81 Maluku ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3141700
+ump,32,82 Maluku Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3408000
+ump,33,91 Papua Barat,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3615000
+ump,34,92 Papua Barat Daya ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,3614000
+ump,35,94 Papua,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,4285850
+ump,36,95 Papua Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,4285850
+ump,37,96 Papua Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2025,Tahun,4285848
+ump,1,11 Aceh ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3460672
+ump,2,12 Sumatera Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2809915
+ump,3,13 Sumatera Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2811449
+ump,4,14 Riau ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3294625
+ump,5,15 Jambi ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3037121
+ump,6,16 Sumatera Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3456874
+ump,7,17 Bengkulu ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2507079
+ump,8,18 Lampung ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2716497
+ump,9,19 Kepulauan Bangka Belitung ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3640000
+ump,10,21 Kepulauan Riau ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3402492
+ump,11,31 DKI Jakarta ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,5067381
+ump,12,32 Jawa Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2057495
+ump,13,33 Jawa Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2036947
+ump,14,34 DI Yogyakarta ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2125898
+ump,15,35 Jawa Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2165244
+ump,16,36 Banten ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2727812
+ump,17,51 Bali ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2813672
+ump,18,52 Nusa Tenggara Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2444067
+ump,19,53 Nusa Tenggara Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2186826
+ump,20,61 Kalimantan Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2702616
+ump,21,62 Kalimantan Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3261616
+ump,22,63 Kalimantan Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3282812
+ump,23,64 Kalimantan Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3360858
+ump,24,65 Kalimantan Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3361653
+ump,25,71 Sulawesi Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3545000
+ump,26,72 Sulawesi Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2736698
+ump,27,73 Sulawesi Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3434298
+ump,28,74 Sulawesi Tenggara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2885964
+ump,29,75 Gorontalo ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3025100
+ump,30,76 Sulawesi Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2914958
+ump,31,81 Maluku ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,2949953
+ump,32,82 Maluku Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3200000
+ump,33,91 Papua Barat,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,3393000
+ump,34,92 Papua Barat Daya ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,4024270
+ump,35,94 Papua,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,4024270
+ump,36,95 Papua Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,4024270
+ump,37,96 Papua Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,4024270
+ump,38,97 Papua Pegunungan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2024,Tahun,4024270
+ump,1,11 Aceh ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3413666
+ump,2,12 Sumatera Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2710494
+ump,3,13 Sumatera Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2742476
+ump,4,14 Riau ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3191663
+ump,5,15 Jambi ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2943033
+ump,6,16 Sumatera Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3404177
+ump,7,17 Bengkulu ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2418280
+ump,8,18 Lampung ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2633285
+ump,9,19 Kepulauan Bangka Belitung ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3498479
+ump,10,21 Kepulauan Riau ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3279194
+ump,11,31 DKI Jakarta ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,4901798
+ump,12,32 Jawa Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,1986670
+ump,13,33 Jawa Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,1958170
+ump,14,34 DI Yogyakarta ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,1981782
+ump,15,35 Jawa Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2040244
+ump,16,36 Banten ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2661280
+ump,17,51 Bali ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2713672
+ump,18,52 Nusa Tenggara Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2371407
+ump,19,53 Nusa Tenggara Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2123994
+ump,20,61 Kalimantan Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2608602
+ump,21,62 Kalimantan Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3181013
+ump,22,63 Kalimantan Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3149978
+ump,23,64 Kalimantan Timur ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3201396
+ump,24,65 Kalimantan Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3251703
+ump,25,71 Sulawesi Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3485000
+ump,26,72 Sulawesi Tengah ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2599546
+ump,27,73 Sulawesi Selatan ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3385145
+ump,28,74 Sulawesi Tenggara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2758985
+ump,29,75 Gorontalo ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2989350
+ump,30,76 Sulawesi Barat ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2871795
+ump,31,81 Maluku ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2812828
+ump,32,82 Maluku Utara ,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,2976720
+ump,33,91 Papua Barat,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3282000
+ump,35,94 Papua,Upah Minimum Provinsi (UMP) per Bulan Menurut Provinsi di Indonesia,rupiah,Tidak ada,2023,Tahun,3864696
