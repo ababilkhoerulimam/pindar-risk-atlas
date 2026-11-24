@@ -30,7 +30,7 @@ $$
 \text{TWP90} = \frac{\text{Macet}}{\text{Outstanding}} \times 100
 $$
 
-dari tabel kualitas pembiayaan OJK. Panel akhir berisi 38 provinsi dan 40 bulan (2023-01 sampai 2026-04); empat provinsi Papua baru hanya memiliki 22 bulan. Seluruh pekerjaan ada di satu notebook, `notebooks/pindar_risk_atlas.ipynb`, yang berjalan dari akuisisi data mentah sampai ekspor hasil.
+dari tabel kualitas pembiayaan OJK. Panel akhir berisi 38 provinsi dan 40 bulan (2023-01 sampai 2026-04); empat provinsi Papua baru hanya memiliki 22 bulan. Seluruh pekerjaan ada di satu notebook, `notebooks/pindar_risk_atlas.ipynb`, yang berjalan dari akuisisi data mentah sampai peta risiko provinsi. Alurnya digambar sebagai flowchart di awal notebook.
 
 ## Temuan utama
 
@@ -41,15 +41,16 @@ dari tabel kualitas pembiayaan OJK. Panel akhir berisi 38 provinsi dan 40 bulan 
 - **Hipotesis "portofolio muda" (H1) tidak terbukti sebagai penjelasan umum.** Koefisien pertumbuhan outstanding negatif tetapi tidak signifikan dan hilang saat empat provinsi Papua baru disertakan.
 - **Lonjakan Jakarta pada 2025-11 dan 2025-12 adalah satu peristiwa di segmen syariah**, bukan artefak pelaporan: macet syariah Jakarta naik dari 107 ke 1.333 miliar rupiah sementara segmen konvensional datar.
 - **Kolom turunan tabel OJK 144 tidak konsisten antarbulan** (jumlah antarprovinsi 73,39 pada 2025-03, 79,05 pada 2025-04, dan 0,846 pada 2025-05, padahal bulan lain 2,3 sampai 3,3), sehingga tidak dipakai.
+- **Peta risiko provinsi (bagian J).** Median TWP90 12 bulan terakhir dibagi tiga: 22 provinsi hijau (di bawah 2%), 11 kuning, dan 5 merah (NTB, Jawa Timur, DKI Jakarta, Jawa Barat, Kalimantan Utara). Empat provinsi (Gorontalo, Bali, Jawa Timur, Sulawesi Utara) diberi penanda kenaikan cepat. Hijau tidak berarti aman, karena banyak provinsi hijau berportofolio kecil dan muda. Ambang 2% dan 3% adalah pilihan penulis; ambang 1,5% dan 2,5% mengubah label 15 provinsi.
 
 Hubungan di atas berlaku di tingkat provinsi (n=38) dan bersifat asosiasi, bukan sebab-akibat. Daftar hipotesis yang belum diuji dan batasan lengkap ada di bagian F notebook.
 
 ## Struktur repositori
 
-- `notebooks/pindar_risk_atlas.ipynb`: notebook tunggal (bagian 0 dan A sampai I).
-- `data/raw/`: data mentah hasil akuisisi, dibagi per sumber (`ojk_xlsx`, `ojk_sjkpublic`, `ojk_directory`, `bps`, `playstore`).
+- `notebooks/pindar_risk_atlas.ipynb`: notebook tunggal (bagian 0 dan A sampai J).
+- `data/raw/`: data mentah hasil akuisisi, dibagi per sumber (`ojk_xlsx`, `ojk_sjkpublic`, `ojk_directory`, `bps`, `playstore`), ditambah `geo` (batas 38 provinsi untuk peta, lengkap dengan `SOURCE.md`).
 - `data/clean/`: delapan CSV hasil pembersihan, termasuk `master_pindar_panel_clean.csv`.
-- `artifacts/`: keluaran bagian G (tabel cluster, deret TWP90 nasional, grafik); terisi saat notebook dijalankan.
+- `artifacts/`: keluaran bagian G dan J (tabel cluster, deret TWP90 nasional, grafik pencar, label risiko per provinsi, peta PNG, dan peta HTML interaktif); terisi saat notebook dijalankan.
 - `LICENSE`: lisensi MIT.
 
 ## Cara menjalankan
@@ -60,7 +61,7 @@ Instal paket yang dipakai notebook:
 pip install pandas numpy scipy scikit-learn matplotlib openpyxl
 ```
 
-Buka `notebooks/pindar_risk_atlas.ipynb` di Jupyter atau VS Code, lalu jalankan semua sel (Run All) di kernel baru. Notebook bisa dibuka dari folder `notebooks/` maupun dari akar repositori. Pengujian lokal memakai Python 3.14, pandas 3.0, NumPy 2.5, SciPy 1.18, scikit-learn 1.9, Matplotlib 3.11, dan openpyxl 3.1; Run All memakan sekitar satu menit.
+Buka `notebooks/pindar_risk_atlas.ipynb` di Jupyter atau VS Code, lalu jalankan semua sel (Run All) di kernel baru. Notebook bisa dibuka dari folder `notebooks/` maupun dari akar repositori. Pengujian lokal memakai Python 3.14, pandas 3.0, NumPy 2.5, SciPy 1.18, scikit-learn 1.9, Matplotlib 3.11, dan openpyxl 3.1; Run All memakan 1 sampai 4 menit pada pengujian lokal (60 sampai 260 detik tergantung beban mesin; sel bootstrap dan uji kestabilan cluster paling lama).
 
 Catatan penting:
 
@@ -84,6 +85,7 @@ pip install requests beautifulsoup4 lxml curl_cffi pdfplumber google-play-scrape
 | BPS | 10 tabel sosial-ekonomi provinsi dan UMP Refnusa | 2023 sampai 2026, berbeda per indikator |
 | Play Store | aplikasi dan ulasan terbaru penyelenggara berizin | ulasan terbaru saja |
 | Satgas PASTI | daftar pinjol ilegal (PDF Oktober 2026) dan siaran pers | siaran pers sampai 2025-11 |
+| Batas provinsi | GeoJSON 38 provinsi dari repositori pihak ketiga (CC BY 4.0) | statis |
 
 Variabel BPS yang belum terbit untuk tahun terakhir diisi maju (forward-fill) per provinsi dan diberi flag `bps_ffill_annual_flag`; UMP Papua Pegunungan 2025 dipinjam dari Papua dan diberi flag `ump_imputed_flag`.
 
@@ -97,6 +99,7 @@ Variabel BPS yang belum terbit untuk tahun terakhir diisi maju (forward-fill) pe
 6. **Bagian F dan G, interpretasi dan ekspor.** Kesimpulan yang ditopang data, hipotesis, batasan, dan penyimpanan hasil.
 7. **Bagian H, validasi independen.** Rekonsiliasi dengan total nasional resmi, penurunan ulang dari tabel mentah, forensik lonjakan, dan uji sensitivitas.
 8. **Bagian I, uji H1.** Regresi panel dengan efek tetap provinsi dan bulan dan wild cluster bootstrap.
+9. **Bagian J, peta risiko.** Label hijau, kuning, dan merah per provinsi, ditampilkan sebagai gambar statis dan HTML interaktif mandiri.
 
 ## Batasan
 
@@ -108,4 +111,4 @@ Variabel BPS yang belum terbit untuk tahun terakhir diisi maju (forward-fill) pe
 
 ## Lisensi
 
-Dirilis di bawah lisensi MIT. Lihat berkas [LICENSE](LICENSE).
+Dirilis di bawah lisensi MIT. Lihat berkas [LICENSE](LICENSE). Batas provinsi di `data/raw/geo/` berlisensi CC BY 4.0 (atribusi: "Indonesia GeoJSON & TopoJSON Maps (38 Provinces)" oleh denyherianto); asal-usul batasnya tidak sepenuhnya jelas, lihat `data/raw/geo/SOURCE.md`.
