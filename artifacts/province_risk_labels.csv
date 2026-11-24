@@ -1,0 +1,39 @@
+province,twp90_median_12m,twp90_latest,outstanding_latest_miliar,change_vs_year_ago_pp,risk_label,latest_vs_year_ago_pp,rising,low_volume
+Aceh,0.919,1.389,176.74,0.299,hijau,0.254,False,True
+Bali,2.009,4.667,2201.037,3.148,kuning,3.372,True,False
+Banten,2.49,2.772,7130.216,0.047,kuning,0.2,False,False
+Bengkulu,2.048,2.706,584.05,0.375,kuning,0.81,False,False
+DI Yogyakarta,2.904,3.471,1363.359,0.271,kuning,0.44,False,False
+DKI Jakarta,3.523,3.468,13931.147,0.33,merah,0.339,False,False
+Gorontalo,1.648,8.301,517.067,6.135,hijau,6.503,True,False
+Jambi,2.197,2.32,1033.147,0.172,kuning,0.397,False,False
+Jawa Barat,3.229,3.342,24674.329,-0.22,merah,-0.14,False,False
+Jawa Tengah,2.791,3.446,8216.279,0.36,kuning,0.429,False,False
+Jawa Timur,3.609,5.858,11407.337,2.917,merah,2.88,True,False
+Kalimantan Barat,1.666,1.821,1091.193,0.13,hijau,0.293,False,False
+Kalimantan Selatan,2.189,2.275,1229.279,0.003,kuning,0.162,False,False
+Kalimantan Tengah,1.609,1.61,632.893,-0.355,hijau,-0.225,False,False
+Kalimantan Timur,1.653,1.682,1763.21,-0.356,hijau,-0.289,False,False
+Kalimantan Utara,3.204,1.47,170.857,1.145,merah,0.042,False,True
+Kepulauan Bangka Belitung,1.614,2.138,417.007,-0.189,hijau,0.15,False,True
+Kepulauan Riau,1.641,1.804,1325.986,-0.126,hijau,0.001,False,False
+Lampung,2.692,2.79,1652.799,-0.385,kuning,-0.11,False,False
+Maluku,0.842,1.026,282.434,0.031,hijau,0.154,False,True
+Maluku Utara,0.796,1.348,334.266,0.39,hijau,0.456,False,True
+Nusa Tenggara Barat,3.898,3.57,1035.043,-0.593,merah,-0.422,False,False
+Nusa Tenggara Timur,1.658,2.062,961.918,0.428,hijau,0.768,False,False
+Papua,1.318,1.569,232.228,-0.054,hijau,0.138,False,True
+Papua Barat,1.358,1.411,114.315,0.01,hijau,0.038,False,True
+Papua Barat Daya,0.954,1.09,34.833,-0.298,hijau,-0.254,False,True
+Papua Pegunungan,0.693,0.669,8.187,-0.732,hijau,-0.565,False,True
+Papua Selatan,1.196,1.173,23.412,0.021,hijau,0.066,False,True
+Papua Tengah,1.143,0.921,45.305,-0.49,hijau,-0.336,False,True
+Riau,1.774,2.102,1986.222,0.193,hijau,0.412,False,False
+Sulawesi Barat,1.26,1.569,279.916,0.058,hijau,0.253,False,True
+Sulawesi Selatan,1.665,1.953,2580.131,-0.005,hijau,0.171,False,False
+Sulawesi Tengah,1.662,2.083,775.993,0.193,hijau,0.383,False,False
+Sulawesi Tenggara,1.483,2.066,674.611,0.174,hijau,0.563,False,False
+Sulawesi Utara,2.215,3.645,1204.021,1.603,kuning,1.852,True,False
+Sumatera Barat,2.189,2.532,1488.757,-1.118,kuning,-0.718,False,False
+Sumatera Selatan,2.71,2.933,2200.831,-0.334,kuning,-0.029,False,False
+Sumatera Utara,1.847,2.411,3751.375,0.086,hijau,0.424,False,False
