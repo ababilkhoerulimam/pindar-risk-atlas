@@ -34,23 +34,21 @@ dari tabel kualitas pembiayaan OJK. Panel akhir berisi 38 provinsi dan 40 bulan 
 
 ## Temuan utama
 
-- **TWP90 adalah ciri provinsi yang cukup stabil.** 63% variansnya antarprovinsi.
-- **Provinsi dengan pasar lebih besar cenderung punya TWP90 lebih tinggi.** Spearman antara outstanding dan TWP90 pada 38 provinsi adalah 0,75 (CI bootstrap 95% 0,48 sampai 0,90). Hubungan ini tidak muncul di dalam provinsi dari waktu ke waktu (korelasi within-province sekitar 0,10), jadi ini perbedaan antarprovinsi yang stabil dan bukan bukti bahwa pertumbuhan pasar menaikkan gagal bayar.
-- **Kemiskinan berasosiasi negatif dengan TWP90** (Spearman -0,43), bukan nol: provinsi lebih miskin cenderung punya TWP90 lebih rendah.
-- **Dua kelompok kasar dengan batas lembek.** Dari clustering tanpa TWP90 sebagai fitur, 27 provinsi memiliki TWP90 median 2,20% dan 10 provinsi timur 1,13%. Silhouette 0,31 dan stabilitas 0,55 (ARI) menunjukkan gradien, dengan tujuh provinsi di perbatasan.
-- **Hipotesis "portofolio muda" (H1) tidak terbukti sebagai penjelasan umum.** Koefisien pertumbuhan outstanding negatif tetapi tidak signifikan dan hilang saat empat provinsi Papua baru disertakan.
-- **Lonjakan Jakarta pada 2025-11 dan 2025-12 adalah satu peristiwa di segmen syariah**, bukan artefak pelaporan: macet syariah Jakarta naik dari 107 ke 1.333 miliar rupiah sementara segmen konvensional datar.
-- **Kolom turunan tabel OJK 144 tidak konsisten antarbulan** (jumlah antarprovinsi 73,39 pada 2025-03, 79,05 pada 2025-04, dan 0,846 pada 2025-05, padahal bulan lain 2,3 sampai 3,3), sehingga tidak dipakai.
-- **Peta risiko provinsi (bagian J).** Median TWP90 12 bulan terakhir dibagi tiga: 22 provinsi hijau (di bawah 2%), 11 kuning, dan 5 merah (NTB, Jawa Timur, DKI Jakarta, Jawa Barat, Kalimantan Utara). Empat provinsi (Gorontalo, Bali, Jawa Timur, Sulawesi Utara) diberi penanda kenaikan cepat. Hijau tidak berarti aman, karena banyak provinsi hijau berportofolio kecil dan muda. Ambang 2% dan 3% adalah pilihan penulis; ambang 1,5% dan 2,5% mengubah label 15 provinsi.
+- **Provinsi dengan pasar lebih besar cenderung punya TWP90 lebih tinggi.** Spearman antara outstanding dan TWP90 pada 38 provinsi adalah 0,75 (p < 0,001); penduduk 0,67 dan akun aktif per 100 penduduk 0,62.
+- **Kemiskinan berasosiasi negatif dengan TWP90** (Spearman -0,43, p = 0,007): provinsi lebih miskin cenderung punya TWP90 lebih rendah.
+- **Dua kelompok provinsi dengan batas lembek.** Dari K-Means tanpa TWP90 sebagai fitur (k=2 dipilih dengan silhouette dan elbow, DKI Jakarta dikeluarkan), 27 provinsi memiliki TWP90 median 2,20% dan 10 provinsi timur 1,13%. Silhouette 0,31 menunjukkan struktur yang lemah.
+- **Dua kasus khusus.** DKI Jakarta punya penetrasi ekstrem dan lonjakan TWP90 sementara ke 11,6% pada 2025-11 dan 2025-12; NTB turun dari 6,50% (2023) ke 3,30% (2026) tetapi tetap tertinggi pada 12 bulan terakhir.
+- **Peta risiko provinsi (bagian H).** Median TWP90 12 bulan terakhir dibagi tiga: 22 provinsi hijau (di bawah 2%), 11 kuning, dan 5 merah (NTB, Jawa Timur, DKI Jakarta, Jawa Barat, Kalimantan Utara). Empat provinsi (Gorontalo, Bali, Jawa Timur, Sulawesi Utara) diberi penanda kenaikan cepat. Hijau tidak berarti aman, karena banyak provinsi hijau berportofolio kecil dan muda. Ambang 2% dan 3% adalah pilihan penulis; ambang 1,5% dan 2,5% mengubah label 15 provinsi.
 
-Hubungan di atas berlaku di tingkat provinsi (n=38) dan bersifat asosiasi, bukan sebab-akibat. Daftar hipotesis yang belum diuji dan batasan lengkap ada di bagian F notebook.
+Hubungan di atas berlaku di tingkat provinsi (n=38) dan bersifat asosiasi, bukan sebab-akibat. Batasan lengkap ada di bagian F notebook. Analisis lanjutan (forensik lonjakan Jakarta di segmen syariah, rekonsiliasi dengan total resmi, regresi panel untuk hipotesis portofolio muda, kestabilan cluster) ada di notebook lampiran.
 
 ## Struktur repositori
 
-- `notebooks/pindar_risk_atlas.ipynb`: notebook tunggal (bagian 0 dan A sampai J).
+- `notebooks/pindar_risk_atlas.ipynb`: notebook utama (bagian 0 dan A sampai H).
+- `notebooks/appendix_lanjutan.ipynb`: lampiran analisis lanjutan (L1 sampai L7); tidak diperlukan untuk hasil utama dan membaca `data/clean/` dari notebook utama.
 - `data/raw/`: data mentah hasil akuisisi, dibagi per sumber (`ojk_xlsx`, `ojk_sjkpublic`, `ojk_directory`, `bps`, `playstore`), ditambah `geo` (batas 38 provinsi untuk peta, lengkap dengan `SOURCE.md`).
 - `data/clean/`: delapan CSV hasil pembersihan, termasuk `master_pindar_panel_clean.csv`.
-- `artifacts/`: keluaran bagian G dan J (tabel cluster, deret TWP90 nasional, grafik pencar, label risiko per provinsi, peta PNG, dan peta HTML interaktif); terisi saat notebook dijalankan.
+- `artifacts/`: keluaran bagian G dan H (tabel cluster, deret TWP90 nasional, grafik pencar, label risiko per provinsi, peta PNG, dan peta HTML interaktif); terisi saat notebook dijalankan.
 - `LICENSE`: lisensi MIT.
 
 ## Cara menjalankan
@@ -61,11 +59,11 @@ Instal paket yang dipakai notebook:
 pip install pandas numpy scipy scikit-learn matplotlib openpyxl
 ```
 
-Buka `notebooks/pindar_risk_atlas.ipynb` di Jupyter atau VS Code, lalu jalankan semua sel (Run All) di kernel baru. Notebook bisa dibuka dari folder `notebooks/` maupun dari akar repositori. Pengujian lokal memakai Python 3.14, pandas 3.0, NumPy 2.5, SciPy 1.18, scikit-learn 1.9, Matplotlib 3.11, dan openpyxl 3.1; Run All memakan 1 sampai 4 menit pada pengujian lokal (60 sampai 260 detik tergantung beban mesin; sel bootstrap dan uji kestabilan cluster paling lama).
+Buka `notebooks/pindar_risk_atlas.ipynb` di Jupyter atau VS Code, lalu jalankan semua sel (Run All) di kernel baru. Notebook bisa dibuka dari folder `notebooks/` maupun dari akar repositori. Pengujian lokal memakai Python 3.14, pandas 3.0, NumPy 2.5, SciPy 1.18, scikit-learn 1.9, Matplotlib 3.11, dan openpyxl 3.1; Run All notebook utama memakan sekitar 30 sampai 60 detik; lampiran sekitar 2,5 menit (bootstrap dan uji kestabilan cluster paling lama).
 
 Catatan penting:
 
-- Notebook disimpan tanpa output. Menjalankannya menulis ulang `data/clean/` dan mengisi `artifacts/`. Master panel hasil jalan baru berisi 67 kolom; dua kolom penanda outlier dari versi awal sengaja dibuang.
+- Notebook disimpan beserta output. Menjalankannya menulis ulang `data/clean/` dan mengisi `artifacts/`. Master panel hasil jalan baru berisi 67 kolom; dua kolom penanda outlier dari versi awal sengaja dibuang.
 - Default `RUN_ACQUISITION = False`, sehingga bagian A membaca `data/raw/` dan tidak memakai jaringan. Untuk mengambil file yang hilang, set `RUN_ACQUISITION = True` dan pasang paket tambahan:
 
 ```bash
@@ -73,7 +71,7 @@ pip install requests beautifulsoup4 lxml curl_cffi pdfplumber google-play-scrape
 ```
 
   `FORCE_REFRESH = True` mengunduh ulang semua file. Scraper BPS memakai `BPS_NEXT_ACTION_ID` yang tertanam di kode dan akan gagal jika BPS mengganti build situsnya.
-- Pada pengujian, sel-sel dijalankan berurutan lewat skrip. Run All di kernel Jupyter belum diuji.
+- Kedua notebook sudah diuji dengan Run All di kernel baru.
 
 ## Data
 
@@ -93,17 +91,15 @@ Variabel BPS yang belum terbit untuk tahun terakhir diisi maju (forward-fill) pe
 
 1. **Bagian 0 dan A, akuisisi.** Setup, saklar akuisisi, dan pengambilan data mentah dari OJK, BPS, Play Store, dan Satgas PASTI, ditutup dengan kontrak jumlah file.
 2. **Bagian B, wrangling.** Harmonisasi 38 provinsi, penurunan TWP90 dari kualitas pembiayaan, penyambungan XLSX dengan SJKPublic, pembersihan BPS, dan master panel.
-3. **Bagian C, audit dan EDA.** Tren TWP90, outlier level dan lonjakan, serta porsi varians antarprovinsi.
-4. **Bagian D, korelasi.** Spearman antarprovinsi dengan CI bootstrap, korelasi parsial, dan korelasi within-province.
-5. **Bagian E, clustering.** K-means tanpa TWP90 sebagai fitur, pemilihan k dengan silhouette dan kestabilan subsampel.
-6. **Bagian F dan G, interpretasi dan ekspor.** Kesimpulan yang ditopang data, hipotesis, batasan, dan penyimpanan hasil.
-7. **Bagian H, validasi independen.** Rekonsiliasi dengan total nasional resmi, penurunan ulang dari tabel mentah, forensik lonjakan, dan uji sensitivitas.
-8. **Bagian I, uji H1.** Regresi panel dengan efek tetap provinsi dan bulan dan wild cluster bootstrap.
-9. **Bagian J, peta risiko.** Label hijau, kuning, dan merah per provinsi, ditampilkan sebagai gambar statis dan HTML interaktif mandiri.
+3. **Bagian C, audit dan EDA.** Tren TWP90, outlier level dan lonjakan bulanan, fitur turunan dan log, serta nilai BPS yang dibawa maju.
+4. **Bagian D, korelasi.** Snapshot 38 provinsi, VIF untuk membuang fitur yang saling menduplikasi, dan Spearman antarprovinsi dengan p-value.
+5. **Bagian E, clustering.** K-means tanpa TWP90 sebagai fitur, pemilihan k dengan elbow dan silhouette, profil cluster, dan kasus Jakarta dan NTB.
+6. **Bagian F dan G, interpretasi dan ekspor.** Kesimpulan, batasan, dan penyimpanan hasil.
+7. **Bagian H, peta risiko.** Label hijau, kuning, dan merah per provinsi, ditampilkan sebagai gambar statis dan HTML interaktif mandiri.
 
 ## Batasan
 
-- Hanya 38 provinsi, sehingga interval kepercayaan lebar dan struktur cluster lemah.
+- Hanya 38 provinsi, sehingga sampel kecil dan struktur cluster lemah.
 - Analisis ekologis: hubungan berlaku di tingkat provinsi, bukan peminjam.
 - Variabel sosial-ekonomi hampir statis, dan IPM 2025 dan 2026 serta kemiskinan dan PDRB 2026 adalah salinan tahun sebelumnya.
 - TWP90 2024-07 sampai 2024-10 dari SJKPublic berbeda dari workbook XLSX resmi (outstanding 1,1 sampai 1,8% lebih rendah), dan penyebabnya belum dapat dijelaskan.
