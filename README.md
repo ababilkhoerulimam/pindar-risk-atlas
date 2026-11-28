@@ -40,12 +40,11 @@ dari tabel kualitas pembiayaan OJK. Panel akhir berisi 38 provinsi dan 40 bulan 
 - **Dua kasus khusus.** DKI Jakarta punya penetrasi ekstrem dan lonjakan TWP90 sementara ke 11,6% pada 2025-11 dan 2025-12; NTB turun dari 6,50% (2023) ke 3,30% (2026) tetapi tetap tertinggi pada 12 bulan terakhir.
 - **Peta risiko provinsi (bagian H).** Median TWP90 12 bulan terakhir dibagi tiga: 22 provinsi hijau (di bawah 2%), 11 kuning, dan 5 merah (NTB, Jawa Timur, DKI Jakarta, Jawa Barat, Kalimantan Utara). Empat provinsi (Gorontalo, Bali, Jawa Timur, Sulawesi Utara) diberi penanda kenaikan cepat. Hijau tidak berarti aman, karena banyak provinsi hijau berportofolio kecil dan muda. Ambang 2% dan 3% adalah pilihan penulis; ambang 1,5% dan 2,5% mengubah label 15 provinsi.
 
-Hubungan di atas berlaku di tingkat provinsi (n=38) dan bersifat asosiasi, bukan sebab-akibat. Batasan lengkap ada di bagian F notebook. Analisis lanjutan (forensik lonjakan Jakarta di segmen syariah, rekonsiliasi dengan total resmi, regresi panel untuk hipotesis portofolio muda, kestabilan cluster) ada di notebook lampiran.
+Hubungan di atas berlaku di tingkat provinsi (n=38) dan bersifat asosiasi, bukan sebab-akibat. Batasan lengkap ada di bagian F notebook.
 
 ## Struktur repositori
 
 - `notebooks/pindar_risk_atlas.ipynb`: notebook utama (bagian 0 dan A sampai H).
-- `notebooks/appendix_lanjutan.ipynb`: lampiran analisis lanjutan (L1 sampai L7); tidak diperlukan untuk hasil utama dan membaca `data/clean/` dari notebook utama.
 - `data/raw/`: data mentah hasil akuisisi, dibagi per sumber (`ojk_xlsx`, `ojk_sjkpublic`, `ojk_directory`, `bps`, `playstore`), ditambah `geo` (batas 38 provinsi untuk peta, lengkap dengan `SOURCE.md`).
 - `data/clean/`: delapan CSV hasil pembersihan, termasuk `master_pindar_panel_clean.csv`.
 - `artifacts/`: keluaran bagian G dan H (tabel cluster, deret TWP90 nasional, grafik pencar, label risiko per provinsi, peta PNG, dan peta HTML interaktif); terisi saat notebook dijalankan.
@@ -59,7 +58,7 @@ Instal paket yang dipakai notebook:
 pip install pandas numpy scipy scikit-learn matplotlib openpyxl
 ```
 
-Buka `notebooks/pindar_risk_atlas.ipynb` di Jupyter atau VS Code, lalu jalankan semua sel (Run All) di kernel baru. Notebook bisa dibuka dari folder `notebooks/` maupun dari akar repositori. Pengujian lokal memakai Python 3.14, pandas 3.0, NumPy 2.5, SciPy 1.18, scikit-learn 1.9, Matplotlib 3.11, dan openpyxl 3.1; Run All notebook utama memakan sekitar 30 sampai 60 detik; lampiran sekitar 2,5 menit (bootstrap dan uji kestabilan cluster paling lama).
+Buka `notebooks/pindar_risk_atlas.ipynb` di Jupyter atau VS Code, lalu jalankan semua sel (Run All) di kernel baru. Notebook bisa dibuka dari folder `notebooks/` maupun dari akar repositori. Pengujian lokal memakai Python 3.14, pandas 3.0, NumPy 2.5, SciPy 1.18, scikit-learn 1.9, Matplotlib 3.11, dan openpyxl 3.1; Run All memakan sekitar 30 sampai 60 detik.
 
 Catatan penting:
 
@@ -71,7 +70,7 @@ pip install requests beautifulsoup4 lxml curl_cffi pdfplumber google-play-scrape
 ```
 
   `FORCE_REFRESH = True` mengunduh ulang semua file. Scraper BPS memakai `BPS_NEXT_ACTION_ID` yang tertanam di kode dan akan gagal jika BPS mengganti build situsnya.
-- Kedua notebook sudah diuji dengan Run All di kernel baru.
+- Notebook sudah diuji dengan Run All di kernel baru.
 
 ## Data
 
